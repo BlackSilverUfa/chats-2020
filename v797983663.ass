@@ -1895,7 +1895,7 @@ Dialogue: 1:36:28.21, 1:36:30.45, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}:
 Dialogue: 1:36:28.21, 1:36:30.45, Default, {\c&HFFFFFF&}captain_nonsub{\c&HFFFFFF&}: 3 минуты bufaHee
 Dialogue: 1:36:30.15, 1:36:32.69, Default, {\c&H7FFF00&}Kirara_7{\c&HFFFFFF&}: bufaChatSila bufaUL x⁣2 bufaChatSila
 Dialogue: 1:36:33.60, 1:36:35.84, Default, {\c&H20A5DA&}KorinKler{\c&HFFFFFF&}: bufaChatSila x⁣4
-; Dialogue: 1:36:35.54, 1:36:38.57, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NbufaChatSila BSUDance bufaChatSila BSUDance x⁣2 bufaChatSila \NBSUDance
+Dialogue: 1:36:35.54, 1:36:38.57, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NbufaChatSila BSUDance bufaChatSila BSUDance x⁣2 bufaChatSila \NBSUDance
 Dialogue: 1:36:39.34, 1:36:41.58, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}: bufaChatSila x⁣6
 Dialogue: 1:36:41.87, 1:36:44.35, Default, {\c&H20A5DA&}KOTxBop4yH{\c&HFFFFFF&}: самый быстрый битбоксер на твиче
 Dialogue: 1:36:42.06, 1:36:44.19, Default, {\c&HFF901E&}TotSamyiParen{\c&HFFFFFF&}: Clean x⁣4
@@ -1915,7 +1915,7 @@ Dialogue: 1:36:59.77, 1:37:02.01, Default, {\c&H0000FF&}DreamerGist{\c&HFFFFFF&}
 Dialogue: 1:37:02.17, 1:37:05.17, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: @Black_Stas я посмотрю, у тебя сегодня \Nигривое настроение? wlgSmile
 Dialogue: 1:37:04.03, 1:37:06.27, Default, {\c&H7FFF00&}Kirara_7{\c&HFFFFFF&}: bufaChatSila x⁣5
 Dialogue: 1:37:05.65, 1:37:07.89, Default, {\c&H008000&}derevo_31{\c&HFFFFFF&}: bufaChatSila x⁣8
-; Dialogue: 1:37:06.47, 1:37:09.50, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NbufaChatSila BSUDance bufaChatSila BSUDance x⁣3 bufaChatSila \NBSUDance
+Dialogue: 1:37:06.47, 1:37:09.50, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NbufaChatSila BSUDance bufaChatSila BSUDance x⁣3 bufaChatSila \NBSUDance
 Dialogue: 1:37:09.25, 1:37:11.49, Default, {\c&HFFFFFF&}sova_svetka{\c&HFFFFFF&}: bufaChatSila x⁣4
 Dialogue: 1:37:09.92, 1:37:12.16, Default, {\c&HFF0000&}Tanotavt{\c&HFFFFFF&}: bufaChatSila x⁣3
 Dialogue: 1:37:12.33, 1:37:15.36, Default, {\c&H7FFF00&}SaintCow{\c&HFFFFFF&}: bufaChatSila BSUDance bufaChatSila BSUDance x⁣2 \NbufaChatSila BSUDance
@@ -1926,7 +1926,7 @@ Dialogue: 1:37:19.07, 1:37:21.32, Default, {\c&H0000FF&}SegaMegaDraiver{\c&HFFFF
 Dialogue: 1:37:19.73, 1:37:21.97, Default, {\c&HFFFFFF&}propiarennaja_taburetka{\c&HFFFFFF&}: bufaChatSila x⁣3
 Dialogue: 1:37:23.89, 1:37:26.26, Default, {\c&HE22B8A&}VladdyMoses{\c&HFFFFFF&}: bufaChatSila bufaChatSila
 Dialogue: 1:37:26.70, 1:37:28.94, Default, {\c&H7FFF00&}LevRight{\c&HFFFFFF&}: bufaChatSila x⁣3
-; Dialogue: 1:37:28.35, 1:37:31.05, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NbufaChatSila BSUDance bufaChatSila BSUDance x⁣3
+Dialogue: 1:37:28.35, 1:37:31.05, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NbufaChatSila BSUDance bufaChatSila BSUDance x⁣3
 Dialogue: 1:37:28.77, 1:37:31.20, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}: @Kilka_v_Domkrate IndiCorn дя
 Dialogue: 1:37:31.93, 1:37:34.17, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}: bufaChatSila x⁣4
 Dialogue: 1:37:33.20, 1:37:35.38, Default, {\c&H008000&}derevo_31{\c&HFFFFFF&}: BSUFlick x⁣3
@@ -1937,7 +1937,7 @@ Dialogue: 1:37:51.77, 1:37:54.41, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFF
 Dialogue: 1:37:54.70, 1:37:57.09, Default, {\c&HFFFFFF&}captain_nonsub{\c&HFFFFFF&}: bufaHcrab bufaChatSila x⁣2
 Dialogue: 1:37:57.13, 1:37:59.32, Default, {\c&H0000FF&}Arlis69{\c&HFFFFFF&}: музыка хороша
 Dialogue: 1:38:03.65, 1:38:05.89, Default, {\c&H7FFF00&}boombadaboom{\c&HFFFFFF&}: bufaChatSila x⁣3
-; Dialogue: 1:38:03.85, 1:38:06.55, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NbufaChatSila BSUDance bufaChatSila BSUDance x⁣3
+Dialogue: 1:38:03.85, 1:38:06.55, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NbufaChatSila BSUDance bufaChatSila BSUDance x⁣3
 Dialogue: 1:38:09.45, 1:38:11.69, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}: bufaChatSila x⁣5
 Dialogue: 1:38:10.36, 1:38:12.88, Default, {\c&H7FFF00&}LevRight{\c&HFFFFFF&}: bufaChatSila Clean x⁣2 bufaChatSila
 Dialogue: 1:38:16.68, 1:38:19.34, Default, {\c&H507FFF&}NekoNic0le{\c&HFFFFFF&}: а куда стример делся, я отвлеклась PepoThink
@@ -1954,7 +1954,7 @@ Dialogue: 1:38:40.68, 1:38:43.26, Default, {\c&HB469FF&}Dragontid{\c&HFFFFFF&}: 
 Dialogue: 1:38:42.94, 1:38:45.31, Default, {\c&H20A5DA&}KOTxBop4yH{\c&HFFFFFF&}: какой у гг рог ниже пояса
 Dialogue: 1:38:44.09, 1:38:46.79, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: @nekonic0le, так он тут, ты не видишь? \NwlgSmile
 Dialogue: 1:38:54.25, 1:38:56.59, Default, {\c&HFF0000&}Tanotavt{\c&HFFFFFF&}: KEKLEO bufaChatSila x⁣3
-; Dialogue: 1:38:56.61, 1:38:59.31, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NbufaChatSila BSUDance bufaChatSila BSUDance x⁣3
+Dialogue: 1:38:56.61, 1:38:59.31, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NbufaChatSila BSUDance bufaChatSila BSUDance x⁣3
 Dialogue: 1:39:00.06, 1:39:02.72, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}: @Dragontid только чшшш, иначе раскроют Peka1
 Dialogue: 1:39:05.59, 1:39:07.83, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}: bufaChatSila x⁣6
 Dialogue: 1:39:09.65, 1:39:11.90, Default, {\c&H0000FF&}Arlis69{\c&HFFFFFF&}: CatoPog FluteTime
@@ -13868,7 +13868,7 @@ Dialogue: 8:09:21.00, 8:09:23.16, Default, {\c&H0000FF&}animo_o_{\c&HFFFFFF&}: o
 Dialogue: 8:09:21.43, 8:09:23.80, Default, {\c&HFFFFFF&}dead_m0ro3{\c&HFFFFFF&}: газ меньше дамажить будет
 ; Dialogue: 8:09:22.22, 8:09:27.22, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Новая расстановка эмоутов на канале! Подписчики с \NTier 2 и Tier 3 получают эксклюзивные наборы! В Tier 1 \Nвернулись Думгай и Дон Аптипо! https://twitter.com/Sempai_Bl\Nack/status/1286270026304151553/photo/1
 Dialogue: 8:09:22.91, 8:09:25.37, Default, {\c&HFF901E&}JackSirris{\c&HFFFFFF&}: Здравствуй, сабмод youmonsterHi
-; Dialogue: 8:09:25.25, 8:09:28.04, Default, {\c&H20A5DA&}Sir_Leonid1199{\c&HFFFFFF&}: \NPurpleStar PETTHEAPTEEPO PurpleStar PETTHEAPTEEPO x⁣3
+Dialogue: 8:09:25.25, 8:09:28.04, Default, {\c&H20A5DA&}Sir_Leonid1199{\c&HFFFFFF&}: \NPurpleStar PETTHEAPTEEPO PurpleStar PETTHEAPTEEPO x⁣3
 Dialogue: 8:09:25.65, 8:09:29.04, Default, {\c&HB469FF&}captain_of_all_cats{\c&HFFFFFF&}: без токсика спрашиваю, просто \Nинтересно: это вчерашний босс или перерыв был на другие \Nквесты?
 Dialogue: 8:09:26.69, 8:09:28.90, Default, {\c&HE22B8A&}22kseniae29{\c&HFFFFFF&}: PurpleStar x⁣5
 Dialogue: 8:09:27.64, 8:09:30.78, Default, {\c&HFFFFFF&}hitrojopiy_krolik{\c&HFFFFFF&}: @animo_o_ у тебя каждое сообщение душное, \Nфорточку открой или пойди пройдись
@@ -13877,7 +13877,7 @@ Dialogue: 8:09:31.07, 8:09:33.47, Default, {\c&HFFFFFF&}zeroyafa{\c&HFFFFFF&}: �
 Dialogue: 8:09:31.58, 8:09:34.33, Default, {\c&HFF901E&}Lil_Kitsun{\c&HFFFFFF&}: а если форточка открыта? чо открыть то? \NKojimaptyp
 Dialogue: 8:09:34.24, 8:09:36.88, Default, {\c&HFFFFFF&}gurgsar{\c&HFFFFFF&}: не, не норм вопрос. каждый играет как хочет
 Dialogue: 8:09:35.90, 8:09:38.11, Default, {\c&H0000FF&}TheKo1obOK_{\c&HFFFFFF&}: PurpleStar x⁣4
-; Dialogue: 8:09:36.28, 8:09:39.07, Default, {\c&H20A5DA&}Sir_Leonid1199{\c&HFFFFFF&}: \NPurpleStar PETTHEAPTEEPO PurpleStar PETTHEAPTEEPO x⁣3
+Dialogue: 8:09:36.28, 8:09:39.07, Default, {\c&H20A5DA&}Sir_Leonid1199{\c&HFFFFFF&}: \NPurpleStar PETTHEAPTEEPO PurpleStar PETTHEAPTEEPO x⁣3
 Dialogue: 8:09:37.20, 8:09:39.51, Default, {\c&H008000&}witch_green{\c&HFFFFFF&}: сколько уже ее месим?
 Dialogue: 8:09:37.86, 8:09:40.47, Default, {\c&H20A5DA&}KOTxBop4yH{\c&HFFFFFF&}: Артур просто тренируется перед выходом ДС
 Dialogue: 8:09:38.50, 8:09:41.25, Default, {\c&HFF901E&}Andrewshmen{\c&HFFFFFF&}: Меня банит бот когда я хочу поддержать \Nстримлера))
@@ -13898,7 +13898,7 @@ Dialogue: 8:09:52.24, 8:09:54.45, Default, {\c&HE22B8A&}22kseniae29{\c&HFFFFFF&}
 Dialogue: 8:09:52.32, 8:09:55.40, Default, {\c&HFFFFFF&}artkirrs{\c&HFFFFFF&}: А играл бы на среднем спрашивали бы чего так \Nлегко, а чего не на сложном
 Dialogue: 8:09:59.18, 8:10:02.42, Default, {\c&HFFFFFF&}TwitchBot238{\c&HFFFFFF&}: @Grubizo а какой кайф проходить его левой \Nногой переписываясь при этом в ВК/телеге?
 Dialogue: 8:10:01.34, 8:10:03.76, Default, {\c&HFFFFFF&}vekin_grum{\c&HFFFFFF&}: поддержка стримера Clean x⁣3
-; Dialogue: 8:10:01.35, 8:10:04.14, Default, {\c&H20A5DA&}Sir_Leonid1199{\c&HFFFFFF&}: \NPurpleStar PETTHEAPTEEPO PurpleStar PETTHEAPTEEPO x⁣3
+Dialogue: 8:10:01.35, 8:10:04.14, Default, {\c&H20A5DA&}Sir_Leonid1199{\c&HFFFFFF&}: \NPurpleStar PETTHEAPTEEPO PurpleStar PETTHEAPTEEPO x⁣3
 Dialogue: 8:10:03.19, 8:10:06.61, Default, {\c&H0000FF&}MrGutlya{\c&HFFFFFF&}: @grubizo, для некоторых кайф. выключаешь стрим, \Nвключаешь игру, ставишь нормал. профит Jebaited
 Dialogue: 8:10:03.50, 8:10:05.92, Default, {\c&HFF901E&}Andrewshmen{\c&HFFFFFF&}: PurpleStar PETTHEAPTEEPO x⁣3
 Dialogue: 8:10:04.09, 8:10:07.17, Default, {\c&HFFFFFF&}brujadeamor{\c&HFFFFFF&}: @captain_of_all_cats был перерыв, минут 5 \Nначали назад снова этого босса
@@ -13913,8 +13913,8 @@ Dialogue: 8:10:14.80, 8:10:17.05, Default, {\c&HFFFFFF&}vesna_zimu{\c&HFFFFFF&}:
 Dialogue: 8:10:15.73, 8:10:18.24, Default, {\c&H507FFF&}manetera{\c&HFFFFFF&}: укуси... её... за бочок KappaPride
 Dialogue: 8:10:15.91, 8:10:18.55, Default, {\c&HFF901E&}JackSirris{\c&HFFFFFF&}: @artacserocs, Ну дай помечтать jstCrazyTyan
 ; Dialogue: 8:10:16.82, 8:10:20.53, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Обычный донат - 100 руб/битов | Голосовой донат - \N500 руб/битов | Аццкий донат - 666 руб | ОСОБЫЙ ДОНАТ - 4221 \Nруб
-; Dialogue: 8:10:18.01, 8:10:20.80, Default, {\c&H7FFF00&}Hyperion457{\c&HFFFFFF&}: \NPurpleStar PETTHEAPTEEPO PurpleStar PETTHEAPTEEPO x⁣3
-; Dialogue: 8:10:20.83, 8:10:23.62, Default, {\c&H20A5DA&}Sir_Leonid1199{\c&HFFFFFF&}: \NPurpleStar PETTHEAPTEEPO PurpleStar PETTHEAPTEEPO x⁣3
+Dialogue: 8:10:18.01, 8:10:20.80, Default, {\c&H7FFF00&}Hyperion457{\c&HFFFFFF&}: \NPurpleStar PETTHEAPTEEPO PurpleStar PETTHEAPTEEPO x⁣3
+Dialogue: 8:10:20.83, 8:10:23.62, Default, {\c&H20A5DA&}Sir_Leonid1199{\c&HFFFFFF&}: \NPurpleStar PETTHEAPTEEPO PurpleStar PETTHEAPTEEPO x⁣3
 ; Dialogue: 8:10:21.24, 8:10:23.30, Default, {\c&HFFFFFF&}Kelliona{\c&HFFFFFF&}: !icq
 ; Dialogue: 8:10:21.89, 8:10:24.46, Default, {\c&H008000&}TheDrHaxBot{\c&HFFFFFF&}: @kelliona, у вас 119 ICQ (+9) BUFANerd
 Dialogue: 8:10:22.65, 8:10:24.72, Default, {\c&HFF0000&}grazagor{\c&HFFFFFF&}: ЦИРИ?
@@ -13929,7 +13929,7 @@ Dialogue: 8:10:31.98, 8:10:34.29, Default, {\c&HB469FF&}captain_of_all_cats{\c&H
 Dialogue: 8:10:32.70, 8:10:35.84, Default, {\c&HFFFFFF&}toxaworld_{\c&HFFFFFF&}: чат против перерывов, чат хочет смотреть на \Nодного босса весь стрим Kreygasm
 ; Dialogue: 8:10:32.86, 8:10:34.93, Default, {\c&HFFFFFF&}dead_m0ro3{\c&HFFFFFF&}: !кусь
 ; Dialogue: 8:10:33.12, 8:10:36.09, Default, {\c&H008000&}TheDrHaxBot{\c&HFFFFFF&}: пролезает сквозь текстуры и кусает @dead_m0ro3 \Nза ляжку PepeLaugh
-; Dialogue: 8:10:35.02, 8:10:38.07, Default, {\c&HFFFFFF&}vsrataja_cherepashka{\c&HFFFFFF&}: \NPurpleStar <3 PurpleStar <3 PurpleStar <3 x⁣2 PurpleStar <3 \NPurpleStar
+Dialogue: 8:10:35.02, 8:10:38.07, Default, {\c&HFFFFFF&}vsrataja_cherepashka{\c&HFFFFFF&}: \NPurpleStar <3 PurpleStar <3 PurpleStar <3 x⁣2 PurpleStar <3 \NPurpleStar
 ; Dialogue: 8:10:41.43, 8:10:43.73, Default, {\c&H0000FF&}darth_imperiius{\c&HFFFFFF&}: !кусь @pepa_na_diete
 ; Dialogue: 8:10:41.73, 8:10:44.93, Default, {\c&H008000&}TheDrHaxBot{\c&HFFFFFF&}: @darth_imperiius вылезает из вентиляции и \Nкусает @pepa_na_diete за нос dead5What
 Dialogue: 8:10:42.15, 8:10:44.51, Default, {\c&HFFFFFF&}lasha1{\c&HFFFFFF&}: Может дрыном-петровичем?
@@ -13937,12 +13937,12 @@ Dialogue: 8:10:44.16, 8:10:46.70, Default, {\c&HFFFFFF&}Artacserocs{\c&HFFFFFF&}
 Dialogue: 8:10:45.00, 8:10:47.55, Default, {\c&H20A5DA&}Sir_Leonid1199{\c&HFFFFFF&}: Чат, вдыхай пары и ставь щиты, БИСТРА
 Dialogue: 8:10:46.51, 8:10:48.93, Default, {\c&HFF901E&}Andrewshmen{\c&HFFFFFF&}: PurpleStar PETTHEAPTEEPO x⁣2
 Dialogue: 8:10:46.88, 8:10:50.03, Default, {\c&HFFFFFF&}Grubizo{\c&HFFFFFF&}: @TwitchBot238 ты наверн на изи ток и играешь раз \Nтакие подробности знаешь:DDD
-; Dialogue: 8:10:47.19, 8:10:49.98, Default, {\c&H20A5DA&}Sir_Leonid1199{\c&HFFFFFF&}: \NPurpleStar PETTHEAPTEEPO PurpleStar PETTHEAPTEEPO x⁣3
+Dialogue: 8:10:47.19, 8:10:49.98, Default, {\c&H20A5DA&}Sir_Leonid1199{\c&HFFFFFF&}: \NPurpleStar PETTHEAPTEEPO PurpleStar PETTHEAPTEEPO x⁣3
 Dialogue: 8:10:47.87, 8:10:50.35, Default, {\c&H7FFF00&}Infraider{\c&HFFFFFF&}: MercyWing1 PurpleStar MercyWing2
 Dialogue: 8:10:48.11, 8:10:50.33, Default, {\c&HA09E5F&}Ligein{\c&HFFFFFF&}: WutFace WutFace
 Dialogue: 8:10:49.42, 8:10:52.00, Default, {\c&H20A5DA&}diemas{\c&HFFFFFF&}: @Niko2212 меня всё более чем устраивает
 Dialogue: 8:10:50.95, 8:10:53.14, Default, {\c&H20A5DA&}ximera1234{\c&HFFFFFF&}: береги глазки
-; Dialogue: 8:10:51.84, 8:10:54.63, Default, {\c&H7FFF00&}Hyperion457{\c&HFFFFFF&}: \NPurpleStar PETTHEAPTEEPO PurpleStar PETTHEAPTEEPO x⁣3
+Dialogue: 8:10:51.84, 8:10:54.63, Default, {\c&H7FFF00&}Hyperion457{\c&HFFFFFF&}: \NPurpleStar PETTHEAPTEEPO PurpleStar PETTHEAPTEEPO x⁣3
 Dialogue: 8:10:53.85, 8:10:56.24, Default, {\c&HFFFFFF&}gurgsar{\c&HFFFFFF&}: реально душно в чате стало
 Dialogue: 8:10:53.94, 8:10:56.15, Default, {\c&HFFFFFF&}4itertroll{\c&HFFFFFF&}: PurpleStar x⁣7
 Dialogue: 8:10:54.83, 8:10:56.93, Default, {\c&H008000&}witch_green{\c&HFFFFFF&}: титьки!
@@ -13954,7 +13954,7 @@ Dialogue: 8:10:59.00, 8:11:01.18, Default, {\c&HFFFFFF&}FaustDarkness{\c&HFFFFFF
 Dialogue: 8:11:00.22, 8:11:02.64, Default, {\c&HFF901E&}Andrewshmen{\c&HFFFFFF&}: PurpleStar PETTHEAPTEEPO x⁣4
 Dialogue: 8:11:00.81, 8:11:03.02, Default, {\c&HE22B8A&}22kseniae29{\c&HFFFFFF&}: PurpleStar x⁣4
 Dialogue: 8:11:01.17, 8:11:03.38, Default, {\c&H0000FF&}TheKo1obOK_{\c&HFFFFFF&}: PurpleStar x⁣5
-; Dialogue: 8:11:01.99, 8:11:04.78, Default, {\c&H20A5DA&}Sir_Leonid1199{\c&HFFFFFF&}: \NPurpleStar PETTHEAPTEEPO PurpleStar PETTHEAPTEEPO x⁣3
+Dialogue: 8:11:01.99, 8:11:04.78, Default, {\c&H20A5DA&}Sir_Leonid1199{\c&HFFFFFF&}: \NPurpleStar PETTHEAPTEEPO PurpleStar PETTHEAPTEEPO x⁣3
 Dialogue: 8:11:03.03, 8:11:06.32, Default, {\c&H507FFF&}manetera{\c&HFFFFFF&}: PurpleStar SMOrc x⁣3 \NPurpleStar SMOrc PurpleStar SMOrc PurpleStar x⁣3 SMOrc \NPurpleStar
 Dialogue: 8:11:03.81, 8:11:05.99, Default, {\c&HFFFFFF&}arsyushkin{\c&HFFFFFF&}: вдыхать тити
 Dialogue: 8:11:05.11, 8:11:07.66, Default, {\c&HB469FF&}captain_of_all_cats{\c&HFFFFFF&}: чат, а чему внешность другая у героя?
@@ -13977,7 +13977,7 @@ Dialogue: 8:11:18.82, 8:11:21.01, Default, {\c&H0000FF&}Black7Graf{\c&HFFFFFF&}:
 Dialogue: 8:11:20.15, 8:11:22.48, Default, {\c&H7FFF00&}tarhankut{\c&HFFFFFF&}: держись PurpleStar x⁣3
 Dialogue: 8:11:20.75, 8:11:23.26, Default, {\c&H20A5DA&}KOTxBop4yH{\c&HFFFFFF&}: вот бы ее костяные топоры получить
 Dialogue: 8:11:20.89, 8:11:23.22, Default, {\c&HFFFFFF&}toxaworld_{\c&HFFFFFF&}: всмысле в полную силу?
-; Dialogue: 8:11:21.49, 8:11:24.28, Default, {\c&H20A5DA&}Sir_Leonid1199{\c&HFFFFFF&}: \NPurpleStar PETTHEAPTEEPO PurpleStar PETTHEAPTEEPO x⁣3
+Dialogue: 8:11:21.49, 8:11:24.28, Default, {\c&H20A5DA&}Sir_Leonid1199{\c&HFFFFFF&}: \NPurpleStar PETTHEAPTEEPO PurpleStar PETTHEAPTEEPO x⁣3
 Dialogue: 8:11:21.93, 8:11:24.77, Default, {\c&H008000&}too_lazy_for_this{\c&HFFFFFF&}: Стоп, я только щас понял, что голос \Nиногда на Цири похож
 Dialogue: 8:11:22.51, 8:11:24.72, Default, {\c&HFF0000&}blackoren56{\c&HFFFFFF&}: PurpleStar x⁣5
 Dialogue: 8:11:23.56, 8:11:26.79, Default, {\c&H507FFF&}manetera{\c&HFFFFFF&}: хватай её за титьки, что б ахнула PurpleStar SMOrc \Nx⁣2 PurpleStar PurpleStar SMOrc
@@ -13988,7 +13988,7 @@ Dialogue: 8:11:31.59, 8:11:33.78, Default, {\c&HFFFFFF&}Hasboro{\c&HFFFFFF&}: н
 Dialogue: 8:11:32.08, 8:11:34.33, Default, {\c&HFF901E&}Lil_Kitsun{\c&HFFFFFF&}: PETTHEAPTEEPO x⁣3
 Dialogue: 8:11:36.60, 8:11:39.11, Default, {\c&HB469FF&}Alleastra{\c&HFFFFFF&}: мой батя так же маме говорил Kappa
 Dialogue: 8:11:37.76, 8:11:41.54, Default, {\c&HFFFFFF&}Artacserocs{\c&HFFFFFF&}: KPOPcheer <3 KPOPcheer <3 x⁣2 KPOPcheer <3 <3 \N<3 KPOPcheer x⁣2 KPOPcheer KPOPcheer KPOPcheer <3 x⁣2 \NKPOPcheer KPOPcheer
-; Dialogue: 8:11:39.73, 8:11:42.90, Default, {\c&HFF901E&}Andrewshmen{\c&HFFFFFF&}: \NPurpleStar PETTHEAPTEEPO PurpleStar PETTHEAPTEEPO x⁣2 \NPurpleStar PETTHEAPTEEPO
+Dialogue: 8:11:39.73, 8:11:42.90, Default, {\c&HFF901E&}Andrewshmen{\c&HFFFFFF&}: \NPurpleStar PETTHEAPTEEPO PurpleStar PETTHEAPTEEPO x⁣2 \NPurpleStar PETTHEAPTEEPO
 Dialogue: 8:11:41.26, 8:11:43.35, Default, {\c&HFF901E&}ShavermaAR{\c&HFFFFFF&}: KEKLEO
 Dialogue: 8:11:41.46, 8:11:44.82, Default, {\c&HFFFFFF&}TwitchBot238{\c&HFFFFFF&}: @Grubizo смотрю пригорел, казуаль дальше на \Nнормале, не вижу смысла в диалоге с неадекватом
 Dialogue: 8:11:42.50, 8:11:44.66, Default, {\c&HFFFFFF&}BugiBygi{\c&HFFFFFF&}: хахааххааха
@@ -14013,7 +14013,7 @@ Dialogue: 8:11:52.93, 8:11:55.27, Default, {\c&H008000&}witch_green{\c&HFFFFFF&}
 Dialogue: 8:11:54.09, 8:11:56.18, Default, {\c&HFFFFFF&}snakomeister{\c&HFFFFFF&}: KEKLEO
 Dialogue: 8:11:54.39, 8:11:56.43, Default, {\c&HFFFFFF&}ivanravan{\c&HFFFFFF&}: LUL
 Dialogue: 8:11:54.53, 8:11:58.28, Default, {\c&HFFFFFF&}Grubizo{\c&HFFFFFF&}: @TwitchBot238 я вот 1 прохождение на нормале играю \Nесли игра понравилась дальше на самой сложном урв слоджности \Nиграю
-; Dialogue: 8:11:54.97, 8:11:57.76, Default, {\c&H20A5DA&}Sir_Leonid1199{\c&HFFFFFF&}: \NPurpleStar PETTHEAPTEEPO PurpleStar PETTHEAPTEEPO x⁣3
+Dialogue: 8:11:54.97, 8:11:57.76, Default, {\c&H20A5DA&}Sir_Leonid1199{\c&HFFFFFF&}: \NPurpleStar PETTHEAPTEEPO PurpleStar PETTHEAPTEEPO x⁣3
 Dialogue: 8:11:54.97, 8:11:57.43, Default, {\c&HFF0000&}Tanotavt{\c&HFFFFFF&}: Игра перетграла bufaLUL bufaLUL
 Dialogue: 8:11:58.93, 8:12:01.06, Default, {\c&HFFFFFF&}mokkaofficial{\c&HFFFFFF&}: Сохранись
 Dialogue: 8:11:59.46, 8:12:01.70, Default, {\c&HFF901E&}JackSirris{\c&HFFFFFF&}: jstCrazyTyan x⁣4
@@ -14134,7 +14134,7 @@ Dialogue: 8:15:21.27, 8:15:23.66, Default, {\c&HFFFFFF&}jokernautjo{\c&HFFFFFF&}
 ; Dialogue: 8:15:23.81, 8:15:26.35, Default, {\c&H008000&}TheDrHaxBot{\c&HFFFFFF&}: @reyvver, у вас 70 ICQ (+50) pepeJAM
 Dialogue: 8:15:25.70, 8:15:28.27, Default, {\c&HFFFFFF&}TwitchBot238{\c&HFFFFFF&}: @Anatoliy_Gamer я ему давно не отвечаю
 Dialogue: 8:15:29.28, 8:15:31.52, Default, {\c&H0000FF&}animo_o_{\c&HFFFFFF&}: А Кооп тут есть?
-; Dialogue: 8:15:30.40, 8:15:33.57, Default, {\c&H20A5DA&}Sir_Leonid1199{\c&HFFFFFF&}: \NPurpleStar PETTHEAPTEEPO PurpleStar PETTHEAPTEEPO x⁣3 \NPurpleStar PETTHEAPTEEPO
+Dialogue: 8:15:30.40, 8:15:33.57, Default, {\c&H20A5DA&}Sir_Leonid1199{\c&HFFFFFF&}: \NPurpleStar PETTHEAPTEEPO PurpleStar PETTHEAPTEEPO x⁣3 \NPurpleStar PETTHEAPTEEPO
 ; Dialogue: 8:15:33.24, 8:15:35.55, Default, {\c&HFF901E&}Lil_Kitsun{\c&HFFFFFF&}: !кусь @capmfire_games
 ; Dialogue: 8:15:33.54, 8:15:36.72, Default, {\c&H008000&}TheDrHaxBot{\c&HFFFFFF&}: @lil_kitsun выбирается из горящего танка и \Nкусает @capmfire_games за шею Pepega
 Dialogue: 8:15:34.16, 8:15:37.06, Default, {\c&HFF901E&}JackSirris{\c&HFFFFFF&}: @captain_of_all_cats, Не только внешность, но и \Nпол bufaOops
@@ -14161,14 +14161,14 @@ Dialogue: 8:16:14.60, 8:16:16.79, Default, {\c&HB469FF&}Alleastra{\c&HFFFFFF&}: 
 Dialogue: 8:16:15.06, 8:16:17.12, Default, {\c&H578B2E&}trava_ne_narkotik_{\c&HFFFFFF&}: сися
 Dialogue: 8:16:15.99, 8:16:18.11, Default, {\c&HFFFFFF&}lam0te{\c&HFFFFFF&}: О сиська
 Dialogue: 8:16:19.33, 8:16:21.54, Default, {\c&HE22B8A&}22kseniae29{\c&HFFFFFF&}: PurpleStar x⁣4
-; Dialogue: 8:16:20.88, 8:16:23.67, Default, {\c&H20A5DA&}Sir_Leonid1199{\c&HFFFFFF&}: \NPurpleStar PETTHEAPTEEPO PurpleStar PETTHEAPTEEPO x⁣3
+Dialogue: 8:16:20.88, 8:16:23.67, Default, {\c&H20A5DA&}Sir_Leonid1199{\c&HFFFFFF&}: \NPurpleStar PETTHEAPTEEPO PurpleStar PETTHEAPTEEPO x⁣3
 Dialogue: 8:16:20.91, 8:16:23.13, Default, {\c&HFFFFFF&}no_crosshair{\c&HFFFFFF&}: Ля какая девуля
 Dialogue: 8:16:21.00, 8:16:23.09, Default, {\c&HFFFFFF&}Hasboro{\c&HFFFFFF&}: титька
 Dialogue: 8:16:22.39, 8:16:25.39, Default, {\c&HFFFFFF&}vsrataja_cherepashka{\c&HFFFFFF&}: PurpleStar <3 PurpleStar \NPurpleStar <3 PurpleStar <3 x⁣2 PurpleStar
 Dialogue: 8:16:26.61, 8:16:29.01, Default, {\c&HFFFFFF&}FaustDarkness{\c&HFFFFFF&}: вырывай NotLikeThis WutFace
 Dialogue: 8:16:33.77, 8:16:36.29, Default, {\c&HFF901E&}JackSirris{\c&HFFFFFF&}: @witch_green, В инвентаре jstMoshna
 Dialogue: 8:16:33.93, 8:16:36.63, Default, {\c&HFF901E&}Lil_Kitsun{\c&HFFFFFF&}: loliTriggered звуки агрессивного вдыхания паров
-; Dialogue: 8:16:34.28, 8:16:37.07, Default, {\c&H20A5DA&}Sir_Leonid1199{\c&HFFFFFF&}: \NPurpleStar PETTHEAPTEEPO PurpleStar PETTHEAPTEEPO x⁣3
+Dialogue: 8:16:34.28, 8:16:37.07, Default, {\c&H20A5DA&}Sir_Leonid1199{\c&HFFFFFF&}: \NPurpleStar PETTHEAPTEEPO PurpleStar PETTHEAPTEEPO x⁣3
 Dialogue: 8:16:35.39, 8:16:37.64, Default, {\c&HFF901E&}ShavermaAR{\c&HFFFFFF&}: PETTHEAPTEEPO x⁣3
 Dialogue: 8:16:35.74, 8:16:37.95, Default, {\c&H0000FF&}TheKo1obOK_{\c&HFFFFFF&}: PurpleStar x⁣4
 Dialogue: 8:16:36.35, 8:16:38.50, Default, {\c&H008000&}witch_green{\c&HFFFFFF&}: тити Kappa
@@ -14379,7 +14379,7 @@ Dialogue: 8:22:52.30, 8:22:54.51, Default, {\c&HFFFFFF&}4itertroll{\c&HFFFFFF&}:
 Dialogue: 8:22:52.75, 8:22:54.99, Default, {\c&HFFFFFF&}SantaJuggernaut{\c&HFFFFFF&}: Бей ей в титьку!
 Dialogue: 8:22:57.13, 8:22:59.49, Default, {\c&H5200CC&}EthMastare{\c&HFFFFFF&}: Победная? PogChamp ДАВАЙ
 Dialogue: 8:22:59.50, 8:23:01.66, Default, {\c&H7FFF00&}tarhankut{\c&HFFFFFF&}: время сисек
-; Dialogue: 8:23:00.78, 8:23:03.95, Default, {\c&H20A5DA&}Sir_Leonid1199{\c&HFFFFFF&}: \NPurpleStar PETTHEAPTEEPO PurpleStar PETTHEAPTEEPO x⁣3 \NPurpleStar PETTHEAPTEEPO
+Dialogue: 8:23:00.78, 8:23:03.95, Default, {\c&H20A5DA&}Sir_Leonid1199{\c&HFFFFFF&}: \NPurpleStar PETTHEAPTEEPO PurpleStar PETTHEAPTEEPO x⁣3 \NPurpleStar PETTHEAPTEEPO
 ; Dialogue: 8:23:09.17, 8:23:11.42, Default, {\c&H0505ED&}Ladart{\c&HFFFFFF&}: !кусь @digitocene
 ; Dialogue: 8:23:09.45, 8:23:12.53, Default, {\c&H008000&}TheDrHaxBot{\c&HFFFFFF&}: @ladart выбирается из горящего танка и кусает \N@digitocene за ICQ Aptisha
 ; Dialogue: 8:23:10.66, 8:23:12.72, Default, {\c&HFFFFFF&}roxynt{\c&HFFFFFF&}: !icq
@@ -14388,7 +14388,7 @@ Dialogue: 8:23:12.66, 8:23:14.96, Default, {\c&HFFFFFF&}Balykin{\c&HFFFFFF&}: П
 Dialogue: 8:23:12.93, 8:23:15.21, Default, {\c&HFF0000&}Tanotavt{\c&HFFFFFF&}: Clean pepeSmack x⁣4
 Dialogue: 8:23:13.55, 8:23:15.76, Default, {\c&H578B2E&}trava_ne_narkotik_{\c&HFFFFFF&}: хватай за сисю
 Dialogue: 8:23:14.64, 8:23:17.48, Default, {\c&H0000FF&}MrGutlya{\c&HFFFFFF&}: @fin_herr_inmaas, в оригине точно чего то было с \Nмиффами
-; Dialogue: 8:23:15.40, 8:23:18.57, Default, {\c&H7FFF00&}Hyperion457{\c&HFFFFFF&}: \NPurpleStar PETTHEAPTEEPO PurpleStar PETTHEAPTEEPO x⁣3 \NPurpleStar PETTHEAPTEEPO
+Dialogue: 8:23:15.40, 8:23:18.57, Default, {\c&H7FFF00&}Hyperion457{\c&HFFFFFF&}: \NPurpleStar PETTHEAPTEEPO PurpleStar PETTHEAPTEEPO x⁣3 \NPurpleStar PETTHEAPTEEPO
 Dialogue: 8:23:17.80, 8:23:20.05, Default, {\c&HFF901E&}ShavermaAR{\c&HFFFFFF&}: PETTHEAPTEEPO x⁣3
 Dialogue: 8:23:17.99, 8:23:20.12, Default, {\c&HFFFFFF&}el_pastikusto{\c&HFFFFFF&}: pepeSmack
 Dialogue: 8:23:18.27, 8:23:20.48, Default, {\c&HE22B8A&}22kseniae29{\c&HFFFFFF&}: PurpleStar x⁣4
@@ -14445,7 +14445,7 @@ Dialogue: 8:24:20.05, 8:24:22.35, Default, {\c&HFFFFFF&}roxynt{\c&HFFFFFF&}: Bla
 Dialogue: 8:24:21.43, 8:24:23.64, Default, {\c&HFFFFFF&}mefazim{\c&HFFFFFF&}: PurpleStar x⁣7
 Dialogue: 8:24:23.00, 8:24:25.43, Default, {\c&H0000FF&}GbiRBbiLDbi{\c&HFFFFFF&}: peepoT коротыш победит peepoT
 Dialogue: 8:24:23.67, 8:24:25.83, Default, {\c&HFF0000&}Tanotavt{\c&HFFFFFF&}: Продолжайте
-; Dialogue: 8:24:24.49, 8:24:27.66, Default, {\c&H7FFF00&}Hyperion457{\c&HFFFFFF&}: \NPurpleStar PETTHEAPTEEPO PurpleStar PETTHEAPTEEPO x⁣3 \NPurpleStar PETTHEAPTEEPO
+Dialogue: 8:24:24.49, 8:24:27.66, Default, {\c&H7FFF00&}Hyperion457{\c&HFFFFFF&}: \NPurpleStar PETTHEAPTEEPO PurpleStar PETTHEAPTEEPO x⁣3 \NPurpleStar PETTHEAPTEEPO
 Dialogue: 8:24:24.72, 8:24:26.94, Default, {\c&HFFFFFF&}s1mplen1ck{\c&HFFFFFF&}: лаки получается
 Dialogue: 8:24:24.75, 8:24:26.96, Default, {\c&H507FFF&}megalloDOON{\c&HFFFFFF&}: PurpleStar x⁣5
 Dialogue: 8:24:25.42, 8:24:27.52, Default, {\c&HB469FF&}captain_of_all_cats{\c&HFFFFFF&}: почти!!
@@ -14474,7 +14474,7 @@ Dialogue: 8:24:41.39, 8:24:43.61, Default, {\c&HFF0000&}Tanotavt{\c&HFFFFFF&}: b
 Dialogue: 8:24:43.07, 8:24:45.28, Default, {\c&HFFFFFF&}Artacserocs{\c&HFFFFFF&}: KPOPcheer x⁣12
 Dialogue: 8:24:44.28, 8:24:46.62, Default, {\c&HFFFFFF&}el_pastikusto{\c&HFFFFFF&}: pepeSmack PETTHEAPTEEPO
 Dialogue: 8:24:47.13, 8:24:49.22, Default, {\c&H5200CC&}EthMastare{\c&HFFFFFF&}: ЭТО ЧЕ
-; Dialogue: 8:24:48.16, 8:24:51.33, Default, {\c&H20A5DA&}Sir_Leonid1199{\c&HFFFFFF&}: \NPurpleStar PETTHEAPTEEPO PurpleStar PETTHEAPTEEPO x⁣3 \NPurpleStar PETTHEAPTEEPO
+Dialogue: 8:24:48.16, 8:24:51.33, Default, {\c&H20A5DA&}Sir_Leonid1199{\c&HFFFFFF&}: \NPurpleStar PETTHEAPTEEPO PurpleStar PETTHEAPTEEPO x⁣3 \NPurpleStar PETTHEAPTEEPO
 Dialogue: 8:24:49.82, 8:24:51.89, Default, {\c&HFFFFFF&}just_a_dream_spb{\c&HFFFFFF&}: ахаха
 Dialogue: 8:24:51.07, 8:24:53.62, Default, {\c&H0000FF&}S4D_DRE4D{\c&HFFFFFF&}: Ребят а что за дропсы расскажите плз)
 Dialogue: 8:24:51.25, 8:24:53.35, Default, {\c&H20A5DA&}diemas{\c&HFFFFFF&}: WutFace

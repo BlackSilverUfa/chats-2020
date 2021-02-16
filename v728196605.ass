@@ -195,7 +195,7 @@ Dialogue: 0:01:37.84, 0:01:40.00, Default, {\c&HFFFFFF&}ermanbo{\c&HFFFFFF&}: bu
 Dialogue: 0:01:38.06, 0:01:40.34, Default, {\c&HFFFFFF&}paralepticus{\c&HFFFFFF&}: ResidentSleeper x⁣4
 Dialogue: 0:01:38.07, 0:01:40.20, Default, {\c&H7FFF00&}es85{\c&HFFFFFF&}: KEKW KEKW
 Dialogue: 0:01:39.56, 0:01:42.55, Default, {\c&HFFFFFF&}Icee_Bitee{\c&HFFFFFF&}: Только хотела сказать "Эксперимент, очевидно, \Nнеудачный" (c) Kappa
-Dialogue: 0:01:40.25, 0:01:44.33, Default, {\c&HFF995B&}StreamElements{\c&HFFFFFF&}: BlackUFA is now live! Streaming Marvel's \NAvengers: Marvel's Avengers | Мстители. Новая игра про \Nсупергероев. Основано на реальных событиях!
+; Dialogue: 0:01:40.25, 0:01:44.33, Default, {\c&HFF995B&}StreamElements{\c&HFFFFFF&}: BlackUFA is now live! Streaming Marvel's \NAvengers: Marvel's Avengers | Мстители. Новая игра про \Nсупергероев. Основано на реальных событиях!
 Dialogue: 0:01:40.27, 0:01:42.30, Default, {\c&HFFFFFF&}wolf_rock{\c&HFFFFFF&}: ф?
 Dialogue: 0:01:42.75, 0:01:44.78, Default, {\c&HFFFFFF&}vaspull{\c&HFFFFFF&}: F?
 Dialogue: 0:01:43.65, 0:01:45.71, Default, {\c&H2222B2&}Bonikular{\c&HFFFFFF&}: алло
@@ -374,7 +374,7 @@ Dialogue: 0:02:39.34, 0:02:42.06, Default, {\c&HFFFFFF&}bsoderror{\c&HFFFFFF&}: 
 Dialogue: 0:02:41.92, 0:02:44.04, Default, {\c&HFFFFFF&}fali1412{\c&HFFFFFF&}: чат врёт
 Dialogue: 0:02:45.99, 0:02:48.59, Default, {\c&HFFFFFF&}k21hu{\c&HFFFFFF&}: Меч? серьезно? Он там совсем эбби-нутый?
 Dialogue: 0:02:46.96, 0:02:49.12, Default, {\c&HFF901E&}Peepo_Mayor{\c&HFFFFFF&}: LUL тайминг
-Dialogue: 0:02:51.19, 0:02:54.15, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Подписка для мобильных зрителей: \Nhttps://subs.twitch.tv/blackufa
+; Dialogue: 0:02:51.19, 0:02:54.15, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Подписка для мобильных зрителей: \Nhttps://subs.twitch.tv/blackufa
 Dialogue: 0:02:53.84, 0:02:56.27, Default, {\c&H008000&}Zer0_One_{\c&HFFFFFF&}: Бюджетный Бог Войны EleGiggle
 Dialogue: 0:02:54.84, 0:02:57.14, Default, {\c&HFFFFFF&}vsrataja_cherepashka{\c&HFFFFFF&}: а цифры отключаются?
 Dialogue: 0:02:55.67, 0:02:57.97, Default, {\c&H20A5DA&}Znak_yaits{\c&HFFFFFF&}: по яйцам ему напинай
@@ -523,14 +523,14 @@ Dialogue: 0:06:59.52, 0:07:01.79, Default, {\c&HFFFFFF&}redkitsunezx{\c&HFFFFFF&
 Dialogue: 0:07:03.48, 0:07:05.87, Default, {\c&HFF901E&}GraciSL{\c&HFFFFFF&}: @white_msk драатути Pepega
 Dialogue: 0:07:03.56, 0:07:05.90, Default, {\c&HB469FF&}sionzer{\c&HFFFFFF&}: наташе над водки налить
 Dialogue: 0:07:04.20, 0:07:06.81, Default, {\c&H008000&}Zer0_One_{\c&HFFFFFF&}: God Of War для бедных EleGiggle @BlackUFA
-Dialogue: 0:07:05.41, 0:07:07.48, Default, {\c&HFF901E&}GraciSL{\c&HFFFFFF&}: !time
-Dialogue: 0:07:05.66, 0:07:08.39, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Передаем в СВЧ-диапазоне уже 7 minutes 17 seconds
+; Dialogue: 0:07:05.41, 0:07:07.48, Default, {\c&HFF901E&}GraciSL{\c&HFFFFFF&}: !time
+; Dialogue: 0:07:05.66, 0:07:08.39, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Передаем в СВЧ-диапазоне уже 7 minutes 17 seconds
 Dialogue: 0:07:05.79, 0:07:09.44, Default, {\c&HFFFFFF&}Wolfalike6{\c&HFFFFFF&}: Wolfalike6 subscribed at Tier 1. They've \Nsubscribed for 16 months, currently on a 16 month streak! Ну \NНаташа..
 Dialogue: 0:07:06.16, 0:07:08.77, Default, {\c&HFF0000&}mr_nonsab{\c&HFFFFFF&}: Самый никчемный перс - увы, наташа... LUL
 Dialogue: 0:07:06.64, 0:07:08.94, Default, {\c&HFFFFFF&}Spagettimonstr{\c&HFFFFFF&}: Ну, Наташа не Тор...
 Dialogue: 0:07:07.32, 0:07:09.33, Default, {\c&HFFFFFF&}Rustorque{\c&HFFFFFF&}: F
 Dialogue: 0:07:08.14, 0:07:11.13, Default, {\c&H0000FF&}natsu2dragnil{\c&HFFFFFF&}: @ArtGamesLP Привет Тема artgamesHeheboi \NartgamesLove artgamesClaws
-Dialogue: 0:07:08.99, 0:07:11.06, Default, {\c&H0045FF&}Anatoliy_Gamer{\c&HFFFFFF&}: !time
+; Dialogue: 0:07:08.99, 0:07:11.06, Default, {\c&H0045FF&}Anatoliy_Gamer{\c&HFFFFFF&}: !time
 Dialogue: 0:07:09.03, 0:07:11.18, Default, {\c&HFFFFFF&}1annexa1{\c&HFFFFFF&}: wlgLul x⁣3
 Dialogue: 0:07:09.11, 0:07:11.21, Default, {\c&H008000&}kowkamurr{\c&HFFFFFF&}: KEKWait
 Dialogue: 0:07:09.20, 0:07:11.29, Default, {\c&HFFFFFF&}MorionDK{\c&HFFFFFF&}: SoRage
@@ -639,7 +639,7 @@ Dialogue: 0:07:50.55, 0:07:52.70, Default, {\c&HFFFFFF&}BUeBU_{\c&HFFFFFF&}: д�
 Dialogue: 0:07:50.94, 0:07:53.25, Default, {\c&HB469FF&}Dragontid{\c&HFFFFFF&}: чет тяжеловато стриму
 Dialogue: 0:07:50.98, 0:07:53.13, Default, {\c&H0000FF&}northwind_4{\c&HFFFFFF&}: Опять F(((
 Dialogue: 0:07:51.22, 0:07:53.44, Default, {\c&HFFFFFF&}kotya_iz_nonsabii{\c&HFFFFFF&}: KEKWait как так
-Dialogue: 0:07:51.54, 0:07:54.20, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Бери Мстителей здесь! https://bit.ly/2EJvfO8
+; Dialogue: 0:07:51.54, 0:07:54.20, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Бери Мстителей здесь! https://bit.ly/2EJvfO8
 Dialogue: 0:07:52.29, 0:07:54.44, Default, {\c&H32CD9A&}Rogue_Monro{\c&HFFFFFF&}: Ну блээээн
 Dialogue: 0:07:52.90, 0:07:55.51, Default, {\c&H20A5DA&}Znak_yaits{\c&HFFFFFF&}: bigBossSalut наташ вставай мы всё сломали
 Dialogue: 0:07:53.01, 0:07:55.22, Default, {\c&H0000FF&}sanguinec{\c&HFFFFFF&}: HyperGravity F

@@ -51,7 +51,7 @@ Dialogue: 0:00:54.01, 0:00:56.10, Default, {\c&HE22B8A&}SinHi{\c&HFFFFFF&}: popC
 ; Dialogue: 0:00:54.48, 0:00:56.67, Default, {\c&HE22B8A&}Yaktoshtop{\c&HFFFFFF&}: !шар ты овал?
 ; Dialogue: 0:00:54.76, 0:00:57.51, Default, {\c&H008000&}TheDrHaxBot{\c&HFFFFFF&}: @yaktoshtop, вероятность КРАЙНЕ мала \NWeirdChamping
 Dialogue: 0:00:56.13, 0:00:58.31, Default, {\c&HFFFFFF&}Sanacan{\c&HFFFFFF&}: всем привет!
-; Dialogue: 0:00:57.27, 0:01:00.08, Default, {\c&HFF0000&}cka3o4hblu_kom{\c&HFFFFFF&}: \NПоползень popCat Поползень popCat Поползень popCat x⁣3
+Dialogue: 0:00:57.27, 0:01:00.08, Default, {\c&HFF0000&}cka3o4hblu_kom{\c&HFFFFFF&}: \NПоползень popCat Поползень popCat Поползень popCat x⁣3
 Dialogue: 0:00:59.57, 0:01:01.75, Default, {\c&H0000FF&}Retlif{\c&HFFFFFF&}: bufaLove x⁣4
 Dialogue: 0:01:00.03, 0:01:02.19, Default, {\c&HE22B8A&}Yaktoshtop{\c&HFFFFFF&}: 2020Rivalry
 Dialogue: 0:01:00.41, 0:01:02.57, Default, {\c&HFFFFFF&}Nevsky_0{\c&HFFFFFF&}: HeyGuys x⁣3
@@ -155,7 +155,7 @@ Dialogue: 0:02:43.91, 0:02:46.33, Default, {\c&HFF0000&}StrimanSSSS{\c&HFFFFFF&}
 Dialogue: 0:02:44.21, 0:02:46.40, Default, {\c&HE22B8A&}Yaktoshtop{\c&HFFFFFF&}: PETTHEAPTEEPO
 Dialogue: 0:02:44.21, 0:02:46.54, Default, {\c&HFFFFFF&}temnik99{\c&HFFFFFF&}: Привет чач PetThePeepo
 Dialogue: 0:02:44.35, 0:02:46.51, Default, {\c&HFFFFFF&}la_gu_ro{\c&HFFFFFF&}: привет всем
-; Dialogue: 0:02:44.36, 0:02:47.36, Default, {\c&HFF0000&}mr_nonsab{\c&HFFFFFF&}: \NbleedPurple TheIlluminati bleedPurple TheIlluminati x⁣2 \NbleedPurple
+Dialogue: 0:02:44.36, 0:02:47.36, Default, {\c&HFF0000&}mr_nonsab{\c&HFFFFFF&}: \NbleedPurple TheIlluminati bleedPurple TheIlluminati x⁣2 \NbleedPurple
 Dialogue: 0:02:44.79, 0:02:47.40, Default, {\c&H0000FF&}zTHUNDERSTORM{\c&HFFFFFF&}: Yes popCat No popCat Yes popCat No popCat
 Dialogue: 0:02:45.71, 0:02:47.86, Default, {\c&H0000FF&}Tanotavt{\c&HFFFFFF&}: BSUJam x⁣6
 Dialogue: 0:02:45.76, 0:02:48.13, Default, {\c&H0000FF&}Matt_Jeevas_001{\c&HFFFFFF&}: Лучшая заставка. bufa4221
@@ -7314,7 +7314,7 @@ Dialogue: 1:58:07.01, 1:58:09.41, Default, {\c&H7FFF00&}SERGUNINs{\c&HFFFFFF&}: 
 Dialogue: 1:58:07.31, 1:58:09.68, Default, {\c&H0000FF&}NoRFoLk_RF{\c&HFFFFFF&}: оооо, музоон, ностальгия)
 ; Dialogue: 1:58:07.73, 1:58:10.30, Default, {\c&H008000&}TheDrHaxBot{\c&HFFFFFF&}: @ateronf, у вас 138 ICQ (+84) Sherlock
 Dialogue: 1:58:07.92, 1:58:10.07, Default, {\c&HE22B8A&}TheDrHax{\c&HFFFFFF&}: TaBeRu x⁣3
-; Dialogue: 1:58:08.90, 1:58:11.90, Default, {\c&H32CD9A&}SmokeyMonstr{\c&HFFFFFF&}: \NKreygasm TaBeRu Kreygasm TaBeRu Kreygasm TaBeRu x⁣3 Kreygasm \NTaBeRu
+Dialogue: 1:58:08.90, 1:58:11.90, Default, {\c&H32CD9A&}SmokeyMonstr{\c&HFFFFFF&}: \NKreygasm TaBeRu Kreygasm TaBeRu Kreygasm TaBeRu x⁣3 Kreygasm \NTaBeRu
 Dialogue: 1:58:10.13, 1:58:12.22, Default, {\c&H0000FF&}YuraDaim{\c&HFFFFFF&}: TaBeRu
 Dialogue: 1:58:10.25, 1:58:12.43, Default, {\c&HE22B8A&}ShumsterArt{\c&HFFFFFF&}: bufaLove x⁣3
 ; Dialogue: 1:58:11.01, 1:58:13.07, Default, {\c&H7FFF00&}boombadaboom{\c&HFFFFFF&}: !icq
@@ -17327,7 +17327,7 @@ Dialogue: 6:13:42.18, 6:13:44.64, Default, {\c&H0000FF&}ex739{\c&HFFFFFF&}: +г�
 Dialogue: 6:13:46.43, 6:13:49.75, Default, {\c&H2222B2&}SyrnikMan{\c&HFFFFFF&}: @Golova_Bolit нажми на кнопку, ну что же ты не \Nрад, все столбы успели опуститься BSURage
 Dialogue: 6:13:47.06, 6:13:49.76, Default, {\c&H20A5DA&}Dronya96{\c&HFFFFFF&}: Артур, спасибо тебе, я теперь повысил свое Айку
 ; Dialogue: 6:13:58.12, 6:14:00.21, Default, {\c&HFFFFFF&}0lilililil0{\c&HFFFFFF&}: !время
-; Dialogue: 6:13:58.62, 6:14:01.38, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/HelplessLittleFishPicoMause
+Dialogue: 6:13:58.62, 6:14:01.38, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/HelplessLittleFishPicoMause
 ; Dialogue: 6:14:08.27, 6:14:10.34, Default, {\c&H0045FF&}Anatoliy_Gamer{\c&HFFFFFF&}: !time
 ; Dialogue: 6:14:08.33, 6:14:10.64, Default, {\c&HFFFFFF&}captain_nonsub{\c&HFFFFFF&}: !шар Артур или Дамир?
 ; Dialogue: 6:14:08.52, 6:14:11.39, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Передаем в СВЧ-диапазоне уже 6 hours 14 minutes 21 \Nseconds

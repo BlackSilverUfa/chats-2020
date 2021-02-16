@@ -2212,7 +2212,7 @@ Dialogue: 0:33:59.79, 0:34:03.00, Default, {\c&H7FFF00&}Arhiteck{\c&HFFFFFF&}: @
 Dialogue: 0:34:01.20, 0:34:03.29, Default, {\c&HE22B8A&}TheDrHax{\c&HFFFFFF&}: TaBeRu
 Dialogue: 0:34:01.39, 0:34:03.48, Default, {\c&HB469FF&}TsurumiYuri{\c&HFFFFFF&}: TaBeRu
 Dialogue: 0:34:02.87, 0:34:05.17, Default, {\c&H7FFF00&}dark_eastwood{\c&HFFFFFF&}: Эннио BibleThump x⁣5
-; Dialogue: 0:34:03.15, 0:34:06.15, Default, {\c&H0000FF&}bornintheuniverse{\c&HFFFFFF&}: \NDMCA PepoDance DMCA PepoDance DMCA PepoDance x⁣2 \NDMCA PepoDance x⁣2
+Dialogue: 0:34:03.15, 0:34:06.15, Default, {\c&H0000FF&}bornintheuniverse{\c&HFFFFFF&}: \NDMCA PepoDance DMCA PepoDance DMCA PepoDance x⁣2 \NDMCA PepoDance x⁣2
 Dialogue: 0:34:03.69, 0:34:05.75, Default, {\c&H0000FF&}KamiSama256{\c&HFFFFFF&}: +уши
 Dialogue: 0:34:04.98, 0:34:08.39, Default, {\c&H008000&}Roorm{\c&HFFFFFF&}: Короче я хотел сказать этому Конами два слова, и я \Nдумаю вы знаете какие начинается на F Kappa
 Dialogue: 0:34:05.26, 0:34:07.38, Default, {\c&H0045FF&}SmokeyMonstr{\c&HFFFFFF&}: Ща будет
@@ -8346,7 +8346,7 @@ Dialogue: 2:26:40.88, 2:26:43.07, Default, {\c&H20A5DA&}AleekseeV{\c&HFFFFFF&}: 
 Dialogue: 2:26:41.09, 2:26:43.31, Default, {\c&HFFFFFF&}Rablkrabl{\c&HFFFFFF&}: Peka1 FluteTime
 Dialogue: 2:26:41.52, 2:26:43.70, Default, {\c&HFFFFFF&}xenia_vasilevna{\c&HFFFFFF&}: BSUDance x⁣6
 Dialogue: 2:26:41.63, 2:26:44.14, Default, {\c&HFFFFFF&}dan19921993{\c&HFFFFFF&}: NotLikeThis NotLikeThis BibleThump
-; Dialogue: 2:26:42.13, 2:26:45.06, Default, {\c&H507FFF&}manetera{\c&HFFFFFF&}: \NTaBeRu PepoDance BSUDance TaBeRu PepoDance BSUDance x⁣3 \NTaBeRu
+Dialogue: 2:26:42.13, 2:26:45.06, Default, {\c&H507FFF&}manetera{\c&HFFFFFF&}: \NTaBeRu PepoDance BSUDance TaBeRu PepoDance BSUDance x⁣3 \NTaBeRu
 Dialogue: 2:26:42.46, 2:26:44.86, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: @Zmeigo bufaLove MercyWing2
 Dialogue: 2:26:42.87, 2:26:45.05, Default, {\c&HFFFFFF&}jesterul{\c&HFFFFFF&}: Kreygasm x⁣3
 Dialogue: 2:26:44.37, 2:26:47.40, Default, {\c&HFFFFFF&}egorik48{\c&HFFFFFF&}: Только недавно первую главу перепрошёл, а потом \Ndeath stranding купил
@@ -14111,7 +14111,7 @@ Dialogue: 3:45:13.53, 3:45:15.93, Default, {\c&HFFFFFF&}BSODerr{\c&HFFFFFF&}: Д
 Dialogue: 3:45:16.53, 3:45:18.54, Default, {\c&HB469FF&}Andrzej28{\c&HFFFFFF&}: 2
 Dialogue: 3:45:17.46, 3:45:20.58, Default, {\c&HFFFFFF&}Onside404{\c&HFFFFFF&}: @JrLieutenant Ну хз точно, но может от физической \Nнагрузки, пройти в сердце
 Dialogue: 3:45:18.08, 3:45:20.27, Default, {\c&H0000FF&}killarama{\c&HFFFFFF&}: ТЫ должен Сэм
-; Dialogue: 3:45:18.39, 3:45:21.15, Default, {\c&HFFFFFF&}escvpe_1{\c&HFFFFFF&}: \Nсэээээээээээм!!!!!!!!!!!сэмсэмсэмсэмсэмсэмсэмсэмсэм
+Dialogue: 3:45:18.39, 3:45:21.15, Default, {\c&HFFFFFF&}escvpe_1{\c&HFFFFFF&}: \Nсэээээээээээм!!!!!!!!!!!сэмсэмсэмсэмсэмсэмсэмсэмсэм
 Dialogue: 3:45:19.47, 3:45:22.22, Default, {\c&HFF901E&}vlados59{\c&HFFFFFF&}: 300 часов чилла в этой игре у меня pepeL @BlackUFA
 Dialogue: 3:45:21.19, 3:45:23.88, Default, {\c&HB469FF&}desperados7{\c&HFFFFFF&}: @BlackUFA А свою музыку на вертолёт поставим?)
 Dialogue: 3:45:21.62, 3:45:23.89, Default, {\c&H0000FF&}gluk48{\c&HFFFFFF&}: их тут двое, 100%)
@@ -16841,7 +16841,7 @@ Dialogue: 4:39:43.43, 4:39:45.97, Default, {\c&HFFFFFF&}lacrycake{\c&HFFFFFF&}: 
 Dialogue: 4:39:50.23, 4:39:53.23, Default, {\c&H2222B2&}Dr_Borislav{\c&HFFFFFF&}: Dr_Borislav subscribed at Tier 1. They've \Nsubscribed for 37 months!
 Dialogue: 4:39:57.07, 4:39:59.29, Default, {\c&H0000FF&}killerlot{\c&HFFFFFF&}: bufaSubHype x⁣8
 Dialogue: 4:39:57.62, 4:39:59.84, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}: bufaSubHype x⁣4
-; Dialogue: 4:39:58.23, 4:40:01.17, Default, {\c&HFF901E&}GraciSL{\c&HFFFFFF&}: \NgPbbt PETTHEAPTEEPO BSUWasted gPbbt PETTHEAPTEEPO BSUWasted \Nx⁣3
+Dialogue: 4:39:58.23, 4:40:01.17, Default, {\c&HFF901E&}GraciSL{\c&HFFFFFF&}: \NgPbbt PETTHEAPTEEPO BSUWasted gPbbt PETTHEAPTEEPO BSUWasted \Nx⁣3
 Dialogue: 4:40:00.15, 4:40:02.57, Default, {\c&H0000FF&}mental_massacre{\c&HFFFFFF&}: @dimacivil хочешь час - купи
 Dialogue: 4:40:02.74, 4:40:05.43, Default, {\c&H0000FF&}JrLieutenant{\c&HFFFFFF&}: @BlackUFA не, сейвы из гз отдельно загружаются
 Dialogue: 4:40:06.83, 4:40:09.05, Default, {\c&H008000&}kowkamurr{\c&HFFFFFF&}: зоопарк KEKWait
@@ -18964,7 +18964,7 @@ Dialogue: 5:48:36.33, 5:48:39.27, Default, {\c&HFFFFFF&}Altis95{\c&HFFFFFF&}: Al
 Dialogue: 5:48:41.25, 5:48:43.47, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}: bufaSubHype x⁣3
 Dialogue: 5:48:45.68, 5:48:48.43, Default, {\c&HFFFFFF&}Fireflyb0y{\c&HFFFFFF&}: А почему солдаты ищут активно? Тревоги же не \Nбыло?
 Dialogue: 5:48:47.92, 5:48:50.14, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: bufaSubHype x⁣6
-; Dialogue: 5:48:51.15, 5:48:54.54, Default, {\c&HFF901E&}GraciSL{\c&HFFFFFF&}: \NgPbbt PETTHEAPTEEPO BSUWasted gPbbt PETTHEAPTEEPO BSUWasted \Nx⁣2 gPbbt PETTHEAPTEEPO BSUWasted
+Dialogue: 5:48:51.15, 5:48:54.54, Default, {\c&HFF901E&}GraciSL{\c&HFFFFFF&}: \NgPbbt PETTHEAPTEEPO BSUWasted gPbbt PETTHEAPTEEPO BSUWasted \Nx⁣2 gPbbt PETTHEAPTEEPO BSUWasted
 Dialogue: 5:48:56.62, 5:49:00.84, Default, {\c&H0000FF&}killerlot{\c&HFFFFFF&}: @kilka_v_domkrate, иногда достаточно под горячую \Nруку попасть стримеру. Это тебе не у Дениса мут на сутки, \Nдаже если он горит bufaCoolStory bufaLove
 Dialogue: 5:49:04.31, 5:49:06.53, Default, {\c&H0000FF&}killerlot{\c&HFFFFFF&}: bufaSubHype x⁣8
 Dialogue: 5:49:05.65, 5:49:08.02, Default, {\c&H7FFF00&}belka_pirozhok{\c&HFFFFFF&}: bufaSubHype x⁣3 PrideCute
@@ -19053,7 +19053,7 @@ Dialogue: 5:51:43.62, 5:51:45.98, Default, {\c&HFFFFFF&}solote41{\c&HFFFFFF&}: �
 Dialogue: 5:51:44.04, 5:51:46.17, Default, {\c&HFF901E&}Fckngworld{\c&HFFFFFF&}: Соскорезы
 Dialogue: 5:51:45.18, 5:51:48.42, Default, {\c&HFFFFFF&}Golod2158{\c&HFFFFFF&}: соскок стеклорез - необходимый инструмент для \Nпроникновения в труднодоступные места
 Dialogue: 5:51:46.49, 5:51:48.58, Default, {\c&HFFFFFF&}xenia_vasilevna{\c&HFFFFFF&}: лииинк
-; Dialogue: 5:51:46.67, 5:51:50.06, Default, {\c&HFF901E&}GraciSL{\c&HFFFFFF&}: \NgPbbt PETTHEAPTEEPO BSUWasted gPbbt PETTHEAPTEEPO BSUWasted \Nx⁣2 gPbbt PETTHEAPTEEPO BSUWasted
+Dialogue: 5:51:46.67, 5:51:50.06, Default, {\c&HFF901E&}GraciSL{\c&HFFFFFF&}: \NgPbbt PETTHEAPTEEPO BSUWasted gPbbt PETTHEAPTEEPO BSUWasted \Nx⁣2 gPbbt PETTHEAPTEEPO BSUWasted
 Dialogue: 5:51:47.63, 5:51:49.90, Default, {\c&HFFFFFF&}Indigo_Life{\c&HFFFFFF&}: это скайрим-стайл?
 Dialogue: 5:51:49.53, 5:51:51.60, Default, {\c&H0045FF&}atalz_zlata{\c&HFFFFFF&}: Линк!
 Dialogue: 5:51:49.68, 5:51:51.89, Default, {\c&H7FFF00&}GRANDER45{\c&HFFFFFF&}: синдзи BSURage
@@ -20119,7 +20119,7 @@ Dialogue: 6:26:47.26, 6:26:49.42, Default, {\c&H578B2E&}Monky1kun{\c&HFFFFFF&}: 
 ; Dialogue: 6:26:49.16, 6:26:51.68, Default, {\c&H008000&}TheDrHaxBot{\c&HFFFFFF&}: @pirojika, у вас 26 ICQ (-34) SMOrc
 Dialogue: 6:26:49.34, 6:26:51.53, Default, {\c&HFFFFFF&}clonearss{\c&HFFFFFF&}: вообще куль )
 Dialogue: 6:26:49.62, 6:26:51.83, Default, {\c&HFFFFFF&}blokzhen{\c&HFFFFFF&}: KomodoHype x⁣3
-; Dialogue: 6:26:49.88, 6:26:53.06, Default, {\c&HFF901E&}Fckngworld{\c&HFFFFFF&}: \NBBoomer SmokeTime BBoomer SmokeTime BBoomer SmokeTime x⁣2 \NBBoomer SmokeTime x⁣2
+Dialogue: 6:26:49.88, 6:26:53.06, Default, {\c&HFF901E&}Fckngworld{\c&HFFFFFF&}: \NBBoomer SmokeTime BBoomer SmokeTime BBoomer SmokeTime x⁣2 \NBBoomer SmokeTime x⁣2
 Dialogue: 6:26:50.63, 6:26:52.85, Default, {\c&H0000FF&}FunnyMaz{\c&HFFFFFF&}: ChickenRave x⁣9
 Dialogue: 6:26:50.89, 6:26:53.07, Default, {\c&HFFFFFF&}Golod2158{\c&HFFFFFF&}: Джон Уикович
 Dialogue: 6:26:51.82, 6:26:53.95, Default, {\c&H0000FF&}YuraDaim{\c&HFFFFFF&}: gachiBASS

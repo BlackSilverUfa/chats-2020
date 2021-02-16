@@ -837,7 +837,7 @@ Dialogue: 0:04:43.48, 0:04:45.85, Default, {\c&H2222B2&}MsFirehawk{\c&HFFFFFF&}:
 Dialogue: 0:04:43.86, 0:04:46.02, Default, {\c&H0000FF&}tomminoker74ru{\c&HFFFFFF&}: wlg2020 x⁣6
 Dialogue: 0:04:43.87, 0:04:46.05, Default, {\c&H7FFF00&}Arhiteck{\c&HFFFFFF&}: monkaTOS x⁣4
 Dialogue: 0:04:43.95, 0:04:46.17, Default, {\c&HFFFFFF&}tihan2795{\c&HFFFFFF&}: Любооооооооофь!
-Dialogue: 0:04:44.10, 0:04:46.44, Default, {\c&HFFFFFF&}tinvel{\c&HFFFFFF&}: \ BibleThump BibleThump
+; Dialogue: 0:04:44.10, 0:04:46.44, Default, {\c&HFFFFFF&}tinvel{\c&HFFFFFF&}: \ BibleThump BibleThump
 Dialogue: 0:04:44.10, 0:04:46.70, Default, {\c&HE22B8A&}StrimanSSSS{\c&HFFFFFF&}: @BlackUFA Ну шо там про персону BabyRage
 Dialogue: 0:04:44.76, 0:04:46.98, Default, {\c&HFFFFFF&}Ph4nt0m4ik{\c&HFFFFFF&}: bufaBobchan x⁣4
 Dialogue: 0:04:45.51, 0:04:48.66, Default, {\c&HFF0000&}TomchikTomara{\c&HFFFFFF&}: @blackufa Видел трейлер Suicide of Rachel \NFoster? Хоррор, вроде, скоро выйдет
@@ -2736,7 +2736,7 @@ Dialogue: 0:29:45.27, 0:29:47.54, Default, {\c&HE22B8A&}Yaktoshtop{\c&HFFFFFF&}:
 Dialogue: 0:29:47.01, 0:29:49.64, Default, {\c&HFF901E&}GraciSL{\c&HFFFFFF&}: @dimka_dis драатути bufaLittleNinya bufaUL
 ; Dialogue: 0:29:47.77, 0:29:50.07, Default, {\c&HFFFFFF&}SputnikSviazy{\c&HFFFFFF&}: pickme bufaUL bufaUL
 Dialogue: 0:29:48.04, 0:29:50.49, Default, {\c&H0000FF&}kawaii_senpai_8{\c&HFFFFFF&}: а что с персоной, я пропустил?
-Dialogue: 0:29:49.40, 0:29:51.71, Default, {\c&H0045FF&}Melinyx{\c&HFFFFFF&}: pick me x⁣2 im so hot
+; Dialogue: 0:29:49.40, 0:29:51.71, Default, {\c&H0045FF&}Melinyx{\c&HFFFFFF&}: pick me x⁣2 im so hot
 Dialogue: 0:29:49.54, 0:29:51.73, Default, {\c&HFF0000&}Muxa_7{\c&HFFFFFF&}: зовите айзека
 ; Dialogue: 0:29:49.61, 0:29:51.70, Default, {\c&H7FFF00&}san_chela{\c&HFFFFFF&}: pickme
 Dialogue: 0:29:50.64, 0:29:54.11, Default, {\c&HFFFFFF&}copywriter_fraz_iz_chata{\c&HFFFFFF&}: @BlackUFA Может, сходим боссов в \NПоловом погоняем? А то реально так до коопа и просидим с \Nпоисками
@@ -6451,7 +6451,7 @@ Dialogue: 0:52:38.05, 0:52:40.06, Default, {\c&HFFFFFF&}bax313{\c&HFFFFFF&}: 1
 ; Dialogue: 0:52:38.71, 0:52:42.15, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: Капитан Курица @mishabiga55, мне нужно исцеление! \NВыберите "heal", "potion", "life" или "noheal"
 ; Dialogue: 0:52:39.35, 0:52:41.41, Default, {\c&H20A5DA&}I3uga{\c&HFFFFFF&}: heal
 ; Dialogue: 0:52:39.45, 0:52:41.51, Default, {\c&HFFFFFF&}valkokina{\c&HFFFFFF&}: heal
-Dialogue: 0:52:40.58, 0:52:42.67, Default, {\c&HE22B8A&}gololowario{\c&HFFFFFF&}: noheal
+; Dialogue: 0:52:40.58, 0:52:42.67, Default, {\c&HE22B8A&}gololowario{\c&HFFFFFF&}: noheal
 ; Dialogue: 0:52:40.58, 0:52:42.64, Default, {\c&H008000&}Toxich_UA{\c&HFFFFFF&}: heal
 Dialogue: 0:52:40.62, 0:52:42.63, Default, {\c&HFFFFFF&}KotikZhirnotick{\c&HFFFFFF&}: 1
 ; Dialogue: 0:52:40.76, 0:52:42.82, Default, {\c&H7FFF00&}KenWyd{\c&HFFFFFF&}: heal
@@ -6487,7 +6487,7 @@ Dialogue: 0:52:50.10, 0:52:52.11, Default, {\c&HE22B8A&}Aaron_Rull{\c&HFFFFFF&}:
 Dialogue: 0:52:50.87, 0:52:52.94, Default, {\c&HFFFFFF&}NaitRat{\c&HFFFFFF&}: rjytw
 Dialogue: 0:52:51.42, 0:52:53.43, Default, {\c&HFFFFFF&}KotikZhirnotick{\c&HFFFFFF&}: 3
 Dialogue: 0:52:51.43, 0:52:53.44, Default, {\c&HFFFFFF&}Run_AwaY{\c&HFFFFFF&}: 3
-Dialogue: 0:52:51.57, 0:52:53.63, Default, {\c&H008000&}Kepka177{\c&HFFFFFF&}: life
+; Dialogue: 0:52:51.57, 0:52:53.63, Default, {\c&H008000&}Kepka177{\c&HFFFFFF&}: life
 Dialogue: 0:52:51.61, 0:52:53.80, Default, {\c&H20A5DA&}Respya{\c&HFFFFFF&}: Ну это баааан
 ; Dialogue: 0:52:51.64, 0:52:53.70, Default, {\c&H008000&}ShmbIGa277353{\c&HFFFFFF&}: heal
 ; Dialogue: 0:52:51.85, 0:52:53.91, Default, {\c&HFFFFFF&}bax313{\c&HFFFFFF&}: heal
@@ -6500,7 +6500,7 @@ Dialogue: 0:52:53.01, 0:52:55.08, Default, {\c&HFFFFFF&}NaitRat{\c&HFFFFFF&}: к
 ; Dialogue: 0:52:53.35, 0:52:55.41, Default, {\c&HFFFFFF&}lishkina{\c&HFFFFFF&}: heal
 Dialogue: 0:52:53.80, 0:52:55.98, Default, {\c&H0000FF&}YuraDaim{\c&HFFFFFF&}: bigBossSalut
 ; Dialogue: 0:52:53.90, 0:52:55.94, Default, {\c&HFFFFFF&}Dead3010{\c&HFFFFFF&}: lol
-Dialogue: 0:52:54.43, 0:52:56.52, Default, {\c&H008000&}CrestedPilot1{\c&HFFFFFF&}: noheal
+; Dialogue: 0:52:54.43, 0:52:56.52, Default, {\c&H008000&}CrestedPilot1{\c&HFFFFFF&}: noheal
 Dialogue: 0:52:54.86, 0:52:56.87, Default, {\c&HE22B8A&}gololowario{\c&HFFFFFF&}: 2
 Dialogue: 0:52:55.61, 0:52:57.95, Default, {\c&HE22B8A&}SuperMekBoy{\c&HFFFFFF&}: NotLikeThis NotLikeThis
 Dialogue: 0:52:55.66, 0:52:57.76, Default, {\c&H2222B2&}Astorath_the_grim{\c&HFFFFFF&}: LUL x⁣3
@@ -9116,7 +9116,7 @@ Dialogue: 1:54:58.13, 1:55:00.37, Default, {\c&H008000&}pacifist_slave{\c&HFFFFF
 Dialogue: 1:54:58.19, 1:55:00.37, Default, {\c&H20A5DA&}I3uga{\c&HFFFFFF&}: Надя, не ешь
 Dialogue: 1:54:58.86, 1:55:01.43, Default, {\c&H20A5DA&}gobech{\c&HFFFFFF&}: Напоминает дом 2 нишо не понятно Kappa
 Dialogue: 1:55:00.09, 1:55:02.42, Default, {\c&H0045FF&}Snezhulka{\c&HFFFFFF&}: HahaShrugLeft HahaBall
-Dialogue: 1:55:00.41, 1:55:02.69, Default, {\c&HFF0000&}Lich999lvl{\c&HFFFFFF&}: \ Kappa ну допустим
+; Dialogue: 1:55:00.41, 1:55:02.69, Default, {\c&HFF0000&}Lich999lvl{\c&HFFFFFF&}: \ Kappa ну допустим
 Dialogue: 1:55:02.18, 1:55:04.40, Default, {\c&H32CD9A&}Faster_Hershey{\c&HFFFFFF&}: FBtouchdown x⁣3
 Dialogue: 1:55:03.45, 1:55:05.55, Default, {\c&HB469FF&}fenikseez{\c&HFFFFFF&}: Kappa /
 Dialogue: 1:55:04.76, 1:55:07.33, Default, {\c&HFF901E&}Am1gdala{\c&HFFFFFF&}: FeelsWeirdMan это хард, соберитесь уже
@@ -9918,7 +9918,7 @@ Dialogue: 2:30:15.13, 2:30:17.17, Default, {\c&H0000FF&}Hotamy{\c&HFFFFFF&}: LUL
 Dialogue: 2:30:18.48, 2:30:20.90, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: @zmeigo, bufaLove MercyWing2
 Dialogue: 2:30:26.76, 2:30:29.07, Default, {\c&HA09E5F&}Severnaya_Utka{\c&HFFFFFF&}: @zmeigo, bufaLove x⁣3
 Dialogue: 2:30:29.85, 2:30:31.95, Default, {\c&HFF0000&}blackoren56{\c&HFFFFFF&}: LUL x⁣4
-Dialogue: 2:30:30.25, 2:30:32.38, Default, {\c&H20A5DA&}I3uga{\c&HFFFFFF&}: \ Kappa /
+; Dialogue: 2:30:30.25, 2:30:32.38, Default, {\c&H20A5DA&}I3uga{\c&HFFFFFF&}: \ Kappa /
 ; Dialogue: 2:30:31.20, 2:30:33.99, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Подписаться с мобилы: \Nhttps://subs.twitch.tv/blackufa
 Dialogue: 2:30:33.83, 2:30:36.23, Default, {\c&H008000&}Roorm{\c&HFFFFFF&}: это красный человек PRChase
 Dialogue: 2:30:33.91, 2:30:36.07, Default, {\c&HFFFFFF&}FROSTY1178{\c&HFFFFFF&}: опа эротика

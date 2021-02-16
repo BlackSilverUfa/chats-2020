@@ -1101,14 +1101,14 @@ Dialogue: 0:10:13.71, 0:10:15.78, Default, {\c&HFFFFFF&}Heisen_Twerk{\c&HFFFFFF&
 Dialogue: 0:10:13.80, 0:10:16.17, Default, {\c&H7FFF00&}Alexandr_Black19{\c&HFFFFFF&}: 15 лет ведь ))) @BlackUFA
 Dialogue: 0:10:14.25, 0:10:18.20, Default, {\c&H32CD9A&}mahlop1{\c&HFFFFFF&}: @BlackUFA Артур, с днем рождения! Дальнейших \Nуспехов и всего всего) Мой д.р. завтра, но кусочек тортика \Nсъеден за тебя сегодня) <3
 Dialogue: 0:10:14.36, 0:10:16.54, Default, {\c&HE22B8A&}Nikolas_Argo{\c&HFFFFFF&}: bufaLove x⁣6
-; Dialogue: 0:10:14.53, 0:10:16.54, Default, {\c&H1E69D2&}Palik_men{\c&HFFFFFF&}: 5
+Dialogue: 0:10:14.53, 0:10:16.54, Default, {\c&H1E69D2&}Palik_men{\c&HFFFFFF&}: 5
 Dialogue: 0:10:15.02, 0:10:17.17, Default, {\c&HFFFFFF&}felix239{\c&HFFFFFF&}: уже под 90
 Dialogue: 0:10:16.06, 0:10:18.40, Default, {\c&H507FFF&}ckBoH4{\c&HFFFFFF&}: Поздравляшки Pepega cvR
 Dialogue: 0:10:16.55, 0:10:18.89, Default, {\c&H0000FF&}jojack_smith{\c&HFFFFFF&}: @BlackUFA а тортик был?
 Dialogue: 0:10:17.85, 0:10:20.34, Default, {\c&HFFFFFF&}b3ik1985{\c&HFFFFFF&}: Артур теперь такой опытный <3 x⁣4
 Dialogue: 0:10:18.03, 0:10:20.60, Default, {\c&HE22B8A&}Rogue_Monro{\c&HFFFFFF&}: Чат, ну не путай стримера. Ему 58, ну!
 Dialogue: 0:10:18.55, 0:10:20.58, Default, {\c&H0000FF&}Aleks_Lightning{\c&HFFFFFF&}: 35
-; Dialogue: 0:10:19.04, 0:10:21.05, Default, {\c&H1E69D2&}Palik_men{\c&HFFFFFF&}: 9
+Dialogue: 0:10:19.04, 0:10:21.05, Default, {\c&H1E69D2&}Palik_men{\c&HFFFFFF&}: 9
 Dialogue: 0:10:19.13, 0:10:21.31, Default, {\c&HFFFFFF&}bezgodovvv{\c&HFFFFFF&}: bufaLove x⁣4
 Dialogue: 0:10:19.34, 0:10:21.43, Default, {\c&HFFFFFF&}DanceWR{\c&HFFFFFF&}: <3 x⁣4
 Dialogue: 0:10:20.60, 0:10:22.94, Default, {\c&H7FFF00&}perrrrkele{\c&HFFFFFF&}: строгино? ну и ник KEKW
@@ -1547,7 +1547,7 @@ Dialogue: 0:13:43.54, 0:13:45.67, Default, {\c&HFFFFFF&}kimmccormik{\c&HFFFFFF&}
 Dialogue: 0:13:43.55, 0:13:45.70, Default, {\c&H7FFF00&}belldommuser{\c&HFFFFFF&}: драма чаат
 Dialogue: 0:13:43.56, 0:13:45.95, Default, {\c&HFFFFFF&}pora_pora{\c&HFFFFFF&}: ох эти коробки, как хубики
 Dialogue: 0:13:44.47, 0:13:46.68, Default, {\c&HFFFFFF&}anton__star{\c&HFFFFFF&}: BibleThump x⁣5
-Dialogue: 0:13:44.93, 0:13:47.65, Default, {\c&H0000FF&}ArthurDistone{\c&HFFFFFF&}: \me открыта новая локация "Кладовка с \Nкоробками"
+; Dialogue: 0:13:44.93, 0:13:47.65, Default, {\c&H0000FF&}ArthurDistone{\c&HFFFFFF&}: \me открыта новая локация "Кладовка с \Nкоробками"
 Dialogue: 0:13:46.43, 0:13:48.62, Default, {\c&HFFFFFF&}Rablkrabl{\c&HFFFFFF&}: PETTHEAPTEEPO
 Dialogue: 0:13:46.45, 0:13:48.63, Default, {\c&HFF901E&}Nuriko_Ruuen{\c&HFFFFFF&}: bufaLove x⁣3
 Dialogue: 0:13:46.48, 0:13:48.69, Default, {\c&HFFFFFF&}sishok346{\c&HFFFFFF&}: BibleThump x⁣6
@@ -2374,7 +2374,7 @@ Dialogue: 0:18:53.52, 0:18:55.65, Default, {\c&HFFFFFF&}WeAreMova{\c&HFFFFFF&}: 
 Dialogue: 0:18:54.46, 0:18:56.86, Default, {\c&H0000FF&}GotFat{\c&HFFFFFF&}: gamelifeOmega gamelifeOmega
 Dialogue: 0:18:54.88, 0:18:57.00, Default, {\c&HFFFFFF&}Timohanihat{\c&HFFFFFF&}: PogChamp
 Dialogue: 0:18:55.04, 0:18:57.16, Default, {\c&HB319AB&}Vatandi{\c&HFFFFFF&}: Манулов?
-; Dialogue: 0:18:56.42, 0:18:58.43, Default, {\c&H008000&}Red_Des{\c&HFFFFFF&}: 1
+Dialogue: 0:18:56.42, 0:18:58.43, Default, {\c&H008000&}Red_Des{\c&HFFFFFF&}: 1
 Dialogue: 0:18:56.89, 0:18:58.99, Default, {\c&H507FFF&}chyatik{\c&HFFFFFF&}: LUL LUL
 Dialogue: 0:18:56.98, 0:18:59.02, Default, {\c&H0000FF&}rebellion_arms{\c&HFFFFFF&}: нет
 Dialogue: 0:18:57.57, 0:19:00.14, Default, {\c&HFF0000&}SpikeSSSSSS{\c&HFFFFFF&}: неужто холодильник с собой забирают???
@@ -2400,78 +2400,78 @@ Dialogue: 0:19:01.81, 0:19:03.94, Default, {\c&H1DBE9B&}aire_19{\c&HFFFFFF&}: KE
 Dialogue: 0:19:02.03, 0:19:04.36, Default, {\c&HFFFFFF&}Redux_de_fix{\c&HFFFFFF&}: манулов будем считать?
 Dialogue: 0:19:02.49, 0:19:04.76, Default, {\c&H7FFF00&}perrrrkele{\c&HFFFFFF&}: НЕЕЕЕЕЕТ НЕТНЕТНЕТ
 Dialogue: 0:19:03.19, 0:19:05.35, Default, {\c&HFFFFFF&}aronilio{\c&HFFFFFF&}: NotLikeThis
-; Dialogue: 0:19:03.49, 0:19:05.50, Default, {\c&HFFFFFF&}devilka1999{\c&HFFFFFF&}: 1
+Dialogue: 0:19:03.49, 0:19:05.50, Default, {\c&HFFFFFF&}devilka1999{\c&HFFFFFF&}: 1
 Dialogue: 0:19:03.56, 0:19:05.75, Default, {\c&HE22B8A&}Rogue_Monro{\c&HFFFFFF&}: Только не это
-; Dialogue: 0:19:04.12, 0:19:06.13, Default, {\c&H7FFF00&}Ksenomorf511{\c&HFFFFFF&}: 1
+Dialogue: 0:19:04.12, 0:19:06.13, Default, {\c&H7FFF00&}Ksenomorf511{\c&HFFFFFF&}: 1
 Dialogue: 0:19:04.38, 0:19:06.48, Default, {\c&H7FFF00&}ziro_29{\c&HFFFFFF&}: 1 манул
-; Dialogue: 0:19:05.27, 0:19:07.28, Default, {\c&HFFFFFF&}DanceWR{\c&HFFFFFF&}: 1
+Dialogue: 0:19:05.27, 0:19:07.28, Default, {\c&HFFFFFF&}DanceWR{\c&HFFFFFF&}: 1
 Dialogue: 0:19:05.33, 0:19:07.55, Default, {\c&HFFFFFF&}lionardo27{\c&HFFFFFF&}: тося веди стрим
 Dialogue: 0:19:05.73, 0:19:07.79, Default, {\c&HFF901E&}alter_67{\c&HFFFFFF&}: KEKW
 Dialogue: 0:19:06.02, 0:19:08.24, Default, {\c&HFFFFFF&}neron69au{\c&HFFFFFF&}: куда переезд???
-; Dialogue: 0:19:06.13, 0:19:08.14, Default, {\c&H0045FF&}Nevayasha{\c&HFFFFFF&}: 1
+Dialogue: 0:19:06.13, 0:19:08.14, Default, {\c&H0045FF&}Nevayasha{\c&HFFFFFF&}: 1
 Dialogue: 0:19:06.34, 0:19:08.65, Default, {\c&HFFFFFF&}Marrrtha{\c&HFFFFFF&}: 1 раз потянули за уши
-; Dialogue: 0:19:06.50, 0:19:08.51, Default, {\c&H7FFF00&}HINOTORAtv{\c&HFFFFFF&}: 1
-; Dialogue: 0:19:06.56, 0:19:08.57, Default, {\c&H507FFF&}valerie_tuck{\c&HFFFFFF&}: 1
+Dialogue: 0:19:06.50, 0:19:08.51, Default, {\c&H7FFF00&}HINOTORAtv{\c&HFFFFFF&}: 1
+Dialogue: 0:19:06.56, 0:19:08.57, Default, {\c&H507FFF&}valerie_tuck{\c&HFFFFFF&}: 1
 Dialogue: 0:19:06.57, 0:19:08.78, Default, {\c&HE22B8A&}Rogue_Monro{\c&HFFFFFF&}: НЕЕЕЕЕЕЕЕЕЕЕТ!
-; Dialogue: 0:19:06.67, 0:19:08.68, Default, {\c&HD3D5D8&}Yukioru_K{\c&HFFFFFF&}: 2
+Dialogue: 0:19:06.67, 0:19:08.68, Default, {\c&HD3D5D8&}Yukioru_K{\c&HFFFFFF&}: 2
 Dialogue: 0:19:06.69, 0:19:08.79, Default, {\c&HFFFFFF&}dimonpokimon4ik{\c&HFFFFFF&}: 1 Манул
-; Dialogue: 0:19:06.70, 0:19:08.71, Default, {\c&HFF0000&}farnis{\c&HFFFFFF&}: 1
+Dialogue: 0:19:06.70, 0:19:08.71, Default, {\c&HFF0000&}farnis{\c&HFFFFFF&}: 1
 Dialogue: 0:19:06.79, 0:19:09.19, Default, {\c&HFF901E&}GraciSL{\c&HFFFFFF&}: @perrrrkele драатути Pepega
-; Dialogue: 0:19:07.01, 0:19:09.02, Default, {\c&H0000FF&}generated_name{\c&HFFFFFF&}: 3
+Dialogue: 0:19:07.01, 0:19:09.02, Default, {\c&H0000FF&}generated_name{\c&HFFFFFF&}: 3
 Dialogue: 0:19:07.12, 0:19:09.16, Default, {\c&HFFFFFF&}arsyushkin{\c&HFFFFFF&}: нет
-; Dialogue: 0:19:07.25, 0:19:09.26, Default, {\c&HFFFFFF&}devilka1999{\c&HFFFFFF&}: 2
+Dialogue: 0:19:07.25, 0:19:09.26, Default, {\c&HFFFFFF&}devilka1999{\c&HFFFFFF&}: 2
 Dialogue: 0:19:07.44, 0:19:09.69, Default, {\c&H0000FF&}nagarashi_aino{\c&HFFFFFF&}: Считаем манулов))
-; Dialogue: 0:19:07.70, 0:19:09.71, Default, {\c&H507FFF&}valerie_tuck{\c&HFFFFFF&}: 2
+Dialogue: 0:19:07.70, 0:19:09.71, Default, {\c&H507FFF&}valerie_tuck{\c&HFFFFFF&}: 2
 Dialogue: 0:19:08.04, 0:19:10.10, Default, {\c&H0000FF&}Aleks_Lightning{\c&HFFFFFF&}: Найс
 Dialogue: 0:19:08.08, 0:19:10.18, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: LUL x⁣4
-; Dialogue: 0:19:08.19, 0:19:10.20, Default, {\c&HFF0000&}hetmansky{\c&HFFFFFF&}: 2
-; Dialogue: 0:19:08.51, 0:19:10.52, Default, {\c&H0000FF&}DmitryJDS{\c&HFFFFFF&}: 7
-; Dialogue: 0:19:08.71, 0:19:10.72, Default, {\c&H0000FF&}generated_name{\c&HFFFFFF&}: 4
-; Dialogue: 0:19:08.78, 0:19:10.79, Default, {\c&HD3D5D8&}Yukioru_K{\c&HFFFFFF&}: 5
+Dialogue: 0:19:08.19, 0:19:10.20, Default, {\c&HFF0000&}hetmansky{\c&HFFFFFF&}: 2
+Dialogue: 0:19:08.51, 0:19:10.52, Default, {\c&H0000FF&}DmitryJDS{\c&HFFFFFF&}: 7
+Dialogue: 0:19:08.71, 0:19:10.72, Default, {\c&H0000FF&}generated_name{\c&HFFFFFF&}: 4
+Dialogue: 0:19:08.78, 0:19:10.79, Default, {\c&HD3D5D8&}Yukioru_K{\c&HFFFFFF&}: 5
 Dialogue: 0:19:08.87, 0:19:11.26, Default, {\c&H0000FF&}visarius_{\c&HFFFFFF&}: Холодильник можно не везти
-; Dialogue: 0:19:08.87, 0:19:10.88, Default, {\c&H507FFF&}zhulyamona{\c&HFFFFFF&}: 2
-; Dialogue: 0:19:08.98, 0:19:10.99, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}: 1
-; Dialogue: 0:19:09.07, 0:19:11.08, Default, {\c&H008000&}lariooos{\c&HFFFFFF&}: 3
-; Dialogue: 0:19:09.33, 0:19:11.34, Default, {\c&HFFFFFF&}SeiriOni{\c&HFFFFFF&}: 8
+Dialogue: 0:19:08.87, 0:19:10.88, Default, {\c&H507FFF&}zhulyamona{\c&HFFFFFF&}: 2
+Dialogue: 0:19:08.98, 0:19:10.99, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}: 1
+Dialogue: 0:19:09.07, 0:19:11.08, Default, {\c&H008000&}lariooos{\c&HFFFFFF&}: 3
+Dialogue: 0:19:09.33, 0:19:11.34, Default, {\c&HFFFFFF&}SeiriOni{\c&HFFFFFF&}: 8
 Dialogue: 0:19:09.55, 0:19:11.64, Default, {\c&H507FFF&}NekoNic0le{\c&HFFFFFF&}: неееет
 Dialogue: 0:19:09.58, 0:19:12.40, Default, {\c&HFF901E&}JackSirris{\c&HFFFFFF&}: artgamesAGHeavyHorns jstMerzkiyKot \NartgamesAGHeavyHorns
-; Dialogue: 0:19:09.64, 0:19:11.65, Default, {\c&HFF0000&}StrimanSSSS{\c&HFFFFFF&}: 1
-; Dialogue: 0:19:09.69, 0:19:11.70, Default, {\c&HE22B8A&}Voltaren_Emulgel{\c&HFFFFFF&}: 1
-; Dialogue: 0:19:09.96, 0:19:11.97, Default, {\c&H20A5DA&}evgesh_ik{\c&HFFFFFF&}: 2
+Dialogue: 0:19:09.64, 0:19:11.65, Default, {\c&HFF0000&}StrimanSSSS{\c&HFFFFFF&}: 1
+Dialogue: 0:19:09.69, 0:19:11.70, Default, {\c&HE22B8A&}Voltaren_Emulgel{\c&HFFFFFF&}: 1
+Dialogue: 0:19:09.96, 0:19:11.97, Default, {\c&H20A5DA&}evgesh_ik{\c&HFFFFFF&}: 2
 Dialogue: 0:19:09.98, 0:19:12.34, Default, {\c&HFFFFFF&}worldandwar{\c&HFFFFFF&}: bufaLUL x⁣6 bufaChatSila
 Dialogue: 0:19:10.02, 0:19:12.05, Default, {\c&HE22B8A&}Nikolas_Argo{\c&HFFFFFF&}: 13
-; Dialogue: 0:19:10.33, 0:19:12.34, Default, {\c&HFFFFFF&}somnis3{\c&HFFFFFF&}: 5
+Dialogue: 0:19:10.33, 0:19:12.34, Default, {\c&HFFFFFF&}somnis3{\c&HFFFFFF&}: 5
 Dialogue: 0:19:10.37, 0:19:12.47, Default, {\c&HFFFFFF&}Redux_de_fix{\c&HFFFFFF&}: 1 манул
-; Dialogue: 0:19:10.49, 0:19:12.50, Default, {\c&H0000FF&}generated_name{\c&HFFFFFF&}: 8
-; Dialogue: 0:19:10.55, 0:19:12.56, Default, {\c&HB469FF&}mrazing{\c&HFFFFFF&}: 1
+Dialogue: 0:19:10.49, 0:19:12.50, Default, {\c&H0000FF&}generated_name{\c&HFFFFFF&}: 8
+Dialogue: 0:19:10.55, 0:19:12.56, Default, {\c&HB469FF&}mrazing{\c&HFFFFFF&}: 1
 Dialogue: 0:19:10.94, 0:19:13.06, Default, {\c&HFFFFFF&}dimonpokimon4ik{\c&HFFFFFF&}: 2 Манула
-; Dialogue: 0:19:10.97, 0:19:12.98, Default, {\c&HFF0000&}hetmansky{\c&HFFFFFF&}: 7
+Dialogue: 0:19:10.97, 0:19:12.98, Default, {\c&HFF0000&}hetmansky{\c&HFFFFFF&}: 7
 Dialogue: 0:19:11.02, 0:19:13.05, Default, {\c&HFFFFFF&}great_goodwin{\c&HFFFFFF&}: 10
 Dialogue: 0:19:11.05, 0:19:13.11, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}: KEKW
-; Dialogue: 0:19:11.15, 0:19:13.16, Default, {\c&H0000FF&}natsu2dragnil{\c&HFFFFFF&}: 5
+Dialogue: 0:19:11.15, 0:19:13.16, Default, {\c&H0000FF&}natsu2dragnil{\c&HFFFFFF&}: 5
 Dialogue: 0:19:11.39, 0:19:13.42, Default, {\c&HFF0000&}farnis{\c&HFFFFFF&}: 10
 Dialogue: 0:19:11.41, 0:19:13.54, Default, {\c&HFFFFFF&}slavamatrix{\c&HFFFFFF&}: bufaThump
-; Dialogue: 0:19:11.44, 0:19:13.45, Default, {\c&HFFFFFF&}Timohanihat{\c&HFFFFFF&}: 2
-; Dialogue: 0:19:11.50, 0:19:13.51, Default, {\c&HFFFFFF&}BUeBU_{\c&HFFFFFF&}: 2
+Dialogue: 0:19:11.44, 0:19:13.45, Default, {\c&HFFFFFF&}Timohanihat{\c&HFFFFFF&}: 2
+Dialogue: 0:19:11.50, 0:19:13.51, Default, {\c&HFFFFFF&}BUeBU_{\c&HFFFFFF&}: 2
 Dialogue: 0:19:11.53, 0:19:13.56, Default, {\c&HD3D5D8&}Yukioru_K{\c&HFFFFFF&}: 10
 Dialogue: 0:19:11.87, 0:19:13.90, Default, {\c&H0000FF&}generated_name{\c&HFFFFFF&}: 10
-; Dialogue: 0:19:11.92, 0:19:13.93, Default, {\c&HA09E5F&}lora_shet{\c&HFFFFFF&}: 7
-; Dialogue: 0:19:12.05, 0:19:14.06, Default, {\c&HFFFFFF&}SeiriOni{\c&HFFFFFF&}: 9
+Dialogue: 0:19:11.92, 0:19:13.93, Default, {\c&HA09E5F&}lora_shet{\c&HFFFFFF&}: 7
+Dialogue: 0:19:12.05, 0:19:14.06, Default, {\c&HFFFFFF&}SeiriOni{\c&HFFFFFF&}: 9
 Dialogue: 0:19:12.07, 0:19:14.10, Default, {\c&HFFFFFF&}Parishu{\c&HFFFFFF&}: 11
 Dialogue: 0:19:12.16, 0:19:14.19, Default, {\c&HFFFFFF&}DanceWR{\c&HFFFFFF&}: 12
-; Dialogue: 0:19:12.39, 0:19:14.40, Default, {\c&H0000FF&}natsu2dragnil{\c&HFFFFFF&}: 8
+Dialogue: 0:19:12.39, 0:19:14.40, Default, {\c&H0000FF&}natsu2dragnil{\c&HFFFFFF&}: 8
 Dialogue: 0:19:12.52, 0:19:14.58, Default, {\c&HFFFFFF&}negenius{\c&HFFFFFF&}: KEKW
 Dialogue: 0:19:12.58, 0:19:14.61, Default, {\c&H0000FF&}FunnyMaz{\c&HFFFFFF&}: 11
 Dialogue: 0:19:12.58, 0:19:14.61, Default, {\c&H1E69D2&}plankton4221{\c&HFFFFFF&}: 12
-; Dialogue: 0:19:12.60, 0:19:14.61, Default, {\c&HFF901E&}harunami{\c&HFFFFFF&}: 6
+Dialogue: 0:19:12.60, 0:19:14.61, Default, {\c&HFF901E&}harunami{\c&HFFFFFF&}: 6
 Dialogue: 0:19:12.60, 0:19:14.63, Default, {\c&H20A5DA&}babyka{\c&HFFFFFF&}: 12
 Dialogue: 0:19:12.85, 0:19:15.21, Default, {\c&HFFFFFF&}Tabasco__Red{\c&HFFFFFF&}: @call_me_dead_morose, <3
-; Dialogue: 0:19:12.91, 0:19:14.92, Default, {\c&HFFFFFF&}iconicped{\c&HFFFFFF&}: 1
+Dialogue: 0:19:12.91, 0:19:14.92, Default, {\c&HFFFFFF&}iconicped{\c&HFFFFFF&}: 1
 Dialogue: 0:19:13.05, 0:19:15.12, Default, {\c&HFF901E&}Atabal24{\c&HFFFFFF&}: Peka1
 Dialogue: 0:19:13.15, 0:19:15.31, Default, {\c&H507FFF&}ckBoH4{\c&HFFFFFF&}: NotLikeThis
 Dialogue: 0:19:13.27, 0:19:15.30, Default, {\c&HFFFFFF&}Parishu{\c&HFFFFFF&}: 12
-; Dialogue: 0:19:13.30, 0:19:15.31, Default, {\c&H1DBE9B&}aire_19{\c&HFFFFFF&}: 9
-; Dialogue: 0:19:13.33, 0:19:15.34, Default, {\c&HFFFFFF&}BUeBU_{\c&HFFFFFF&}: 3
+Dialogue: 0:19:13.30, 0:19:15.31, Default, {\c&H1DBE9B&}aire_19{\c&HFFFFFF&}: 9
+Dialogue: 0:19:13.33, 0:19:15.34, Default, {\c&HFFFFFF&}BUeBU_{\c&HFFFFFF&}: 3
 Dialogue: 0:19:13.40, 0:19:15.43, Default, {\c&H0000FF&}generated_name{\c&HFFFFFF&}: 12
 Dialogue: 0:19:13.44, 0:19:15.47, Default, {\c&H008000&}lariooos{\c&HFFFFFF&}: 10
 Dialogue: 0:19:13.51, 0:19:15.54, Default, {\c&HFF0000&}hetmansky{\c&HFFFFFF&}: 10
@@ -2481,17 +2481,17 @@ Dialogue: 0:19:13.99, 0:19:16.02, Default, {\c&H1E69D2&}plankton4221{\c&HFFFFFF&
 Dialogue: 0:19:14.17, 0:19:16.27, Default, {\c&HFFFFFF&}Pepegaminator{\c&HFFFFFF&}: LUL x⁣3
 Dialogue: 0:19:14.36, 0:19:16.39, Default, {\c&HFFFFFF&}Parishu{\c&HFFFFFF&}: 13
 Dialogue: 0:19:14.43, 0:19:16.85, Default, {\c&HFF901E&}GraciSL{\c&HFFFFFF&}: @Rogue_Monro драатути Pepega
-; Dialogue: 0:19:14.53, 0:19:16.54, Default, {\c&HFFFFFF&}iconicped{\c&HFFFFFF&}: 2
+Dialogue: 0:19:14.53, 0:19:16.54, Default, {\c&HFFFFFF&}iconicped{\c&HFFFFFF&}: 2
 Dialogue: 0:19:14.54, 0:19:16.57, Default, {\c&HFF0000&}StrimanSSSS{\c&HFFFFFF&}: 10
 Dialogue: 0:19:14.54, 0:19:16.60, Default, {\c&HB469FF&}salr0ka{\c&HFFFFFF&}: KEKW
 Dialogue: 0:19:14.55, 0:19:16.65, Default, {\c&HE22B8A&}krassavva{\c&HFFFFFF&}: LUL x⁣7
 Dialogue: 0:19:14.83, 0:19:16.95, Default, {\c&H20A5DA&}Raurwol{\c&HFFFFFF&}: 2 манула
 Dialogue: 0:19:14.97, 0:19:17.00, Default, {\c&H0000FF&}generated_name{\c&HFFFFFF&}: 13
-; Dialogue: 0:19:15.00, 0:19:17.01, Default, {\c&HE22B8A&}Yukimiraa{\c&HFFFFFF&}: 7
+Dialogue: 0:19:15.00, 0:19:17.01, Default, {\c&HE22B8A&}Yukimiraa{\c&HFFFFFF&}: 7
 Dialogue: 0:19:15.01, 0:19:17.32, Default, {\c&HFFFFFF&}Marrrtha{\c&HFFFFFF&}: 2 раз потянули за уши
-; Dialogue: 0:19:15.02, 0:19:17.03, Default, {\c&HFFFFFF&}BUeBU_{\c&HFFFFFF&}: 4
+Dialogue: 0:19:15.02, 0:19:17.03, Default, {\c&HFFFFFF&}BUeBU_{\c&HFFFFFF&}: 4
 Dialogue: 0:19:15.03, 0:19:17.06, Default, {\c&HFFFFFF&}VoiZord{\c&HFFFFFF&}: 15
-; Dialogue: 0:19:15.05, 0:19:17.06, Default, {\c&HFFFFFF&}WaitForHappiness{\c&HFFFFFF&}: 7
+Dialogue: 0:19:15.05, 0:19:17.06, Default, {\c&HFFFFFF&}WaitForHappiness{\c&HFFFFFF&}: 7
 Dialogue: 0:19:15.08, 0:19:17.12, Default, {\c&HFFFFFF&}moonshine12{\c&HFFFFFF&}: LUL
 Dialogue: 0:19:15.09, 0:19:17.25, Default, {\c&HFF901E&}Sire_Tsarapka{\c&HFFFFFF&}: ChickenRave
 Dialogue: 0:19:15.34, 0:19:17.56, Default, {\c&H7FFF00&}perrrrkele{\c&HFFFFFF&}: NotLikeThis x⁣6
@@ -2499,11 +2499,11 @@ Dialogue: 0:19:15.46, 0:19:17.49, Default, {\c&HD3D5D8&}Yukioru_K{\c&HFFFFFF&}: 
 Dialogue: 0:19:15.59, 0:19:17.62, Default, {\c&HFFFFFF&}Parishu{\c&HFFFFFF&}: 14
 Dialogue: 0:19:15.69, 0:19:17.81, Default, {\c&HFFFFFF&}Redux_de_fix{\c&HFFFFFF&}: 2 манулв
 Dialogue: 0:19:15.71, 0:19:17.74, Default, {\c&HFF0000&}hetmansky{\c&HFFFFFF&}: 13
-; Dialogue: 0:19:15.72, 0:19:17.73, Default, {\c&HFFFFFF&}Timohanihat{\c&HFFFFFF&}: 3
+Dialogue: 0:19:15.72, 0:19:17.73, Default, {\c&HFFFFFF&}Timohanihat{\c&HFFFFFF&}: 3
 Dialogue: 0:19:15.81, 0:19:17.84, Default, {\c&H507FFF&}valerie_tuck{\c&HFFFFFF&}: 14
 Dialogue: 0:19:15.82, 0:19:17.85, Default, {\c&HB469FF&}mrazing{\c&HFFFFFF&}: 14
 Dialogue: 0:19:15.92, 0:19:18.07, Default, {\c&HE22B8A&}Rogue_Monro{\c&HFFFFFF&}: Аж отлегло
-; Dialogue: 0:19:16.10, 0:19:18.11, Default, {\c&HFFFFFF&}kimmccormik{\c&HFFFFFF&}: 5
+Dialogue: 0:19:16.10, 0:19:18.11, Default, {\c&HFFFFFF&}kimmccormik{\c&HFFFFFF&}: 5
 Dialogue: 0:19:16.11, 0:19:18.15, Default, {\c&HFFFFFF&}4itertroll{\c&HFFFFFF&}: LUL
 Dialogue: 0:19:16.12, 0:19:18.15, Default, {\c&HFFFFFF&}kotya_iz_nonsabii{\c&HFFFFFF&}: 14
 Dialogue: 0:19:16.15, 0:19:18.18, Default, {\c&H0000FF&}natsu2dragnil{\c&HFFFFFF&}: 14
@@ -2515,16 +2515,16 @@ Dialogue: 0:19:16.73, 0:19:18.76, Default, {\c&HFFFFFF&}Marrrtha{\c&HFFFFFF&}: 1
 Dialogue: 0:19:16.88, 0:19:18.91, Default, {\c&HFFFFFF&}lionardo27{\c&HFFFFFF&}: 16
 Dialogue: 0:19:16.90, 0:19:18.93, Default, {\c&HFFFFFF&}WaitForHappiness{\c&HFFFFFF&}: 10
 Dialogue: 0:19:16.94, 0:19:19.07, Default, {\c&HFF0000&}ctrelochnik{\c&HFFFFFF&}: 2 мануала
-; Dialogue: 0:19:17.00, 0:19:19.01, Default, {\c&HFF901E&}TOSYAed{\c&HFFFFFF&}: 4
+Dialogue: 0:19:17.00, 0:19:19.01, Default, {\c&HFF901E&}TOSYAed{\c&HFFFFFF&}: 4
 Dialogue: 0:19:17.03, 0:19:19.06, Default, {\c&H507FFF&}ckBoH4{\c&HFFFFFF&}: 16
-; Dialogue: 0:19:17.08, 0:19:19.09, Default, {\c&HFFFFFF&}TFATG{\c&HFFFFFF&}: 8
+Dialogue: 0:19:17.08, 0:19:19.09, Default, {\c&HFFFFFF&}TFATG{\c&HFFFFFF&}: 8
 Dialogue: 0:19:17.12, 0:19:19.15, Default, {\c&HFFFFFF&}SeiriOni{\c&HFFFFFF&}: 17
-; Dialogue: 0:19:17.50, 0:19:19.51, Default, {\c&HFFFFFF&}dimaraz2009{\c&HFFFFFF&}: 9
+Dialogue: 0:19:17.50, 0:19:19.51, Default, {\c&HFFFFFF&}dimaraz2009{\c&HFFFFFF&}: 9
 Dialogue: 0:19:17.55, 0:19:19.58, Default, {\c&HFFFFFF&}LiorT13{\c&HFFFFFF&}: 18
 Dialogue: 0:19:17.64, 0:19:19.67, Default, {\c&HFF0000&}farnis{\c&HFFFFFF&}: 18
 Dialogue: 0:19:17.84, 0:19:20.66, Default, {\c&HFF0000&}mr_nonsab{\c&HFFFFFF&}: Squid1 Squid2 Squid2 TheIlluminati Squid2 Squid2 \NSquid4
 Dialogue: 0:19:17.90, 0:19:19.93, Default, {\c&HFF0000&}hetmansky{\c&HFFFFFF&}: 15
-; Dialogue: 0:19:17.94, 0:19:19.95, Default, {\c&HE22B8A&}IDark_Lotus{\c&HFFFFFF&}: 4
+Dialogue: 0:19:17.94, 0:19:19.95, Default, {\c&HE22B8A&}IDark_Lotus{\c&HFFFFFF&}: 4
 Dialogue: 0:19:18.06, 0:19:20.09, Default, {\c&H0000FF&}generated_name{\c&HFFFFFF&}: 16
 Dialogue: 0:19:18.08, 0:19:20.11, Default, {\c&H20A5DA&}babyka{\c&HFFFFFF&}: 16
 Dialogue: 0:19:18.18, 0:19:20.21, Default, {\c&HFFFFFF&}Marrrtha{\c&HFFFFFF&}: 12
@@ -2537,14 +2537,14 @@ Dialogue: 0:19:18.96, 0:19:20.99, Default, {\c&HFF0000&}blackoren56{\c&HFFFFFF&}
 Dialogue: 0:19:18.98, 0:19:21.01, Default, {\c&HE22B8A&}lIWickedIl{\c&HFFFFFF&}: 58
 Dialogue: 0:19:19.02, 0:19:21.05, Default, {\c&HFFFFFF&}SeiriOni{\c&HFFFFFF&}: 18
 Dialogue: 0:19:19.02, 0:19:21.36, Default, {\c&HE22B8A&}Zmeigo{\c&HFFFFFF&}: Silverhand x⁣3 bufaLove
-; Dialogue: 0:19:19.27, 0:19:21.28, Default, {\c&HFFFFFF&}Gabriellena{\c&HFFFFFF&}: 3
+Dialogue: 0:19:19.27, 0:19:21.28, Default, {\c&HFFFFFF&}Gabriellena{\c&HFFFFFF&}: 3
 Dialogue: 0:19:19.35, 0:19:21.38, Default, {\c&H0000FF&}generated_name{\c&HFFFFFF&}: 17
 Dialogue: 0:19:19.36, 0:19:21.39, Default, {\c&HFF0000&}StrimanSSSS{\c&HFFFFFF&}: 15
 Dialogue: 0:19:19.38, 0:19:21.41, Default, {\c&HFFFFFF&}DanceWR{\c&HFFFFFF&}: 18
 Dialogue: 0:19:19.59, 0:19:21.62, Default, {\c&HE22B8A&}Yukimiraa{\c&HFFFFFF&}: 15
 Dialogue: 0:19:19.61, 0:19:21.64, Default, {\c&HFFFFFF&}verkond{\c&HFFFFFF&}: 16
 Dialogue: 0:19:19.63, 0:19:21.66, Default, {\c&HD3D5D8&}Yukioru_K{\c&HFFFFFF&}: 19
-; Dialogue: 0:19:19.64, 0:19:21.65, Default, {\c&HFFFFFF&}iconicped{\c&HFFFFFF&}: 4
+Dialogue: 0:19:19.64, 0:19:21.65, Default, {\c&HFFFFFF&}iconicped{\c&HFFFFFF&}: 4
 Dialogue: 0:19:19.78, 0:19:21.81, Default, {\c&H20A5DA&}babyka{\c&HFFFFFF&}: 18
 Dialogue: 0:19:19.81, 0:19:21.97, Default, {\c&HA09E5F&}InsaneArcane{\c&HFFFFFF&}: NotLikeThis
 Dialogue: 0:19:19.82, 0:19:21.85, Default, {\c&HFF0000&}hetmansky{\c&HFFFFFF&}: 17
@@ -2573,7 +2573,7 @@ Dialogue: 0:19:21.53, 0:19:23.56, Default, {\c&HFFFFFF&}Artacserocs{\c&HFFFFFF&}
 Dialogue: 0:19:21.57, 0:19:23.60, Default, {\c&HFFFFFF&}LeraPyosel{\c&HFFFFFF&}: 19
 Dialogue: 0:19:21.69, 0:19:23.84, Default, {\c&H7FFF00&}VasylynaUA{\c&HFFFFFF&}: dwillisCry
 Dialogue: 0:19:21.75, 0:19:23.78, Default, {\c&HE22B8A&}Voltaren_Emulgel{\c&HFFFFFF&}: 11
-; Dialogue: 0:19:22.00, 0:19:24.01, Default, {\c&HFFFFFF&}iconicped{\c&HFFFFFF&}: 5
+Dialogue: 0:19:22.00, 0:19:24.01, Default, {\c&HFFFFFF&}iconicped{\c&HFFFFFF&}: 5
 Dialogue: 0:19:22.02, 0:19:24.05, Default, {\c&HFF0000&}farnis{\c&HFFFFFF&}: 21
 Dialogue: 0:19:22.13, 0:19:24.16, Default, {\c&HFFFFFF&}m0kachi{\c&HFFFFFF&}: 19
 Dialogue: 0:19:22.13, 0:19:24.16, Default, {\c&HFFFFFF&}kotya_iz_nonsabii{\c&HFFFFFF&}: 20
@@ -2600,7 +2600,7 @@ Dialogue: 0:19:24.15, 0:19:26.18, Default, {\c&HFFFFFF&}LeraPyosel{\c&HFFFFFF&}:
 Dialogue: 0:19:24.38, 0:19:26.41, Default, {\c&HFFFFFF&}verkond{\c&HFFFFFF&}: 20
 Dialogue: 0:19:24.41, 0:19:26.44, Default, {\c&HB469FF&}Dragontid{\c&HFFFFFF&}: 21
 Dialogue: 0:19:24.51, 0:19:26.54, Default, {\c&HE22B8A&}Voltaren_Emulgel{\c&HFFFFFF&}: 13
-; Dialogue: 0:19:24.52, 0:19:26.53, Default, {\c&HB469FF&}mrazing{\c&HFFFFFF&}: 3
+Dialogue: 0:19:24.52, 0:19:26.53, Default, {\c&HB469FF&}mrazing{\c&HFFFFFF&}: 3
 Dialogue: 0:19:24.53, 0:19:26.56, Default, {\c&HBA1FFF&}GetHelix{\c&HFFFFFF&}: 21
 Dialogue: 0:19:24.55, 0:19:26.58, Default, {\c&HFFFFFF&}Artacserocs{\c&HFFFFFF&}: 21
 Dialogue: 0:19:24.57, 0:19:26.60, Default, {\c&HFFFFFF&}Marrrtha{\c&HFFFFFF&}: 19
@@ -2655,8 +2655,8 @@ Dialogue: 0:19:28.55, 0:19:30.58, Default, {\c&HFF0000&}StrimanSSSS{\c&HFFFFFF&}
 Dialogue: 0:19:28.62, 0:19:30.65, Default, {\c&H7FFF00&}VasylynaUA{\c&HFFFFFF&}: 26
 Dialogue: 0:19:28.66, 0:19:30.69, Default, {\c&H0000FF&}zTHUNDERSTORM{\c&HFFFFFF&}: 25
 Dialogue: 0:19:28.69, 0:19:30.72, Default, {\c&HFFFFFF&}kimmccormik{\c&HFFFFFF&}: 17
-; Dialogue: 0:19:28.70, 0:19:30.71, Default, {\c&HE22B8A&}annacorpse{\c&HFFFFFF&}: 1
-; Dialogue: 0:19:28.75, 0:19:30.76, Default, {\c&HB469FF&}mrazing{\c&HFFFFFF&}: 4
+Dialogue: 0:19:28.70, 0:19:30.71, Default, {\c&HE22B8A&}annacorpse{\c&HFFFFFF&}: 1
+Dialogue: 0:19:28.75, 0:19:30.76, Default, {\c&HB469FF&}mrazing{\c&HFFFFFF&}: 4
 Dialogue: 0:19:29.03, 0:19:31.06, Default, {\c&HFFFFFF&}SeiriOni{\c&HFFFFFF&}: 26
 Dialogue: 0:19:29.05, 0:19:31.08, Default, {\c&HFFFFFF&}dimaraz2009{\c&HFFFFFF&}: 20
 Dialogue: 0:19:29.06, 0:19:31.25, Default, {\c&HFFFFFF&}captain_nonsub{\c&HFFFFFF&}: bufaScary x⁣3
@@ -3060,7 +3060,7 @@ Dialogue: 0:20:05.87, 0:20:07.90, Default, {\c&H507FFF&}valerie_tuck{\c&HFFFFFF&
 Dialogue: 0:20:05.90, 0:20:07.93, Default, {\c&HE22B8A&}Voltaren_Emulgel{\c&HFFFFFF&}: 48
 Dialogue: 0:20:05.94, 0:20:07.97, Default, {\c&HBA1FFF&}GetHelix{\c&HFFFFFF&}: 57
 Dialogue: 0:20:06.02, 0:20:08.05, Default, {\c&H0000FF&}chlen_vagNn{\c&HFFFFFF&}: 58
-; Dialogue: 0:20:06.04, 0:20:08.05, Default, {\c&HFFFFFF&}volodymyrpl{\c&HFFFFFF&}: 1
+Dialogue: 0:20:06.04, 0:20:08.05, Default, {\c&HFFFFFF&}volodymyrpl{\c&HFFFFFF&}: 1
 Dialogue: 0:20:06.23, 0:20:08.26, Default, {\c&HE22B8A&}Yukimiraa{\c&HFFFFFF&}: 55
 Dialogue: 0:20:06.38, 0:20:08.41, Default, {\c&HB469FF&}Dragontid{\c&HFFFFFF&}: 56
 Dialogue: 0:20:06.39, 0:20:08.42, Default, {\c&HFFFFFF&}kotya_iz_nonsabii{\c&HFFFFFF&}: 58
@@ -3095,8 +3095,8 @@ Dialogue: 0:20:10.40, 0:20:12.43, Default, {\c&H008000&}kirill1664{\c&HFFFFFF&}:
 Dialogue: 0:20:10.88, 0:20:13.12, Default, {\c&HFFFFFF&}ubuntu_kubuntu_edubuntu{\c&HFFFFFF&}: манулов считаем?
 Dialogue: 0:20:11.10, 0:20:13.26, Default, {\c&HFFFFFF&}pora_pora{\c&HFFFFFF&}: bufaHee x⁣5
 Dialogue: 0:20:11.65, 0:20:13.68, Default, {\c&HE22B8A&}Voltaren_Emulgel{\c&HFFFFFF&}: 53
-; Dialogue: 0:20:11.80, 0:20:13.81, Default, {\c&H507FFF&}zhulyamona{\c&HFFFFFF&}: 3
-; Dialogue: 0:20:11.95, 0:20:13.96, Default, {\c&HB469FF&}faradeus_game{\c&HFFFFFF&}: 4
+Dialogue: 0:20:11.80, 0:20:13.81, Default, {\c&H507FFF&}zhulyamona{\c&HFFFFFF&}: 3
+Dialogue: 0:20:11.95, 0:20:13.96, Default, {\c&HB469FF&}faradeus_game{\c&HFFFFFF&}: 4
 Dialogue: 0:20:12.10, 0:20:14.23, Default, {\c&HFFFFFF&}ELAYONE{\c&HFFFFFF&}: 58 манудо
 Dialogue: 0:20:12.46, 0:20:14.58, Default, {\c&HD3D5D8&}Yukioru_K{\c&HFFFFFF&}: Jebaited
 Dialogue: 0:20:12.49, 0:20:15.09, Default, {\c&HA09E5F&}tosinpupok{\c&HFFFFFF&}: @nekonic0le, @perrrrkele PETTHECAT pepeL
@@ -3115,18 +3115,18 @@ Dialogue: 0:20:14.06, 0:20:16.16, Default, {\c&HE22B8A&}IDark_Lotus{\c&HFFFFFF&}
 Dialogue: 0:20:14.20, 0:20:16.32, Default, {\c&HE22B8A&}JusTin8x{\c&HFFFFFF&}: неееееее
 Dialogue: 0:20:14.24, 0:20:16.30, Default, {\c&HFF901E&}Sire_Tsarapka{\c&HFFFFFF&}: KEKW
 Dialogue: 0:20:14.34, 0:20:16.37, Default, {\c&HFFFFFF&}Sheinan{\c&HFFFFFF&}: 56
-; Dialogue: 0:20:14.56, 0:20:16.57, Default, {\c&HB469FF&}faradeus_game{\c&HFFFFFF&}: 7
+Dialogue: 0:20:14.56, 0:20:16.57, Default, {\c&HB469FF&}faradeus_game{\c&HFFFFFF&}: 7
 Dialogue: 0:20:14.65, 0:20:16.77, Default, {\c&H20A5DA&}Mishkau{\c&HFFFFFF&}: Опяяять?
 Dialogue: 0:20:14.65, 0:20:16.75, Default, {\c&H0000FF&}VerN4221{\c&HFFFFFF&}: LUL x⁣4
 Dialogue: 0:20:14.66, 0:20:16.69, Default, {\c&HE22B8A&}Voltaren_Emulgel{\c&HFFFFFF&}: 56
 Dialogue: 0:20:14.68, 0:20:16.71, Default, {\c&HFF0000&}SpikeSSSSSS{\c&HFFFFFF&}: 10
 Dialogue: 0:20:14.69, 0:20:16.81, Default, {\c&H20A5DA&}IrlandskayaKyrochka{\c&HFFFFFF&}: KEKW x⁣4
 Dialogue: 0:20:14.70, 0:20:16.74, Default, {\c&HFFFFFF&}nomad1104{\c&HFFFFFF&}: ору
-; Dialogue: 0:20:14.77, 0:20:16.78, Default, {\c&HE22B8A&}Yukimiraa{\c&HFFFFFF&}: 1
+Dialogue: 0:20:14.77, 0:20:16.78, Default, {\c&HE22B8A&}Yukimiraa{\c&HFFFFFF&}: 1
 Dialogue: 0:20:14.78, 0:20:16.84, Default, {\c&HFFFFFF&}kotya_iz_nonsabii{\c&HFFFFFF&}: KEKW
 Dialogue: 0:20:15.11, 0:20:17.21, Default, {\c&HA09E5F&}KuroAozora{\c&HFFFFFF&}: LUL x⁣4
 Dialogue: 0:20:15.33, 0:20:17.36, Default, {\c&HFFFFFF&}anutka_tirex{\c&HFFFFFF&}: 60
-; Dialogue: 0:20:15.54, 0:20:17.55, Default, {\c&H20A5DA&}Raurwol{\c&HFFFFFF&}: 9
+Dialogue: 0:20:15.54, 0:20:17.55, Default, {\c&H20A5DA&}Raurwol{\c&HFFFFFF&}: 9
 Dialogue: 0:20:15.55, 0:20:17.61, Default, {\c&HED0980&}m__slava{\c&HFFFFFF&}: KEKW
 Dialogue: 0:20:16.23, 0:20:18.26, Default, {\c&H507FFF&}zhulyamona{\c&HFFFFFF&}: 10
 Dialogue: 0:20:16.38, 0:20:18.50, Default, {\c&HFFFFFF&}TFATG{\c&HFFFFFF&}: юхуууууу
@@ -3143,7 +3143,7 @@ Dialogue: 0:20:17.22, 0:20:19.28, Default, {\c&HFF0000&}SibiroM{\c&HFFFFFF&}: KE
 Dialogue: 0:20:17.23, 0:20:19.26, Default, {\c&H008000&}lariooos{\c&HFFFFFF&}: 10
 Dialogue: 0:20:17.38, 0:20:19.48, Default, {\c&H0000FF&}Gulraetur{\c&HFFFFFF&}: LUL x⁣6
 Dialogue: 0:20:17.42, 0:20:19.45, Default, {\c&HE22B8A&}Voltaren_Emulgel{\c&HFFFFFF&}: 57
-; Dialogue: 0:20:17.46, 0:20:19.47, Default, {\c&HA09E5F&}lora_shet{\c&HFFFFFF&}: 3
+Dialogue: 0:20:17.46, 0:20:19.47, Default, {\c&HA09E5F&}lora_shet{\c&HFFFFFF&}: 3
 Dialogue: 0:20:17.47, 0:20:19.53, Default, {\c&H1DBE9B&}aire_19{\c&HFFFFFF&}: KEKW
 Dialogue: 0:20:17.76, 0:20:20.13, Default, {\c&HBA1FFF&}GetHelix{\c&HFFFFFF&}: NotLikeThis x⁣4 SeemsGood
 Dialogue: 0:20:17.86, 0:20:19.92, Default, {\c&HFF901E&}MoyaBulochka{\c&HFFFFFF&}: KEKW
@@ -3413,9 +3413,9 @@ Dialogue: 0:21:09.31, 0:21:11.79, Default, {\c&HFFFFFF&}Redux_de_fix{\c&HFFFFFF&
 Dialogue: 0:21:09.61, 0:21:11.95, Default, {\c&HFFFFFF&}dayommi14{\c&HFFFFFF&}: Оставим семпая без ушей
 Dialogue: 0:21:09.92, 0:21:11.95, Default, {\c&HFF901E&}fallowCatDeer{\c&HFFFFFF&}: 31
 Dialogue: 0:21:10.70, 0:21:12.79, Default, {\c&H507FFF&}chyatik{\c&HFFFFFF&}: Ахахаа
-; Dialogue: 0:21:11.52, 0:21:13.53, Default, {\c&H7FFF00&}ABAKADO_{\c&HFFFFFF&}: 3
+Dialogue: 0:21:11.52, 0:21:13.53, Default, {\c&H7FFF00&}ABAKADO_{\c&HFFFFFF&}: 3
 Dialogue: 0:21:11.80, 0:21:13.95, Default, {\c&HFFFFFF&}iva225{\c&HFFFFFF&}: 59 манулов
-; Dialogue: 0:21:12.56, 0:21:14.57, Default, {\c&HE22B8A&}Voltaren_Emulgel{\c&HFFFFFF&}: 3
+Dialogue: 0:21:12.56, 0:21:14.57, Default, {\c&HE22B8A&}Voltaren_Emulgel{\c&HFFFFFF&}: 3
 Dialogue: 0:21:12.84, 0:21:15.05, Default, {\c&HFF0000&}SibiroM{\c&HFFFFFF&}: Это третий раз
 Dialogue: 0:21:13.26, 0:21:15.35, Default, {\c&HFFFFFF&}dimonpokimon4ik{\c&HFFFFFF&}: 3 раза
 Dialogue: 0:21:14.00, 0:21:16.34, Default, {\c&HFFFFFF&}Baletazar{\c&HFFFFFF&}: @true_originally дратуй
@@ -6590,7 +6590,7 @@ Dialogue: 0:50:26.42, 0:50:28.63, Default, {\c&HFF0000&}PoMuDoRu4{\c&HFFFFFF&}: 
 ; Dialogue: 0:50:26.61, 0:50:28.68, Default, {\c&H20A5DA&}Raurwol{\c&HFFFFFF&}: !play
 ; Dialogue: 0:50:26.64, 0:50:28.71, Default, {\c&HE22B8A&}Voron_Psyx{\c&HFFFFFF&}: !play
 Dialogue: 0:50:26.79, 0:50:28.85, Default, {\c&HE22B8A&}Powdereds{\c&HFFFFFF&}: 5478
-; Dialogue: 0:50:26.86, 0:50:28.87, Default, {\c&HFF0000&}kashim777{\c&HFFFFFF&}: 4
+Dialogue: 0:50:26.86, 0:50:28.87, Default, {\c&HFF0000&}kashim777{\c&HFFFFFF&}: 4
 ; Dialogue: 0:50:26.97, 0:50:29.04, Default, {\c&HFF0000&}SpikeSSSSSS{\c&HFFFFFF&}: !play
 ; Dialogue: 0:50:27.03, 0:50:29.10, Default, {\c&HE22B8A&}driwhl{\c&HFFFFFF&}: !play
 ; Dialogue: 0:50:27.15, 0:50:29.22, Default, {\c&H2222B2&}motherofevil{\c&HFFFFFF&}: !play
@@ -6917,7 +6917,7 @@ Dialogue: 0:50:58.85, 0:51:00.97, Default, {\c&H0000FF&}Shadow047{\c&HFFFFFF&}: 
 ; Dialogue: 0:50:59.06, 0:51:01.13, Default, {\c&H0000FF&}Brut112{\c&HFFFFFF&}: !play
 ; Dialogue: 0:50:59.09, 0:51:01.16, Default, {\c&HFF0000&}zbachelorz{\c&HFFFFFF&}: !play
 ; Dialogue: 0:50:59.17, 0:51:01.24, Default, {\c&H7FFF00&}AgrikTD{\c&HFFFFFF&}: !play
-; Dialogue: 0:50:59.18, 0:51:01.19, Default, {\c&H007BFF&}JackKon{\c&HFFFFFF&}: 2
+Dialogue: 0:50:59.18, 0:51:01.19, Default, {\c&H007BFF&}JackKon{\c&HFFFFFF&}: 2
 ; Dialogue: 0:50:59.23, 0:51:01.30, Default, {\c&HFFFFFF&}reory{\c&HFFFFFF&}: !play
 ; Dialogue: 0:50:59.47, 0:51:01.54, Default, {\c&HB469FF&}aliceamir{\c&HFFFFFF&}: !play
 ; Dialogue: 0:50:59.49, 0:51:01.56, Default, {\c&HFFFFFF&}mitgards{\c&HFFFFFF&}: !play
@@ -7806,7 +7806,7 @@ Dialogue: 0:52:33.92, 0:52:35.98, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}:
 ; Dialogue: 0:52:34.75, 0:52:36.82, Default, {\c&H32CD9A&}Eztekto{\c&HFFFFFF&}: !play
 ; Dialogue: 0:52:34.76, 0:52:36.83, Default, {\c&HFFFFFF&}verkond{\c&HFFFFFF&}: !play
 ; Dialogue: 0:52:34.78, 0:52:36.85, Default, {\c&HFFFFFF&}sova_svetka{\c&HFFFFFF&}: !play
-Dialogue: 0:52:34.86, 0:52:36.93, Default, {\c&H7FFF00&}KredoRoyals{\c&HFFFFFF&}: \play
+; Dialogue: 0:52:34.86, 0:52:36.93, Default, {\c&H7FFF00&}KredoRoyals{\c&HFFFFFF&}: \play
 ; Dialogue: 0:52:34.87, 0:52:36.94, Default, {\c&H0000FF&}SERIOUSGAMESRU{\c&HFFFFFF&}: !play
 ; Dialogue: 0:52:35.02, 0:52:37.09, Default, {\c&H7FFF00&}whitecatart{\c&HFFFFFF&}: !play
 ; Dialogue: 0:52:35.12, 0:52:37.19, Default, {\c&HFFFFFF&}puffalopill23{\c&HFFFFFF&}: !play
@@ -7873,7 +7873,7 @@ Dialogue: 0:52:43.29, 0:52:45.66, Default, {\c&HE22B8A&}Danil_M_I{\c&HFFFFFF&}: 
 ; Dialogue: 0:52:43.59, 0:52:45.66, Default, {\c&H7FFF00&}Evpat_Babay{\c&HFFFFFF&}: !play
 ; Dialogue: 0:52:44.27, 0:52:46.34, Default, {\c&H20A5DA&}Giffest{\c&HFFFFFF&}: !play
 ; Dialogue: 0:52:44.28, 0:52:46.35, Default, {\c&HFFFFFF&}True_Originally{\c&HFFFFFF&}: !play
-Dialogue: 0:52:44.55, 0:52:46.62, Default, {\c&HFFFFFF&}blue_yoti{\c&HFFFFFF&}: \play
+; Dialogue: 0:52:44.55, 0:52:46.62, Default, {\c&HFFFFFF&}blue_yoti{\c&HFFFFFF&}: \play
 ; Dialogue: 0:52:44.58, 0:52:46.65, Default, {\c&HB469FF&}wavynds{\c&HFFFFFF&}: !play
 Dialogue: 0:52:44.70, 0:52:46.97, Default, {\c&HB469FF&}alexia_rubleva{\c&HFFFFFF&}: ааа волна унеслааа
 ; Dialogue: 0:52:44.71, 0:52:46.78, Default, {\c&HE22B8A&}Denval96{\c&HFFFFFF&}: !play
@@ -10275,7 +10275,7 @@ Dialogue: 0:58:47.13, 0:58:49.19, Default, {\c&H0000FF&}DreamerGist{\c&HFFFFFF&}
 ; Dialogue: 0:58:47.22, 0:58:49.31, Default, {\c&HFFFFFF&}DanziTO_LoL{\c&HFFFFFF&}: !boost
 Dialogue: 0:58:47.58, 0:58:49.62, Default, {\c&H0000FF&}ekslide{\c&HFFFFFF&}: бан
 Dialogue: 0:58:48.03, 0:58:50.31, Default, {\c&HFF901E&}letzzzgetiton{\c&HFFFFFF&}: @BlackUFA перманент
-; Dialogue: 0:58:48.10, 0:58:50.11, Default, {\c&HFFFFFF&}Norb8737{\c&HFFFFFF&}: 1
+Dialogue: 0:58:48.10, 0:58:50.11, Default, {\c&HFFFFFF&}Norb8737{\c&HFFFFFF&}: 1
 ; Dialogue: 0:58:48.16, 0:58:50.25, Default, {\c&HFFFFFF&}extra7m{\c&HFFFFFF&}: !boost
 Dialogue: 0:58:48.23, 0:58:50.65, Default, {\c&HFFFFFF&}BUeBU_{\c&HFFFFFF&}: каждый свой ник высматривает
 Dialogue: 0:58:48.27, 0:58:50.49, Default, {\c&HFFFFFF&}11sole11{\c&HFFFFFF&}: подписку и бан)
@@ -13937,7 +13937,7 @@ Dialogue: 1:09:20.26, 1:09:22.39, Default, {\c&HFFFFFF&}iconicped{\c&HFFFFFF&}: 
 ; Dialogue: 1:09:24.57, 1:09:26.64, Default, {\c&HFFFFFF&}ubuntu_kubuntu_edubuntu{\c&HFFFFFF&}: !play
 ; Dialogue: 1:09:24.59, 1:09:26.66, Default, {\c&HFFFFFF&}Pendalf_f{\c&HFFFFFF&}: !play
 ; Dialogue: 1:09:24.60, 1:09:26.67, Default, {\c&HFF0000&}mr_nonsab{\c&HFFFFFF&}: !play
-; Dialogue: 1:09:24.70, 1:09:26.71, Default, {\c&HFFFFFF&}TN_DRE{\c&HFFFFFF&}: 1
+Dialogue: 1:09:24.70, 1:09:26.71, Default, {\c&HFFFFFF&}TN_DRE{\c&HFFFFFF&}: 1
 ; Dialogue: 1:09:25.02, 1:09:27.09, Default, {\c&H7FFF00&}SaD_AleX{\c&HFFFFFF&}: !play
 ; Dialogue: 1:09:25.14, 1:09:27.21, Default, {\c&HFFFFFF&}estarshome{\c&HFFFFFF&}: !play
 ; Dialogue: 1:09:25.20, 1:09:27.27, Default, {\c&HFFFFFF&}VorobeyVorobey{\c&HFFFFFF&}: !play
@@ -16441,7 +16441,7 @@ Dialogue: 1:15:42.97, 1:15:45.72, Default, {\c&HFFFFFF&}dante_r0se{\c&HFFFFFF&}:
 Dialogue: 1:15:43.43, 1:15:45.55, Default, {\c&HB469FF&}faradeus_game{\c&HFFFFFF&}: не попал
 Dialogue: 1:15:44.72, 1:15:47.24, Default, {\c&HFFFFFF&}Viruc95{\c&HFFFFFF&}: спасибо всем за поддержку стремлера
 Dialogue: 1:15:44.84, 1:15:47.09, Default, {\c&HFFFFFF&}Namad_Cry{\c&HFFFFFF&}: Scar2703 подписка
-; Dialogue: 1:15:45.12, 1:15:47.13, Default, {\c&HFFFFFF&}LaLkish{\c&HFFFFFF&}: 1
+Dialogue: 1:15:45.12, 1:15:47.13, Default, {\c&HFFFFFF&}LaLkish{\c&HFFFFFF&}: 1
 Dialogue: 1:15:45.22, 1:15:47.31, Default, {\c&HB469FF&}chummasha{\c&HFFFFFF&}: <3 x⁣3
 Dialogue: 1:15:45.61, 1:15:47.95, Default, {\c&HFFFFFF&}Rustorque{\c&HFFFFFF&}: @BlackUFA Да, работает.
 Dialogue: 1:15:45.65, 1:15:47.72, Default, {\c&HFFFFFF&}ilonil_ufo{\c&HFFFFFF&}: мима.
@@ -17540,7 +17540,7 @@ Dialogue: 1:22:53.70, 1:22:55.83, Default, {\c&H1DBE9B&}aire_19{\c&HFFFFFF&}: KE
 ; Dialogue: 1:22:54.63, 1:22:56.70, Default, {\c&H008000&}D_a_S_h_A_K98{\c&HFFFFFF&}: !play
 ; Dialogue: 1:22:54.68, 1:22:56.75, Default, {\c&HFFFFFF&}Amoderas{\c&HFFFFFF&}: !play
 ; Dialogue: 1:22:55.27, 1:22:57.34, Default, {\c&H32CD9A&}trollfecev2{\c&HFFFFFF&}: !play
-; Dialogue: 1:22:55.47, 1:22:57.48, Default, {\c&HB469FF&}lina_yankovskaya{\c&HFFFFFF&}: 1
+Dialogue: 1:22:55.47, 1:22:57.48, Default, {\c&HB469FF&}lina_yankovskaya{\c&HFFFFFF&}: 1
 ; Dialogue: 1:22:55.62, 1:22:57.71, Default, {\c&HFF0000&}mr_nonsab{\c&HFFFFFF&}: !speed
 ; Dialogue: 1:22:55.74, 1:22:57.81, Default, {\c&HE22B8A&}ScaryLime{\c&HFFFFFF&}: !play
 ; Dialogue: 1:22:55.90, 1:22:57.97, Default, {\c&H0000FF&}infinitelifeline{\c&HFFFFFF&}: !play
@@ -19110,7 +19110,7 @@ Dialogue: 1:26:52.77, 1:26:54.80, Default, {\c&HFFFFFF&}rinakarrent{\c&HFFFFFF&}
 ; Dialogue: 1:26:52.80, 1:26:54.89, Default, {\c&HFFFFFF&}rien_ma{\c&HFFFFFF&}: !boost
 ; Dialogue: 1:26:52.99, 1:26:55.06, Default, {\c&HFFFFFF&}NataliVulpi{\c&HFFFFFF&}: !play
 ; Dialogue: 1:26:53.06, 1:26:55.13, Default, {\c&HE22B8A&}Zonomis{\c&HFFFFFF&}: !play
-; Dialogue: 1:26:53.10, 1:26:55.11, Default, {\c&HFFFFFF&}TheOzoneHole{\c&HFFFFFF&}: 8
+Dialogue: 1:26:53.10, 1:26:55.11, Default, {\c&HFFFFFF&}TheOzoneHole{\c&HFFFFFF&}: 8
 ; Dialogue: 1:26:53.19, 1:26:55.31, Default, {\c&HFFFFFF&}lllblackskylll{\c&HFFFFFF&}: !boost16
 ; Dialogue: 1:26:54.36, 1:26:56.43, Default, {\c&HFFFFFF&}jagerr4{\c&HFFFFFF&}: !play
 Dialogue: 1:26:54.55, 1:26:56.74, Default, {\c&H7FFF00&}UAZ1KK_Lee_enfield{\c&HFFFFFF&}: Хеееееееееее!
@@ -19161,7 +19161,7 @@ Dialogue: 1:27:04.09, 1:27:06.34, Default, {\c&H008000&}irikost{\c&HFFFFFF&}: Pe
 ; Dialogue: 1:27:04.39, 1:27:06.46, Default, {\c&HE22B8A&}Yukimiraa{\c&HFFFFFF&}: !play
 ; Dialogue: 1:27:04.57, 1:27:06.66, Default, {\c&HA09E5F&}moceraptor{\c&HFFFFFF&}: !boost
 ; Dialogue: 1:27:04.59, 1:27:06.66, Default, {\c&HFFFFFF&}Gogestt{\c&HFFFFFF&}: !play
-; Dialogue: 1:27:05.02, 1:27:07.03, Default, {\c&HFFFFFF&}TheOzoneHole{\c&HFFFFFF&}: 8
+Dialogue: 1:27:05.02, 1:27:07.03, Default, {\c&HFFFFFF&}TheOzoneHole{\c&HFFFFFF&}: 8
 ; Dialogue: 1:27:05.10, 1:27:07.19, Default, {\c&H0000FF&}beautiful_sunset_{\c&HFFFFFF&}: !boost
 ; Dialogue: 1:27:05.13, 1:27:07.20, Default, {\c&HFFFFFF&}lllblackskylll{\c&HFFFFFF&}: !play
 ; Dialogue: 1:27:05.17, 1:27:07.26, Default, {\c&HE22B8A&}Foxydwarf{\c&HFFFFFF&}: !boost
@@ -22410,7 +22410,7 @@ Dialogue: 1:47:59.87, 1:48:01.97, Default, {\c&HFFFFFF&}munvod{\c&HFFFFFF&}: 1 �
 Dialogue: 1:48:00.68, 1:48:02.99, Default, {\c&HFFFFFF&}ubivaska777{\c&HFFFFFF&}: Куда стример уезжает?
 Dialogue: 1:48:02.32, 1:48:04.36, Default, {\c&HFFFFFF&}arantler{\c&HFFFFFF&}: net
 Dialogue: 1:48:03.14, 1:48:05.50, Default, {\c&H507FFF&}ckBoH4{\c&HFFFFFF&}: peePoo peepoT hinxRocket
-; Dialogue: 1:48:04.90, 1:48:06.91, Default, {\c&H288F00&}ThisRockTv{\c&HFFFFFF&}: 1
+Dialogue: 1:48:04.90, 1:48:06.91, Default, {\c&H288F00&}ThisRockTv{\c&HFFFFFF&}: 1
 Dialogue: 1:48:05.05, 1:48:07.14, Default, {\c&HB319AB&}Vatandi{\c&HFFFFFF&}: peePoo
 Dialogue: 1:48:05.52, 1:48:08.04, Default, {\c&H7FFF00&}dark_eastwood{\c&HFFFFFF&}: @BlackUFA Давай потянем пока за уши
 Dialogue: 1:48:05.63, 1:48:08.38, Default, {\c&HFFFFFF&}Kelliona{\c&HFFFFFF&}: @ iji99pro не капси, иначе уйдёшь надолго в бан :)
@@ -23903,7 +23903,7 @@ Dialogue: 2:06:23.75, 2:06:25.81, Default, {\c&H1DBE9B&}aire_19{\c&HFFFFFF&}: KE
 Dialogue: 2:06:24.01, 2:06:26.25, Default, {\c&HFFFFFF&}EugeneKrot{\c&HFFFFFF&}: Как не только???
 Dialogue: 2:06:24.69, 2:06:26.87, Default, {\c&H20A5DA&}la_ruina{\c&HFFFFFF&}: Соски в винЕ
 Dialogue: 2:06:25.78, 2:06:28.14, Default, {\c&H008000&}MegaZetko{\c&HFFFFFF&}: Сосиски в венах Kreygasm
-Dialogue: 2:06:27.63, 2:06:29.66, Default, {\c&HFF0000&}vadya_777{\c&HFFFFFF&}: \\
+; Dialogue: 2:06:27.63, 2:06:29.66, Default, {\c&HFF0000&}vadya_777{\c&HFFFFFF&}: \\
 Dialogue: 2:06:28.91, 2:06:31.52, Default, {\c&H0000FF&}Evil_Spartan{\c&HFFFFFF&}: И Санкт-Петербург не только в России кста
 Dialogue: 2:06:29.02, 2:06:31.62, Default, {\c&H0045FF&}Patrick_Krolikoy{\c&HFFFFFF&}: Уфа останется у нас в сердечке навсихда!
 Dialogue: 2:06:29.56, 2:06:32.04, Default, {\c&HD3D5D8&}Yukioru_K{\c&HFFFFFF&}: @BlackUFA А просто Black занято?
@@ -24610,14 +24610,14 @@ Dialogue: 2:19:33.69, 2:19:36.09, Default, {\c&HFFFFFF&}aceventuracool{\c&HFFFFF
 Dialogue: 2:19:34.43, 2:19:36.85, Default, {\c&H20A5DA&}timurday{\c&HFFFFFF&}: Чат там 2 геймпада , вы чего
 Dialogue: 2:19:36.22, 2:19:38.49, Default, {\c&H0000FF&}NikolayOss{\c&HFFFFFF&}: 2 на стойке от ПС3
 Dialogue: 2:19:37.85, 2:19:39.97, Default, {\c&HFFFFFF&}sly_keeper{\c&HFFFFFF&}: приблизь
-; Dialogue: 2:19:38.60, 2:19:40.61, Default, {\c&H578B2E&}gohazard{\c&HFFFFFF&}: 3
+Dialogue: 2:19:38.60, 2:19:40.61, Default, {\c&H578B2E&}gohazard{\c&HFFFFFF&}: 3
 Dialogue: 2:19:42.23, 2:19:44.65, Default, {\c&HB469FF&}It_is_alive_{\c&HFFFFFF&}: @Albatros128 Привет bufaLove
 Dialogue: 2:19:42.46, 2:19:44.65, Default, {\c&H20A5DA&}justfreeee{\c&HFFFFFF&}: и бюст Ленина
 Dialogue: 2:19:43.04, 2:19:45.35, Default, {\c&H20A5DA&}NickWorraps{\c&HFFFFFF&}: @BlackUFA гитара есть
 Dialogue: 2:19:44.98, 2:19:47.79, Default, {\c&H0045FF&}mr_san_sanych{\c&HFFFFFF&}: и вдшка! bufaNiOH2 bufaNiOH2 artgamesRAGE \NartgamesRAGE
 Dialogue: 2:19:45.36, 2:19:47.52, Default, {\c&HE22B8A&}HubaD{\c&HFFFFFF&}: NotLikeThis
 Dialogue: 2:19:47.06, 2:19:49.16, Default, {\c&H0000F9&}st0rm3h{\c&HFFFFFF&}: гитарка
-; Dialogue: 2:19:47.72, 2:19:49.73, Default, {\c&HFFFFFF&}alavitar{\c&HFFFFFF&}: 3
+Dialogue: 2:19:47.72, 2:19:49.73, Default, {\c&HFFFFFF&}alavitar{\c&HFFFFFF&}: 3
 Dialogue: 2:19:49.92, 2:19:52.28, Default, {\c&H0000FF&}Krass_Ural{\c&HFFFFFF&}: фатка третья и четвертая
 Dialogue: 2:19:53.26, 2:19:55.47, Default, {\c&H0000FF&}ex739{\c&HFFFFFF&}: -подъписки?...
 Dialogue: 2:19:56.22, 2:19:58.62, Default, {\c&HE22B8A&}REYKAToly{\c&HFFFFFF&}: это не два, это стекло ало)

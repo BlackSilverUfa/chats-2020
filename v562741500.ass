@@ -4201,7 +4201,7 @@ Dialogue: 1:07:42.92, 1:07:45.14, Default, {\c&HE22B8A&}TheDrHax{\c&HFFFFFF&}: M
 Dialogue: 1:07:43.73, 1:07:45.86, Default, {\c&H0000FF&}Peka_Sychiov{\c&HFFFFFF&}: BSUWasted
 Dialogue: 1:07:43.73, 1:07:46.01, Default, {\c&H20A5DA&}Aniloks{\c&HFFFFFF&}: @LevRight CatCrying
 ; Dialogue: 1:07:44.12, 1:07:46.18, Default, {\c&HFFFFFF&}Scarlet_Titannium{\c&HFFFFFF&}: heal
-Dialogue: 1:07:45.23, 1:07:47.32, Default, {\c&HFFFFFF&}mowonkaslonika{\c&HFFFFFF&}: noheal
+; Dialogue: 1:07:45.23, 1:07:47.32, Default, {\c&HFFFFFF&}mowonkaslonika{\c&HFFFFFF&}: noheal
 Dialogue: 1:07:48.98, 1:07:51.91, Default, {\c&H872427&}petrodigitator{\c&HFFFFFF&}: Кстати, скоро босс, а Артур со стартовым \Nмечом ходит bufaLough
 ; Dialogue: 1:07:49.19, 1:07:51.25, Default, {\c&HFFFFFF&}sweety_problem{\c&HFFFFFF&}: Heal
 Dialogue: 1:07:49.65, 1:07:52.35, Default, {\c&H008000&}Roorm{\c&HFFFFFF&}: да что не понятно то , Артур Плохо играет Kappa
@@ -4609,7 +4609,7 @@ Dialogue: 1:10:45.80, 1:10:47.86, Default, {\c&H7FFF00&}kenobi42{\c&HFFFFFF&}: �
 ; Dialogue: 1:10:46.19, 1:10:48.26, Default, {\c&HFFFFFF&}SandroAligiery{\c&HFFFFFF&}: хрясь
 Dialogue: 1:10:46.21, 1:10:48.28, Default, {\c&HFF0000&}APTOPUAC{\c&HFFFFFF&}: дзынь
 ; Dialogue: 1:10:46.23, 1:10:48.27, Default, {\c&HFFFFFF&}nianmi{\c&HFFFFFF&}: так
-Dialogue: 1:10:46.42, 1:10:48.46, Default, {\c&HFFFFFF&}Vudu_Bell{\c&HFFFFFF&}: бам
+; Dialogue: 1:10:46.42, 1:10:48.46, Default, {\c&HFFFFFF&}Vudu_Bell{\c&HFFFFFF&}: бам
 ; Dialogue: 1:10:46.47, 1:10:48.51, Default, {\c&H0000FF&}floppy_dissk{\c&HFFFFFF&}: тик
 ; Dialogue: 1:10:46.57, 1:10:48.61, Default, {\c&HE22B8A&}ciliamfate{\c&HFFFFFF&}: буф
 Dialogue: 1:10:46.73, 1:10:49.06, Default, {\c&HFFFFFF&}krevedco3000{\c&HFFFFFF&}: Настроение крутое пике
@@ -5521,7 +5521,7 @@ Dialogue: 1:19:19.94, 1:19:21.98, Default, {\c&H0000FF&}sanguinec{\c&HFFFFFF&}: 
 Dialogue: 1:19:20.73, 1:19:22.85, Default, {\c&HFFFFFF&}mikkirus{\c&HFFFFFF&}: ну зачем
 Dialogue: 1:19:20.94, 1:19:23.48, Default, {\c&HFFFFFF&}polstiv06{\c&HFFFFFF&}: @blackufa так ты анекдот и не просил
 Dialogue: 1:19:21.48, 1:19:23.94, Default, {\c&HFFFFFF&}V_A_R_I_O_R{\c&HFFFFFF&}: @BlackUFA на самом верху секрет
-Dialogue: 1:19:22.41, 1:19:24.60, Default, {\c&H872427&}petrodigitator{\c&HFFFFFF&}: Бам bufaLough
+; Dialogue: 1:19:22.41, 1:19:24.60, Default, {\c&H872427&}petrodigitator{\c&HFFFFFF&}: Бам bufaLough
 Dialogue: 1:19:32.39, 1:19:34.48, Default, {\c&HFFFFFF&}russkii_perec{\c&HFFFFFF&}: оставь
 Dialogue: 1:19:33.85, 1:19:36.06, Default, {\c&H2222B2&}infernal216{\c&HFFFFFF&}: лимонку выкинь
 Dialogue: 1:19:34.52, 1:19:36.91, Default, {\c&HFFFFFF&}vladiskor_tw{\c&HFFFFFF&}: icq ж не восстанавливается

@@ -46,7 +46,7 @@ Dialogue: 0:00:45.79, 0:00:48.21, Default, {\c&H20A5DA&}z_1_o_o_o{\c&HFFFFFF&}: 
 Dialogue: 0:00:45.84, 0:00:47.97, Default, {\c&HFFFFFF&}AdmiralSaibot{\c&HFFFFFF&}: О, явился
 Dialogue: 0:00:46.33, 0:00:48.61, Default, {\c&HFFFFFF&}SputnikSviazy{\c&HFFFFFF&}: ResidentSleeper x⁣4
 Dialogue: 0:00:46.45, 0:00:48.55, Default, {\c&HFFFFFF&}alan_legioner{\c&HFFFFFF&}: MedTime
-; Dialogue: 0:00:46.92, 0:00:49.80, Default, {\c&HFF0000&}mr_nonsab{\c&HFFFFFF&}: \NSquid1 TheIlluminati Squid4 Squid1 TheIlluminati Squid4 x⁣3
+Dialogue: 0:00:46.92, 0:00:49.80, Default, {\c&HFF0000&}mr_nonsab{\c&HFFFFFF&}: \NSquid1 TheIlluminati Squid4 Squid1 TheIlluminati Squid4 x⁣3
 Dialogue: 0:00:47.53, 0:00:50.02, Default, {\c&HE22B8A&}TheDrHax{\c&HFFFFFF&}: @Anatoliy_Gamer, AYAYA / bufaLove
 Dialogue: 0:00:49.39, 0:00:51.54, Default, {\c&H578B2E&}hokainoochiwa{\c&HFFFFFF&}: bufaUL x⁣6
 Dialogue: 0:00:52.32, 0:00:54.50, Default, {\c&HFFFFFF&}temnik99{\c&HFFFFFF&}: PogChamp x⁣3
@@ -248,7 +248,7 @@ Dialogue: 0:03:10.61, 0:03:12.76, Default, {\c&H0000FF&}RobedBroom7661{\c&HFFFFF
 Dialogue: 0:03:10.83, 0:03:12.99, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}: Jammies x⁣4
 Dialogue: 0:03:11.21, 0:03:13.40, Default, {\c&H008000&}iggip{\c&HFFFFFF&}: BSUWasted x⁣6
 Dialogue: 0:03:12.12, 0:03:14.24, Default, {\c&HFFFFFF&}serebrennikofpavel{\c&HFFFFFF&}: TehePelo
-; Dialogue: 0:03:14.24, 0:03:17.12, Default, {\c&HFF0000&}mr_nonsab{\c&HFFFFFF&}: \NSquid1 TheIlluminati Squid4 Squid1 TheIlluminati Squid4 x⁣3
+Dialogue: 0:03:14.24, 0:03:17.12, Default, {\c&HFF0000&}mr_nonsab{\c&HFFFFFF&}: \NSquid1 TheIlluminati Squid4 Squid1 TheIlluminati Squid4 x⁣3
 Dialogue: 0:03:14.30, 0:03:17.05, Default, {\c&HFF0000&}SvyatoyGrobovshik{\c&HFFFFFF&}: Опять попса, где Металл ?! NotLikeThis \NNotLikeThis
 Dialogue: 0:03:14.63, 0:03:16.84, Default, {\c&H0000FF&}Higatir{\c&HFFFFFF&}: peepoComfy x⁣4
 Dialogue: 0:03:15.23, 0:03:17.92, Default, {\c&H008000&}metrosiderus{\c&HFFFFFF&}: Всем приветики MercyWing1 BrainSlug MercyWing2
@@ -3573,7 +3573,7 @@ Dialogue: 0:37:33.71, 0:37:36.22, Default, {\c&HFFFFFF&}naelerasmans{\c&HFFFFFF&
 Dialogue: 0:37:34.50, 0:37:37.62, Default, {\c&HFF0000&}StrimanSSSS{\c&HFFFFFF&}: @BlackUFA а у меня саундтрек под стримом другое \Nназвание показывает KEKWait
 Dialogue: 0:37:35.35, 0:37:37.63, Default, {\c&HFF901E&}Atabal24{\c&HFFFFFF&}: KEKWait это ШЕДЕВР!
 Dialogue: 0:37:40.55, 0:37:43.22, Default, {\c&HB469FF&}kk_rayan{\c&HFFFFFF&}: это тож под Аню рисовалось с 1 icq??? LUL x⁣3
-; Dialogue: 0:37:41.21, 0:37:44.09, Default, {\c&HFF0000&}mr_nonsab{\c&HFFFFFF&}: \NSquid1 TheIlluminati Squid4 Squid1 TheIlluminati Squid4 x⁣3
+Dialogue: 0:37:41.21, 0:37:44.09, Default, {\c&HFF0000&}mr_nonsab{\c&HFFFFFF&}: \NSquid1 TheIlluminati Squid4 Squid1 TheIlluminati Squid4 x⁣3
 Dialogue: 0:37:43.74, 0:37:46.28, Default, {\c&HFFFFFF&}demian256{\c&HFFFFFF&}: слишком гениальный рисунок, не тянет
 Dialogue: 0:37:44.32, 0:37:46.83, Default, {\c&HFFFFFF&}boollbi{\c&HFFFFFF&}: @BlackUFA это потому что 3090 нету
 Dialogue: 0:37:44.44, 0:37:46.50, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}: KEKW
@@ -13366,7 +13366,7 @@ Dialogue: 3:28:13.97, 3:28:16.07, Default, {\c&HFFFFFF&}lord_baskerv1lle{\c&HFFF
 ; Dialogue: 3:28:16.67, 3:28:19.70, Default, {\c&H008000&}TheDrHaxBot{\c&HFFFFFF&}: @gracisl запрыгивает в форточку и кусает \N@icee_bitee за бочок OhMyDog
 Dialogue: 3:28:18.50, 3:28:20.59, Default, {\c&HFFFFFF&}vladiskor_tw{\c&HFFFFFF&}: Суицид
 Dialogue: 3:28:18.63, 3:28:20.82, Default, {\c&H7FFF00&}Disturb_dss{\c&HFFFFFF&}: bufaScary x⁣3
-; Dialogue: 3:28:20.19, 3:28:22.97, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/CrypticBlindingDillThunBeast
+Dialogue: 3:28:20.19, 3:28:22.97, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/CrypticBlindingDillThunBeast
 Dialogue: 3:28:21.58, 3:28:23.67, Default, {\c&HB469FF&}skirdakov_la_li_lu_le_lo{\c&HFFFFFF&}: BSUJam
 Dialogue: 3:28:23.89, 3:28:26.02, Default, {\c&HFFFFFF&}avalonexus{\c&HFFFFFF&}: А ю окей?
 Dialogue: 3:28:23.94, 3:28:26.12, Default, {\c&HFFFFFF&}chaloveg{\c&HFFFFFF&}: bigBossSalut
@@ -18935,7 +18935,7 @@ Dialogue: 5:41:26.04, 5:41:28.05, Default, {\c&HFFFFFF&}Hydrofob{\c&HFFFFFF&}: F
 Dialogue: 5:41:26.91, 5:41:29.01, Default, {\c&HFF0000&}APTOPUAC{\c&HFFFFFF&}: LUL x⁣7
 Dialogue: 5:41:27.42, 5:41:29.78, Default, {\c&HFFFFFF&}kuba_nochka{\c&HFFFFFF&}: FeelsWeirdMan MonkaWeird
 Dialogue: 5:41:28.02, 5:41:30.30, Default, {\c&H20A5DA&}NickWorraps{\c&HFFFFFF&}: ну почти не сначало
-; Dialogue: 5:41:29.88, 5:41:32.67, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/SmokyScrumptiousEggnogPrimeMe
+Dialogue: 5:41:29.88, 5:41:32.67, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/SmokyScrumptiousEggnogPrimeMe
 Dialogue: 5:41:30.92, 5:41:33.02, Default, {\c&HFFFFFF&}vladiskor_tw{\c&HFFFFFF&}: LUL x⁣3
 Dialogue: 5:41:31.19, 5:41:33.32, Default, {\c&H0000FF&}meteorneo{\c&HFFFFFF&}: Яяяяяясно
 Dialogue: 5:41:31.49, 5:41:33.65, Default, {\c&HA09E5F&}Ligein{\c&HFFFFFF&}: WutFace x⁣4
@@ -21614,7 +21614,7 @@ Dialogue: 6:36:40.04, 6:36:43.61, Default, {\c&HFFFFFF&}FighterRF{\c&HFFFFFF&}: 
 Dialogue: 6:36:42.13, 6:36:44.61, Default, {\c&H0000FF&}darth_imperiius{\c&HFFFFFF&}: сбежал с фоткой Памеллы Андерсон
 Dialogue: 6:36:44.78, 6:36:46.99, Default, {\c&HFF0000&}StrimanSSSS{\c&HFFFFFF&}: MmmHmm pepeJAM
 Dialogue: 6:36:45.16, 6:36:47.55, Default, {\c&HB39119&}ExSentineleX{\c&HFFFFFF&}: Алло....алло....а....алло!
-; Dialogue: 6:36:47.67, 6:36:50.85, Default, {\c&H20A5DA&}la_ruina{\c&HFFFFFF&}: \NpeepoMas BSUDance peepoMas BSUDance peepoMas BSUDance x⁣2 \NpeepoMas BSUDance x⁣2
+Dialogue: 6:36:47.67, 6:36:50.85, Default, {\c&H20A5DA&}la_ruina{\c&HFFFFFF&}: \NpeepoMas BSUDance peepoMas BSUDance peepoMas BSUDance x⁣2 \NpeepoMas BSUDance x⁣2
 Dialogue: 6:36:48.51, 6:36:50.66, Default, {\c&HFF0000&}blackoren56{\c&HFFFFFF&}: TaBeRu x⁣6
 Dialogue: 6:36:48.66, 6:36:50.85, Default, {\c&HFFFFFF&}SweatyRabbit29{\c&HFFFFFF&}: 2020Party x⁣4
 Dialogue: 6:36:49.48, 6:36:51.60, Default, {\c&HE22B8A&}GimliEpt{\c&HFFFFFF&}: peepoRun

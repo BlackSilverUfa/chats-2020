@@ -4940,7 +4940,7 @@ Dialogue: 1:10:22.24, 1:10:24.27, Default, {\c&HFFFFFF&}drift40000{\c&HFFFFFF&}:
 ; Dialogue: 1:10:22.72, 1:10:24.73, Default, {\c&H20A5DA&}z_1_o_o_o{\c&HFFFFFF&}: 1
 Dialogue: 1:10:22.76, 1:10:24.92, Default, {\c&HFFFFFF&}arcaderis{\c&HFFFFFF&}: ну глюки же
 ; Dialogue: 1:10:22.83, 1:10:24.84, Default, {\c&HFFFFFF&}SweatyRabbit29{\c&HFFFFFF&}: 1
-Dialogue: 1:10:22.91, 1:10:24.94, Default, {\c&HFFFFFF&}Mr_drokus{\c&HFFFFFF&}: \2
+; Dialogue: 1:10:22.91, 1:10:24.94, Default, {\c&HFFFFFF&}Mr_drokus{\c&HFFFFFF&}: \2
 ; Dialogue: 1:10:23.00, 1:10:25.01, Default, {\c&HFFFFFF&}SlipFan666{\c&HFFFFFF&}: 4
 ; Dialogue: 1:10:23.01, 1:10:25.02, Default, {\c&HFF901E&}Kuro_Tama{\c&HFFFFFF&}: 1
 ; Dialogue: 1:10:23.01, 1:10:25.02, Default, {\c&H0045FF&}foregonedestructio{\c&HFFFFFF&}: 1

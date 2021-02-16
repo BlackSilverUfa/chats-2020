@@ -58,7 +58,7 @@ Dialogue: 0:00:15.65, 0:00:18.10, Default, {\c&HFFFFFF&}ligimad{\c&HFFFFFF&}: Э
 Dialogue: 0:00:15.82, 0:00:17.97, Default, {\c&H0000FF&}Shurman_Shturman{\c&HFFFFFF&}: VoHiYo x⁣3
 Dialogue: 0:00:16.02, 0:00:18.29, Default, {\c&HFFFFFF&}SmetanaBorn{\c&HFFFFFF&}: мы решим проблему!
 Dialogue: 0:00:16.05, 0:00:18.06, Default, {\c&H008000&}ZloyOrk_29{\c&HFFFFFF&}: О
-Dialogue: 0:00:16.11, 0:00:18.96, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Предзаказывай WOW Shadowlands тут: \Nhttps://bit.ly/2F3tZoV
+; Dialogue: 0:00:16.11, 0:00:18.96, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Предзаказывай WOW Shadowlands тут: \Nhttps://bit.ly/2F3tZoV
 Dialogue: 0:00:16.22, 0:00:18.56, Default, {\c&HFFFFFF&}1annexa1{\c&HFFFFFF&}: HahaBall x⁣3 оооллллооо
 Dialogue: 0:00:16.50, 0:00:18.56, Default, {\c&H0000FF&}Nerevarine4221{\c&HFFFFFF&}: алло
 Dialogue: 0:00:16.91, 0:00:18.97, Default, {\c&HFFFFFF&}BlackFoxSpb{\c&HFFFFFF&}: алло
@@ -150,7 +150,7 @@ Dialogue: 0:01:10.30, 0:01:12.73, Default, {\c&HFFFFFF&}Sola1re{\c&HFFFFFF&}: Т
 Dialogue: 0:01:12.64, 0:01:14.94, Default, {\c&H7FFF00&}deniiiiissssss1{\c&HFFFFFF&}: заставляет задумаццо
 Dialogue: 0:01:12.82, 0:01:15.42, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: Мстительный стрим падает, падает, падает
 Dialogue: 0:01:12.82, 0:01:15.07, Default, {\c&H008000&}D_a_S_h_A_K98{\c&HFFFFFF&}: пора комп менять?
-Dialogue: 0:01:16.53, 0:01:21.53, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Новая расстановка эмоутов на канале! Подписчики с \NTier 2 и Tier 3 получают эксклюзивные наборы! В Tier 1 \Nвернулись Думгай и Дон Аптипо! https://twitter.com/Sempai_Bl\Nack/status/1286270026304151553/photo/1
+; Dialogue: 0:01:16.53, 0:01:21.53, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Новая расстановка эмоутов на канале! Подписчики с \NTier 2 и Tier 3 получают эксклюзивные наборы! В Tier 1 \Nвернулись Думгай и Дон Аптипо! https://twitter.com/Sempai_Bl\Nack/status/1286270026304151553/photo/1
 Dialogue: 0:01:17.15, 0:01:19.73, Default, {\c&HFFFFFF&}bsoderror{\c&HFFFFFF&}: Нвидиа старые модели видеокарт отрубает
 Dialogue: 0:01:17.83, 0:01:20.11, Default, {\c&HFFFFFF&}lerionov{\c&HFFFFFF&}: Да что ж это деется
 Dialogue: 0:01:18.50, 0:01:20.86, Default, {\c&H0045FF&}valeriy_krasnodar{\c&HFFFFFF&}: Задуматься о смене ПК ?)
@@ -191,7 +191,7 @@ Dialogue: 0:02:08.97, 0:02:11.30, Default, {\c&H1DBE9B&}aire_19{\c&HFFFFFF&}: в
 Dialogue: 0:02:10.10, 0:02:12.32, Default, {\c&H20A5DA&}monKaZcrew{\c&HFFFFFF&}: это фул графен?
 Dialogue: 0:02:11.58, 0:02:13.83, Default, {\c&HFFFFFF&}zovi_menya_alyosha{\c&HFFFFFF&}: это что Бригадир?
 Dialogue: 0:02:12.00, 0:02:14.04, Default, {\c&HFFFFFF&}andreevna_72{\c&HFFFFFF&}: все
-Dialogue: 0:02:12.26, 0:02:15.46, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Скидка до 10% на продукцию ASUS для армии 4221! \NПромокод BSU https://u.to/sJAXFw
+; Dialogue: 0:02:12.26, 0:02:15.46, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Скидка до 10% на продукцию ASUS для армии 4221! \NПромокод BSU https://u.to/sJAXFw
 Dialogue: 0:02:12.87, 0:02:15.20, Default, {\c&HFFFFFF&}pora_pora{\c&HFFFFFF&}: чат оживит стрим SMOrc
 Dialogue: 0:02:16.02, 0:02:18.30, Default, {\c&HFFFFFF&}white_msk{\c&HFFFFFF&}: Всем привет ещё раз
 Dialogue: 0:02:17.51, 0:02:19.61, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: низафто
@@ -208,7 +208,7 @@ Dialogue: 0:02:33.03, 0:02:35.30, Default, {\c&H0000FF&}DFTvillage{\c&HFFFFFF&}:
 Dialogue: 0:02:33.54, 0:02:36.21, Default, {\c&HFFFFFF&}alexcold436{\c&HFFFFFF&}: @BlackUFA Таскмастер бывший агент ЩИТа кстати
 Dialogue: 0:02:34.54, 0:02:36.70, Default, {\c&H008000&}Metanarr{\c&HFFFFFF&}: я возмездие
 Dialogue: 0:02:35.30, 0:02:37.52, Default, {\c&HFFFFFF&}BUeBU_{\c&HFFFFFF&}: мам, я мститель
-Dialogue: 0:02:37.60, 0:02:41.68, Default, {\c&HFF995B&}StreamElements{\c&HFFFFFF&}: BlackUFA is now live! Streaming Marvel's \NAvengers: Marvel's Avengers | Мстители. Новая игра про \Nсупергероев. Основано на реальных событиях!
+; Dialogue: 0:02:37.60, 0:02:41.68, Default, {\c&HFF995B&}StreamElements{\c&HFFFFFF&}: BlackUFA is now live! Streaming Marvel's \NAvengers: Marvel's Avengers | Мстители. Новая игра про \Nсупергероев. Основано на реальных событиях!
 Dialogue: 0:02:40.45, 0:02:43.81, Default, {\c&HFFFFFF&}Icee_Bitee{\c&HFFFFFF&}: @VampireLili_ Как ты? Я вот вообще морально и \Nинтиллектуально мертва. Отдыха так и не было(
 Dialogue: 0:02:41.77, 0:02:44.64, Default, {\c&HFFFFFF&}samyraiskatanoi{\c&HFFFFFF&}: И они ещё хотят, чтобы с такой оптимизацией \Nигру покупали?
 Dialogue: 0:02:42.67, 0:02:44.83, Default, {\c&H008000&}ZloyOrk_29{\c&HFFFFFF&}: Опять лаги?
@@ -650,12 +650,12 @@ Dialogue: 0:09:24.28, 0:09:26.46, Default, {\c&HFFFFFF&}ermanbo{\c&HFFFFFF&}: bu
 Dialogue: 0:09:27.55, 0:09:30.19, Default, {\c&HFF901E&}GraciSL{\c&HFFFFFF&}: @Plotoiadnuikeksik Кексяяя, драатути Pepega
 Dialogue: 0:09:28.28, 0:09:31.06, Default, {\c&H288F00&}ThisRockTv{\c&HFFFFFF&}: Чат я тока пришёл, а что так часто падает? \NbufaScary
 Dialogue: 0:09:30.11, 0:09:32.26, Default, {\c&HFFFFFF&}tentichitlan{\c&HFFFFFF&}: взлом жопы
-Dialogue: 0:09:30.56, 0:09:35.56, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Новая расстановка эмоутов на канале! Подписчики с \NTier 2 и Tier 3 получают эксклюзивные наборы! В Tier 1 \Nвернулись Думгай и Дон Аптипо! https://twitter.com/Sempai_Bl\Nack/status/1286270026304151553/photo/1
+; Dialogue: 0:09:30.56, 0:09:35.56, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Новая расстановка эмоутов на канале! Подписчики с \NTier 2 и Tier 3 получают эксклюзивные наборы! В Tier 1 \Nвернулись Думгай и Дон Аптипо! https://twitter.com/Sempai_Bl\Nack/status/1286270026304151553/photo/1
 Dialogue: 0:09:31.88, 0:09:34.54, Default, {\c&H7FFF00&}nkarp13{\c&HFFFFFF&}: ЧАД поднять щиты за стримера! PurpleStar x⁣3
 Dialogue: 0:09:33.60, 0:09:35.97, Default, {\c&HB469FF&}daisy_kigurumi{\c&HFFFFFF&}: BSUBUND1 БУНД!!! BSUBUND2
-Dialogue: 0:09:34.44, 0:09:36.53, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: !вылет
+; Dialogue: 0:09:34.44, 0:09:36.53, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: !вылет
 Dialogue: 0:09:34.58, 0:09:36.68, Default, {\c&H32CD9A&}Rogue_Monro{\c&HFFFFFF&}: KEKWait
-Dialogue: 0:09:34.58, 0:09:37.10, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Ну вылетела игра и што? И ШТООООО?!
+; Dialogue: 0:09:34.58, 0:09:37.10, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Ну вылетела игра и што? И ШТООООО?!
 Dialogue: 0:09:35.34, 0:09:37.65, Default, {\c&HFFFFFF&}laiteraction{\c&HFFFFFF&}: как же бесит эта херь
 Dialogue: 0:09:36.08, 0:09:38.36, Default, {\c&H20A5DA&}Znak_yaits{\c&HFFFFFF&}: dead5What SmokeTime
 Dialogue: 0:09:36.33, 0:09:38.39, Default, {\c&HFFFFFF&}Icee_Bitee{\c&HFFFFFF&}: Уууу

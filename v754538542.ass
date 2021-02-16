@@ -8730,7 +8730,7 @@ Dialogue: 2:00:26.85, 2:00:29.16, Default, {\c&HFFFFFF&}dimonpokimon4ik{\c&HFFFF
 Dialogue: 2:00:27.05, 2:00:29.27, Default, {\c&H0000FF&}gluk48{\c&HFFFFFF&}: это раскладушка
 Dialogue: 2:00:27.09, 2:00:29.33, Default, {\c&HFF0000&}Phalanor{\c&HFFFFFF&}: Мышка офигенная!
 Dialogue: 2:00:27.86, 2:00:29.96, Default, {\c&HE22B8A&}JusTin8x{\c&HFFFFFF&}: LUL x⁣3
-Dialogue: 2:00:28.02, 2:00:30.42, Default, {\c&HFFFFFF&}gummibear_simsik{\c&HFFFFFF&}: \то не диван, мавтрас вроде
+; Dialogue: 2:00:28.02, 2:00:30.42, Default, {\c&HFFFFFF&}gummibear_simsik{\c&HFFFFFF&}: \то не диван, мавтрас вроде
 Dialogue: 2:00:28.23, 2:00:31.14, Default, {\c&H2222B2&}MsFirehawk{\c&HFFFFFF&}: @VV_merc ойой вы шо корона на дворе, полтора \Nметра дистанция!
 ; Dialogue: 2:00:30.57, 2:00:32.63, Default, {\c&HFFFFFF&}dmitryruno{\c&HFFFFFF&}: !icq
 Dialogue: 2:00:30.85, 2:00:32.91, Default, {\c&H1E69D2&}plankton4221{\c&HFFFFFF&}: KEKW

@@ -3262,7 +3262,7 @@ Dialogue: 1:00:27.91, 1:00:30.04, Default, {\c&H0000FF&}FunnyMaz{\c&HFFFFFF&}: K
 Dialogue: 1:00:29.07, 1:00:31.13, Default, {\c&HFF901E&}Potrionchik{\c&HFFFFFF&}: kekw
 Dialogue: 1:00:29.41, 1:00:31.65, Default, {\c&H7FFF00&}FidoNet7{\c&HFFFFFF&}: EEE leiysq rfrjq
 Dialogue: 1:00:29.43, 1:00:32.27, Default, {\c&H507FFF&}CKBOH4{\c&HFFFFFF&}: Чат посмотрел "историю на ночь" про викингов \NPETTHEPEEPO
-; Dialogue: 1:00:29.72, 1:00:32.62, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/IgnorantGleamingMangetoutNotLikeThis
+Dialogue: 1:00:29.72, 1:00:32.62, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/IgnorantGleamingMangetoutNotLikeThis
 Dialogue: 1:00:30.11, 1:00:32.36, Default, {\c&H0000FF&}PalachRT{\c&HFFFFFF&}: оооооооо душный))
 Dialogue: 1:00:30.82, 1:00:33.01, Default, {\c&HFFFFFF&}DenimSage{\c&HFFFFFF&}: WeirdChamping
 Dialogue: 1:00:31.46, 1:00:33.82, Default, {\c&H0000FF&}so1eus{\c&HFFFFFF&}: Успокойся, пожалуйстаааа
@@ -7765,7 +7765,7 @@ Dialogue: 2:43:29.82, 2:43:31.88, Default, {\c&H0000FF&}5vvarm{\c&HFFFFFF&}: KEK
 Dialogue: 2:43:30.19, 2:43:32.65, Default, {\c&H0000FF&}veteranzzz{\c&HFFFFFF&}: Хорошие Викинги, Церковь грабят
 Dialogue: 2:43:30.76, 2:43:34.75, Default, {\c&H7FFF00&}Ktylxyrg{\c&HFFFFFF&}: @BlackUFA @BlackUFA Добивание зависит как от \Nтвоего так и от оружия противника.... меняй оружие свое и \Nбудешь видеть разные добивания
 Dialogue: 2:43:31.49, 2:43:33.67, Default, {\c&HFFFFFF&}Artacserocs{\c&HFFFFFF&}: хахаххахахах
-; Dialogue: 2:43:32.30, 2:43:35.11, Default, {\c&H0045FF&}Sire_Luminus_Fox{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/PoliteRudePistachioNinjaGrumpy
+Dialogue: 2:43:32.30, 2:43:35.11, Default, {\c&H0045FF&}Sire_Luminus_Fox{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/PoliteRudePistachioNinjaGrumpy
 Dialogue: 2:43:33.57, 2:43:35.67, Default, {\c&H0000FF&}sanguinec{\c&HFFFFFF&}: LUL x⁣3
 Dialogue: 2:43:34.19, 2:43:36.35, Default, {\c&H0045FF&}WastelanderLN{\c&HFFFFFF&}: Тренируются
 Dialogue: 2:43:38.76, 2:43:40.97, Default, {\c&H008000&}salo1970{\c&HFFFFFF&}: грибов переели
@@ -7839,7 +7839,7 @@ Dialogue: 2:45:21.17, 2:45:23.47, Default, {\c&HA09E5F&}Ligein{\c&HFFFFFF&}: dea
 ; Dialogue: 2:45:21.31, 2:45:23.37, Default, {\c&H20A5DA&}SSnauk{\c&HFFFFFF&}: !icq
 Dialogue: 2:45:21.48, 2:45:23.57, Default, {\c&H507FFF&}CKBOH4{\c&HFFFFFF&}: KEKLEO
 ; Dialogue: 2:45:21.76, 2:45:24.24, Default, {\c&H008000&}TheDrHaxBot{\c&HFFFFFF&}: @ssnauk, у вас 24 ICQ (+2) SMOrc
-; Dialogue: 2:45:24.68, 2:45:27.47, Default, {\c&H0000FF&}mental_massacre{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/SassyInventiveVultureCmonBruh
+Dialogue: 2:45:24.68, 2:45:27.47, Default, {\c&H0000FF&}mental_massacre{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/SassyInventiveVultureCmonBruh
 Dialogue: 2:45:25.00, 2:45:27.16, Default, {\c&HFF00F8&}bydy_ppg357{\c&HFFFFFF&}: люблю ботов
 Dialogue: 2:45:25.99, 2:45:28.39, Default, {\c&H20A5DA&}ferfet{\c&HFFFFFF&}: Лучше бы мне подарили Kappa
 Dialogue: 2:45:26.08, 2:45:28.84, Default, {\c&HFFFFFF&}crystal_bat{\c&HFFFFFF&}: Кто там к кому с миром пришёо? Торговля шусс-\Nстайл?
@@ -14693,12 +14693,12 @@ Dialogue: 5:14:53.88, 5:14:56.37, Default, {\c&H507FFF&}CKBOH4{\c&HFFFFFF&}: г�
 Dialogue: 5:14:55.35, 5:14:57.60, Default, {\c&H7FFF00&}perrrrkele{\c&HFFFFFF&}: PETTHEAPTEEPO x⁣7
 Dialogue: 5:14:56.99, 5:14:59.21, Default, {\c&HE22B8A&}FioletPumpkin{\c&HFFFFFF&}: TwitchUnity x⁣4
 Dialogue: 5:15:04.36, 5:15:06.78, Default, {\c&HA09E5F&}Ligein{\c&HFFFFFF&}: dogeDance pepeJAM killerSolo
-; Dialogue: 5:15:05.27, 5:15:08.53, Default, {\c&H7FFF00&}perrrrkele{\c&HFFFFFF&}: \NFeelsLoveMan PETTHEAPTEEPO FeelsLoveMan PETTHEAPTEEPO x⁣3 \NFeelsLoveMan PETTHEAPTEEPO
+Dialogue: 5:15:05.27, 5:15:08.53, Default, {\c&H7FFF00&}perrrrkele{\c&HFFFFFF&}: \NFeelsLoveMan PETTHEAPTEEPO FeelsLoveMan PETTHEAPTEEPO x⁣3 \NFeelsLoveMan PETTHEAPTEEPO
 Dialogue: 5:15:06.92, 5:15:09.08, Default, {\c&HFFFFFF&}sova_svetka{\c&HFFFFFF&}: wlgLove x⁣5
 Dialogue: 5:15:08.33, 5:15:11.26, Default, {\c&HB469FF&}D1MANYCH{\c&HFFFFFF&}: @BlackUFA найс сначала поджег дом, и только потом \Nзашел в него
 Dialogue: 5:15:10.76, 5:15:13.46, Default, {\c&HFFFFFF&}nonsubiyaforever{\c&HFFFFFF&}: Топор или топор не пробовал? Ты же вроде \Nвикинг
 Dialogue: 5:15:11.80, 5:15:14.20, Default, {\c&HE22B8A&}FioletPumpkin{\c&HFFFFFF&}: PETTHEAPTEEPO PETTHEAPTEEPO
-; Dialogue: 5:15:17.21, 5:15:20.47, Default, {\c&HA09E5F&}AmazingCheburecK{\c&HFFFFFF&}: \NFeelsLoveMan PETTHEAPTEEPO FeelsLoveMan PETTHEAPTEEPO x⁣3 \NFeelsLoveMan PETTHEAPTEEPO
+Dialogue: 5:15:17.21, 5:15:20.47, Default, {\c&HA09E5F&}AmazingCheburecK{\c&HFFFFFF&}: \NFeelsLoveMan PETTHEAPTEEPO FeelsLoveMan PETTHEAPTEEPO x⁣3 \NFeelsLoveMan PETTHEAPTEEPO
 Dialogue: 5:15:19.01, 5:15:21.46, Default, {\c&H7FFF00&}perrrrkele{\c&HFFFFFF&}: FeelsLoveMan PETTHEAPTEEPO x⁣4
 Dialogue: 5:15:21.32, 5:15:23.90, Default, {\c&HFFFFFF&}1nv1te1984{\c&HFFFFFF&}: О боже и здесь места-вопросы! Крэйгазм!
 Dialogue: 5:15:27.68, 5:15:30.10, Default, {\c&HFF901E&}DippusDipri{\c&HFFFFFF&}: это как с машиной в лесу LUL
@@ -14713,7 +14713,7 @@ Dialogue: 5:15:47.03, 5:15:50.62, Default, {\c&HA09E5F&}AmazingCheburecK{\c&HFFF
 Dialogue: 5:15:47.39, 5:15:49.63, Default, {\c&HFFFFFF&}Qweqazasaz{\c&HFFFFFF&}: FeelsLoveMan x⁣5
 Dialogue: 5:15:47.78, 5:15:50.60, Default, {\c&HFFFFFF&}krasnodarski_cry{\c&HFFFFFF&}: Чем занимаются тамплиеры на фоне нашего \Nгероя @blackufa
 Dialogue: 5:15:49.65, 5:15:51.89, Default, {\c&HE22B8A&}FioletPumpkin{\c&HFFFFFF&}: artgamesLove x⁣3
-; Dialogue: 5:15:50.29, 5:15:53.14, Default, {\c&H7FFF00&}perrrrkele{\c&HFFFFFF&}: \NFeelsLoveMan PETTHEAPTEEPO FeelsLoveMan PETTHEAPTEEPO x⁣3
+Dialogue: 5:15:50.29, 5:15:53.14, Default, {\c&H7FFF00&}perrrrkele{\c&HFFFFFF&}: \NFeelsLoveMan PETTHEAPTEEPO FeelsLoveMan PETTHEAPTEEPO x⁣3
 Dialogue: 5:15:51.64, 5:15:54.01, Default, {\c&HE22B8A&}F1ash_Back{\c&HFFFFFF&}: викинг куниликинг BSUFlex
 Dialogue: 5:15:52.75, 5:15:55.03, Default, {\c&HFFFFFF&}captain_nonsub{\c&HFFFFFF&}: Любим не любя Kappa
 Dialogue: 5:15:52.89, 5:15:55.29, Default, {\c&HFFFFFF&}pasekushka{\c&HFFFFFF&}: PETTHEAPTEEPO PETTHEAPTEEPO
@@ -17091,7 +17091,7 @@ Dialogue: 6:05:13.15, 6:05:16.35, Default, {\c&H32CD9A&}Aoros4k{\c&HFFFFFF&}: Т
 Dialogue: 6:05:29.09, 6:05:32.35, Default, {\c&HE22B8A&}Enderlord_48{\c&HFFFFFF&}: Артур, а можно следующим наказанием от чата \Nбудет тот хоррор про Гачимучи? bufaPride
 Dialogue: 6:05:34.23, 6:05:36.42, Default, {\c&HFFFFFF&}besyachi_zritel{\c&HFFFFFF&}: где там эбби?
 Dialogue: 6:05:38.49, 6:05:40.89, Default, {\c&HFFFFFF&}VadanZam{\c&HFFFFFF&}: BSUBUND1 стееелс!! BSUBUND2
-; Dialogue: 6:05:39.47, 6:05:42.29, Default, {\c&H0000FF&}mental_massacre{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/TriumphantObedientLettuceAliens
+Dialogue: 6:05:39.47, 6:05:42.29, Default, {\c&H0000FF&}mental_massacre{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/TriumphantObedientLettuceAliens
 Dialogue: 6:05:49.71, 6:05:52.58, Default, {\c&HFFFFFF&}hetzer_auf_hetzer{\c&HFFFFFF&}: @dharmaraja наверное уже со времен \Nперезапуска с Египта(((
 Dialogue: 6:05:49.77, 6:05:52.62, Default, {\c&HFFFFFF&}neleponty{\c&HFFFFFF&}: Может тамплиеры это хаски, которых заслали жнецы? \NNervous
 Dialogue: 6:05:59.74, 6:06:02.08, Default, {\c&HFF0000&}wizz77_xd{\c&HFFFFFF&}: что с освещением травы?
@@ -27429,7 +27429,7 @@ Dialogue: 9:30:56.89, 9:30:59.56, Default, {\c&HE22B8A&}Demuresparanoids{\c&HFFF
 Dialogue: 9:30:58.53, 9:31:00.89, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: peepoCry буллят peepoCry
 Dialogue: 9:31:03.03, 9:31:05.27, Default, {\c&HFFFFFF&}lumincer{\c&HFFFFFF&}: ооо да она голая
 ; Dialogue: 9:31:05.43, 9:31:07.49, Default, {\c&HFFFFFF&}flying_waffel{\c&HFFFFFF&}: !icq
-; Dialogue: 9:31:05.85, 9:31:08.75, Default, {\c&H7FFF00&}Hyperion457{\c&HFFFFFF&}: \NPurpleStar jstLove PurpleStar jstLove PurpleStar jstLove x⁣3
+Dialogue: 9:31:05.85, 9:31:08.75, Default, {\c&H7FFF00&}Hyperion457{\c&HFFFFFF&}: \NPurpleStar jstLove PurpleStar jstLove PurpleStar jstLove x⁣3
 ; Dialogue: 9:31:06.07, 9:31:08.68, Default, {\c&H008000&}TheDrHaxBot{\c&HFFFFFF&}: @flying_waffel, у вас 104 ICQ (-7) HACKER
 Dialogue: 9:31:06.56, 9:31:08.78, Default, {\c&H32CD9A&}zlobnyi_topt{\c&HFFFFFF&}: Щитовик сложный
 Dialogue: 9:31:07.35, 9:31:09.47, Default, {\c&HFFFFFF&}worstme{\c&HFFFFFF&}: души ее!

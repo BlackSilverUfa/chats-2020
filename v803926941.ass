@@ -9602,7 +9602,7 @@ Dialogue: 3:54:09.78, 3:54:12.20, Default, {\c&H0000FF&}KOCT04KA{\c&HFFFFFF&}: P
 Dialogue: 3:54:13.25, 3:54:15.46, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}: OWL2019GLA x⁣5
 Dialogue: 3:54:16.94, 3:54:19.15, Default, {\c&HFF901E&}aschereet{\c&HFFFFFF&}: PurpleStar x⁣5
 Dialogue: 3:54:17.25, 3:54:19.46, Default, {\c&HA09E5F&}SadRain{\c&HFFFFFF&}: PurpleStar x⁣3
-; Dialogue: 3:54:18.68, 3:54:21.74, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NClean PurpleStar Clean PurpleStar Clean PurpleStar x⁣3 Clean \NPurpleStar
+Dialogue: 3:54:18.68, 3:54:21.74, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NClean PurpleStar Clean PurpleStar Clean PurpleStar x⁣3 Clean \NPurpleStar
 ; Dialogue: 3:54:19.45, 3:54:21.75, Default, {\c&H0000FF&}darth_imperiius{\c&HFFFFFF&}: !кусь @pepa_na_diete
 ; Dialogue: 3:54:19.71, 3:54:23.03, Default, {\c&H008000&}TheDrHaxBot{\c&HFFFFFF&}: @darth_imperiius выбирается из горящего танка и \Nкусает @pepa_na_diete за жопу gachiHYPER
 Dialogue: 3:54:19.90, 3:54:22.24, Default, {\c&HE22B8A&}TheDrHax{\c&HFFFFFF&}: gun goes brrrrr BBoomer
@@ -9647,7 +9647,7 @@ Dialogue: 3:55:32.54, 3:55:34.75, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}:
 Dialogue: 3:55:34.66, 3:55:36.70, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}: LUL
 Dialogue: 3:55:35.94, 3:55:38.10, Default, {\c&HE22B8A&}TheDrHax{\c&HFFFFFF&}: jonCorn x⁣4
 Dialogue: 3:55:38.84, 3:55:40.85, Default, {\c&HFFFFFF&}Fellanore{\c&HFFFFFF&}: 1
-; Dialogue: 3:55:45.47, 3:55:48.59, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NClean PurpleStar Clean PurpleStar Clean PurpleStar x⁣2 \NClean PurpleStar x⁣2
+Dialogue: 3:55:45.47, 3:55:48.59, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NClean PurpleStar Clean PurpleStar Clean PurpleStar x⁣2 \NClean PurpleStar x⁣2
 ; Dialogue: 3:55:46.28, 3:55:49.99, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Обычный донат - 100 руб/битов | Голосовой донат - \N500 руб/битов | Аццкий донат - 666 руб | ОСОБЫЙ ДОНАТ - 4221 \Nруб
 Dialogue: 3:55:48.46, 3:55:50.56, Default, {\c&HFFFFFF&}Krigo_Cli{\c&HFFFFFF&}: <3 x⁣12
 Dialogue: 3:55:50.43, 3:55:52.62, Default, {\c&H0000FF&}YuraDaim{\c&HFFFFFF&}: PepegaDriving
@@ -9681,7 +9681,7 @@ Dialogue: 3:57:09.98, 3:57:12.23, Default, {\c&HFFFFFF&}netsky37{\c&HFFFFFF&}: P
 Dialogue: 3:57:12.89, 3:57:15.56, Default, {\c&HFF0000&}kashim777{\c&HFFFFFF&}: @Deceitful_Cat ну он ещё мины умеет разряжать
 Dialogue: 3:57:16.34, 3:57:18.55, Default, {\c&HFFFFFF&}pocomaha{\c&HFFFFFF&}: PurpleStar x⁣5
 Dialogue: 3:57:17.31, 3:57:19.52, Default, {\c&H2222B2&}Kuldogok{\c&HFFFFFF&}: PurpleStar x⁣3
-; Dialogue: 3:57:17.76, 3:57:21.06, Default, {\c&HE22B8A&}Nikolas_Argo{\c&HFFFFFF&}: \NPurpleStar bufaLove PurpleStar bufaLove PurpleStar bufaLove \Nx⁣2 PurpleStar bufaLove x⁣2
+Dialogue: 3:57:17.76, 3:57:21.06, Default, {\c&HE22B8A&}Nikolas_Argo{\c&HFFFFFF&}: \NPurpleStar bufaLove PurpleStar bufaLove PurpleStar bufaLove \Nx⁣2 PurpleStar bufaLove x⁣2
 Dialogue: 3:57:23.29, 3:57:25.50, Default, {\c&HE22B8A&}TheDrHax{\c&HFFFFFF&}: PurpleStar x⁣5
 Dialogue: 3:57:30.17, 3:57:32.36, Default, {\c&H32CD9A&}Evil_Toxic_Corgi{\c&HFFFFFF&}: SirShield x⁣7
 Dialogue: 3:57:30.87, 3:57:33.08, Default, {\c&HE22B8A&}TheDrHax{\c&HFFFFFF&}: WLG PauseChamp
@@ -9693,7 +9693,7 @@ Dialogue: 3:57:39.15, 3:57:41.25, Default, {\c&HFFFFFF&}Krigo_Cli{\c&HFFFFFF&}: 
 Dialogue: 3:57:39.68, 3:57:41.72, Default, {\c&HE22B8A&}dekzaykanotanimeonbret{\c&HFFFFFF&}: LUL
 ; Dialogue: 3:57:44.25, 3:57:49.25, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: ● Мой твиттер - twitter.com/Sempai_Black ● Группа \Nв вк - vk.com/b_silver ● Канал - youtube.com/BlackSilverUfa \N● Дополнительные смайлы в приложении BetterTTV - \Nhttps://nightdev.com/betterttv/ ● Наш сервер в Discord - \Nhttps://discordapp.com/invite/bsndw
 Dialogue: 3:57:44.88, 3:57:47.09, Default, {\c&H32CD9A&}sova_svetka{\c&HFFFFFF&}: PurpleStar x⁣3
-; Dialogue: 3:57:45.65, 3:57:48.77, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NClean PurpleStar Clean PurpleStar Clean PurpleStar x⁣2 \NClean PurpleStar x⁣2
+Dialogue: 3:57:45.65, 3:57:48.77, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NClean PurpleStar Clean PurpleStar Clean PurpleStar x⁣2 \NClean PurpleStar x⁣2
 Dialogue: 3:57:46.42, 3:57:48.69, Default, {\c&H0000FF&}KOCT04KA{\c&HFFFFFF&}: как же он джибошит
 Dialogue: 3:57:46.71, 3:57:48.92, Default, {\c&HFFFFFF&}krivorykii_krabik{\c&HFFFFFF&}: PurpleStar x⁣5
 Dialogue: 3:57:47.43, 3:57:49.71, Default, {\c&HFFFFFF&}nepomnukakzovyt{\c&HFFFFFF&}: bufaLove PurpleStar
@@ -10097,7 +10097,7 @@ Dialogue: 4:05:20.37, 4:05:22.53, Default, {\c&HFF5686&}VampireLili_{\c&HFFFFFF&
 ; Dialogue: 4:05:21.93, 4:05:24.78, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Передаем в СВЧ-диапазоне уже 4 hours 5 minutes 32 \Nseconds
 Dialogue: 4:05:25.27, 4:05:27.63, Default, {\c&HFFFFFF&}Marrrtha{\c&HFFFFFF&}: @GraciSL Хейооо PagChomp
 Dialogue: 4:05:28.36, 4:05:30.61, Default, {\c&HFF901E&}Mr_Dimiks{\c&HFFFFFF&}: ну Гитман прав же
-; Dialogue: 4:05:28.59, 4:05:31.41, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/SparklingFragileTarsierFailFish
+Dialogue: 4:05:28.59, 4:05:31.41, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/SparklingFragileTarsierFailFish
 Dialogue: 4:05:29.12, 4:05:31.54, Default, {\c&HFFFFFF&}MaybeNhope{\c&HFFFFFF&}: зайти в дом, чтобы выйти LUL
 Dialogue: 4:05:31.10, 4:05:33.31, Default, {\c&HBAEF1C&}VoxVon{\c&HFFFFFF&}: PurpleStar x⁣7
 Dialogue: 4:05:35.65, 4:05:38.79, Default, {\c&HFFFFFF&}arsyushkin{\c&HFFFFFF&}: да там чел сгорел знатно. токсичный шо твой \Nсосед. что колда с людьми делает
@@ -10265,7 +10265,7 @@ Dialogue: 4:10:29.67, 4:10:32.03, Default, {\c&HB469FF&}JmixM{\c&HFFFFFF&}: Ил
 Dialogue: 4:10:35.80, 4:10:38.55, Default, {\c&HFFFFFF&}yulia_ystala{\c&HFFFFFF&}: Скиньте ещё раз, пожалуйста, ссылку на клип \NВЛГ <3
 Dialogue: 4:10:39.52, 4:10:42.46, Default, {\c&H0000FF&}darth_imperiius{\c&HFFFFFF&}: @kilka_v_domkrate, а какой материал \Nтряпочки используешь? PepoG
 Dialogue: 4:10:40.03, 4:10:42.16, Default, {\c&H0045FF&}VERTUFAISEN{\c&HFFFFFF&}: bufaNinya
-; Dialogue: 4:10:42.79, 4:10:45.61, Default, {\c&HFF901E&}GraciSL{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/SparklingFragileTarsierFailFish
+Dialogue: 4:10:42.79, 4:10:45.61, Default, {\c&HFF901E&}GraciSL{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/SparklingFragileTarsierFailFish
 Dialogue: 4:10:46.64, 4:10:48.98, Default, {\c&HFF0000&}faker4221{\c&HFFFFFF&}: ля он там горит LUL x⁣3
 Dialogue: 4:10:46.99, 4:10:50.53, Default, {\c&HFF901E&}Mr_Dimiks{\c&HFFFFFF&}: @irlandskayakyrochka, сходи к нему, посмотри. \Nведь знание, приобретённое самостоятельно, гораздо ценнее
 Dialogue: 4:10:52.28, 4:10:56.57, Default, {\c&H008000&}Maiar_A{\c&HFFFFFF&}: @desperados7 Суть в том что нах на фан турнир где \Nиграт обычные не шутер стримеры звать киберкатлету по шутер \Nиграм Делайте сразу турик из киберкатлет...

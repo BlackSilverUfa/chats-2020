@@ -2187,7 +2187,7 @@ Dialogue: 0:29:34.86, 0:29:37.19, Default, {\c&H20A5DA&}l3uga{\c&HFFFFFF&}: BUFA
 Dialogue: 0:29:35.97, 0:29:38.45, Default, {\c&H0045FF&}Melnik_san{\c&HFFFFFF&}: Нудятина. Пол сезона еле осилил.
 Dialogue: 0:29:36.02, 0:29:38.11, Default, {\c&HFFFFFF&}jerryfix{\c&HFFFFFF&}: я бубу
 Dialogue: 0:29:36.28, 0:29:38.59, Default, {\c&HFFFFFF&}xochu_c0c0k{\c&HFFFFFF&}: опять индусы какие-то
-Dialogue: 0:29:36.51, 0:29:38.67, Default, {\c&HFFFFFF&}golfpapatango{\c&HFFFFFF&}: \Марсаночка
+; Dialogue: 0:29:36.51, 0:29:38.67, Default, {\c&HFFFFFF&}golfpapatango{\c&HFFFFFF&}: \Марсаночка
 Dialogue: 0:29:37.60, 0:29:40.23, Default, {\c&HE22B8A&}larry_larson{\c&HFFFFFF&}: @BlackUFA Смотрел Пацанов от Амазон, кста?
 Dialogue: 0:29:37.69, 0:29:40.02, Default, {\c&H0000FF&}iversonnba{\c&HFFFFFF&}: 3 сезон все испрортили
 Dialogue: 0:29:39.15, 0:29:41.52, Default, {\c&H0045FF&}postal1443{\c&HFFFFFF&}: цветокор от вебки остался
@@ -8609,7 +8609,7 @@ Dialogue: 2:10:12.49, 2:10:14.62, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}
 Dialogue: 2:10:14.27, 2:10:16.43, Default, {\c&HFFFFFF&}Vkysnyatina{\c&HFFFFFF&}: NotLikeThis
 Dialogue: 2:10:14.76, 2:10:18.23, Default, {\c&H578B2E&}pigeonincap{\c&HFFFFFF&}: @irreversiblehito, брат, брат VAMPPE \NPETTHEPEEPO он приведёт нас к свету VAMPPE к свечке \NbufaLough
 ; Dialogue: 2:10:15.74, 2:10:17.80, Default, {\c&HE22B8A&}k4ito_semp4i{\c&HFFFFFF&}: !icq
-Dialogue: 2:10:16.05, 2:10:18.06, Default, {\c&HFFFFFF&}kenter129{\c&HFFFFFF&}: \
+; Dialogue: 2:10:16.05, 2:10:18.06, Default, {\c&HFFFFFF&}kenter129{\c&HFFFFFF&}: \
 ; Dialogue: 2:10:16.10, 2:10:18.80, Default, {\c&HE22B8A&}TheDrHaxBot{\c&HFFFFFF&}: @k4ito_semp4i, ваш рассудок: 114% (-2) BUFANerd
 Dialogue: 2:10:18.51, 2:10:20.70, Default, {\c&HFFFFFF&}AmynosaSir{\c&HFFFFFF&}: Не пугает нас
 Dialogue: 2:10:20.42, 2:10:23.02, Default, {\c&HFFFFFF&}notTolstoy{\c&HFFFFFF&}: Затем, что чат требует! bufaChatSila x⁣3

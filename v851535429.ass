@@ -4645,7 +4645,7 @@ Dialogue: 1:01:35.80, 1:01:38.86, Default, {\c&H1DBE9B&}aire_19{\c&HFFFFFF&}: @B
 ; Dialogue: 1:01:37.06, 1:01:40.29, Default, {\c&H008000&}TheDrHaxBot{\c&HFFFFFF&}: @yaktoshtop выбирается из подвала и кусает \N@pigeonincap за себя и за Сашку BSURage
 Dialogue: 1:01:40.20, 1:01:42.51, Default, {\c&HFFFFFF&}nonsub{\c&HFFFFFF&}: @thedrhaxbot SabaPing
 Dialogue: 1:01:40.77, 1:01:43.10, Default, {\c&H32CD9A&}MostHigher{\c&HFFFFFF&}: Чат, это мод какой-то?
-; Dialogue: 1:01:42.06, 1:01:44.87, Default, {\c&H507FFF&}NekoNic0le{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/EmpathicResoluteCheddarBudStar
+Dialogue: 1:01:42.06, 1:01:44.87, Default, {\c&H507FFF&}NekoNic0le{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/EmpathicResoluteCheddarBudStar
 Dialogue: 1:01:47.42, 1:01:49.94, Default, {\c&H32CD9A&}zittonia{\c&HFFFFFF&}: @railnox, обычно пишут "расходного"
 Dialogue: 1:01:48.66, 1:01:51.32, Default, {\c&H008000&}idreamerok{\c&HFFFFFF&}: @BlackUFA так гоу заново пока не далеко ушли
 ; Dialogue: 1:01:49.00, 1:01:51.06, Default, {\c&H008000&}ruhling4ever{\c&HFFFFFF&}: !ICQ
@@ -7792,7 +7792,7 @@ Dialogue: 1:47:56.55, 1:47:59.33, Default, {\c&HFFFFFF&}Cerber_AW{\c&HFFFFFF&}: 
 Dialogue: 1:47:56.99, 1:47:59.12, Default, {\c&H1DBE9B&}aire_19{\c&HFFFFFF&}: monkaEyes
 Dialogue: 1:47:57.28, 1:47:59.74, Default, {\c&H0000FF&}Fullonikon{\c&HFFFFFF&}: сзади него не его лицо случаем?
 Dialogue: 1:47:57.35, 1:47:59.45, Default, {\c&HFFFFFF&}fox_ek{\c&HFFFFFF&}: Jammies
-; Dialogue: 1:47:57.37, 1:48:00.43, Default, {\c&H7FFF00&}perrrrkele{\c&HFFFFFF&}: \NBSUJam SmokeTime BSUJam SmokeTime BSUJam SmokeTime x⁣3 \NBSUJam SmokeTime
+Dialogue: 1:47:57.37, 1:48:00.43, Default, {\c&H7FFF00&}perrrrkele{\c&HFFFFFF&}: \NBSUJam SmokeTime BSUJam SmokeTime BSUJam SmokeTime x⁣3 \NBSUJam SmokeTime
 Dialogue: 1:47:57.47, 1:47:59.90, Default, {\c&HB40A85&}JyccDay{\c&HFFFFFF&}: напоминает музыку из террарии
 ; Dialogue: 1:47:58.25, 1:48:00.31, Default, {\c&HFFFFFF&}nekitbakit{\c&HFFFFFF&}: !icq
 ; Dialogue: 1:47:58.82, 1:48:01.30, Default, {\c&H008000&}TheDrHaxBot{\c&HFFFFFF&}: @nekitbakit, у вас 124 ICQ 5Head
@@ -10088,7 +10088,7 @@ Dialogue: 2:19:01.95, 2:19:05.25, Default, {\c&HB469FF&}desperados7{\c&HFFFFFF&}
 Dialogue: 2:19:03.55, 2:19:05.64, Default, {\c&H0000FF&}showgara{\c&HFFFFFF&}: пощады
 Dialogue: 2:19:04.19, 2:19:06.34, Default, {\c&HFFFFFF&}naroyale733{\c&HFFFFFF&}: стукни его
 Dialogue: 2:19:04.60, 2:19:06.84, Default, {\c&HFFFFFF&}lol_kek_cheburek_12{\c&HFFFFFF&}: *сделано потише*
-; Dialogue: 2:19:05.73, 2:19:08.61, Default, {\c&HFFFFFF&}matandeg{\c&HFFFFFF&}: \NБог сохрани нас NotLikeThis Бог сохрани нас NotLikeThis x⁣5
+Dialogue: 2:19:05.73, 2:19:08.61, Default, {\c&HFFFFFF&}matandeg{\c&HFFFFFF&}: \NБог сохрани нас NotLikeThis Бог сохрани нас NotLikeThis x⁣5
 Dialogue: 2:19:06.44, 2:19:08.45, Default, {\c&H7FFF00&}MAKFED{\c&HFFFFFF&}: f
 Dialogue: 2:19:08.83, 2:19:11.10, Default, {\c&HFFFFFF&}kotya_iz_nonsabii{\c&HFFFFFF&}: как-то душно стало
 Dialogue: 2:19:09.69, 2:19:11.79, Default, {\c&H0000FF&}flutterjack_dream{\c&HFFFFFF&}: CatoPog
@@ -18936,7 +18936,7 @@ Dialogue: 4:40:47.91, 4:40:50.63, Default, {\c&H000000&}K_O_JI_bI_B_A_H{\c&HFFFF
 Dialogue: 4:40:48.49, 4:40:50.53, Default, {\c&H0045FF&}0xKrakeNx0{\c&HFFFFFF&}: дай
 Dialogue: 4:40:48.85, 4:40:51.36, Default, {\c&HFFFFFF&}shizofaza{\c&HFFFFFF&}: @WaitForHappiness bufaLove x⁣3 !!!
 ; Dialogue: 4:40:52.44, 4:40:54.56, Default, {\c&H008000&}KpuBopy4ka_{\c&HFFFFFF&}: !howlong
-; Dialogue: 4:40:52.62, 4:40:55.46, Default, {\c&H0000FF&}BlackUFA{\c&HFFFFFF&}: \Nhttps://www.youtube.com/channel/UCGLGhwIJfz4Nl2uhTqdNikw
+Dialogue: 4:40:52.62, 4:40:55.46, Default, {\c&H0000FF&}BlackUFA{\c&HFFFFFF&}: \Nhttps://www.youtube.com/channel/UCGLGhwIJfz4Nl2uhTqdNikw
 ; Dialogue: 4:40:52.80, 4:40:56.13, Default, {\c&HFF995B&}StreamElements{\c&HFFFFFF&}: @KpuBopy4ka_, kpubopy4ka_ has been following \Nblackufa for 2 years 7 months 10 days 1 hour
 Dialogue: 4:40:53.24, 4:40:55.72, Default, {\c&HB469FF&}Brommiss{\c&HFFFFFF&}: Подписываться на этого мальчика?
 Dialogue: 4:40:53.27, 4:40:55.31, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: UwU
@@ -21015,7 +21015,7 @@ Dialogue: 5:14:58.10, 5:15:00.88, Default, {\c&H7FFF00&}green_muffin789{\c&HFFFF
 Dialogue: 5:14:59.33, 5:15:01.60, Default, {\c&HFFFFFF&}dFx64xFF{\c&HFFFFFF&}: @tryxson выбраться
 Dialogue: 5:15:00.77, 5:15:02.93, Default, {\c&H1DBE9B&}aire_19{\c&HFFFFFF&}: peepoJAMMER
 Dialogue: 5:15:03.48, 5:15:05.60, Default, {\c&HFFFFFF&}1991gera{\c&HFFFFFF&}: накаут))
-; Dialogue: 5:15:04.94, 5:15:07.78, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/ReliableAmazingBadgerGrammarKing
+Dialogue: 5:15:04.94, 5:15:07.78, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/ReliableAmazingBadgerGrammarKing
 Dialogue: 5:15:05.03, 5:15:07.16, Default, {\c&H20A5DA&}yiota0n{\c&HFFFFFF&}: bufaAYAYA
 Dialogue: 5:15:05.70, 5:15:08.12, Default, {\c&H32CD9A&}gakuran313{\c&HFFFFFF&}: будет пить сегодня стрииимер
 ; Dialogue: 5:15:09.80, 5:15:14.32, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Играй до конца года бесплатно с GFN.RU или получи \Nскидку 10% на премиум по промокоду BLACKUFA и запускай игры \Nс топовой графикой без очередей: https://r.gfn.ru/blackufa
@@ -21482,7 +21482,7 @@ Dialogue: 5:22:26.38, 5:22:28.47, Default, {\c&H7FFF00&}elka_zelenaya{\c&HFFFFFF
 Dialogue: 5:22:26.58, 5:22:28.67, Default, {\c&HFFFFFF&}lu_ssi{\c&HFFFFFF&}: <3 x⁣4
 Dialogue: 5:22:26.60, 5:22:28.69, Default, {\c&H00FF2B&}zhurdima{\c&HFFFFFF&}: <3 <3]
 Dialogue: 5:22:26.80, 5:22:28.89, Default, {\c&H0000FF&}Retlif{\c&HFFFFFF&}: <3 x⁣4
-; Dialogue: 5:22:26.89, 5:22:29.62, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/CleanMistyLatteWholeWheat
+Dialogue: 5:22:26.89, 5:22:29.62, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/CleanMistyLatteWholeWheat
 Dialogue: 5:22:27.63, 5:22:29.72, Default, {\c&HFF0000&}artaslayt{\c&HFFFFFF&}: <3 x⁣6
 Dialogue: 5:22:27.73, 5:22:29.94, Default, {\c&HFFFFFF&}evilalexa1{\c&HFFFFFF&}: Johnny2077 x⁣3
 Dialogue: 5:22:28.05, 5:22:30.14, Default, {\c&HFFFFFF&}kvassandsquid{\c&HFFFFFF&}: <3 x⁣5
@@ -22490,7 +22490,7 @@ Dialogue: 5:43:06.16, 5:43:08.59, Default, {\c&HFFFFFF&}sky_exx{\c&HFFFFFF&}: а
 Dialogue: 5:43:08.00, 5:43:10.10, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}: Nervous
 Dialogue: 5:43:09.93, 5:43:12.00, Default, {\c&HFFFFFF&}dimonpokimon4ik{\c&HFFFFFF&}: ачача
 Dialogue: 5:43:10.90, 5:43:14.89, Default, {\c&HFF0000&}YoloKsen117{\c&HFFFFFF&}: Так, я тут отходил на пару часиков, это, я так \Nпонимаю, последняя версия оригинального Контейент брич? Где \Nмы за заключенного играем?
-; Dialogue: 5:43:11.41, 5:43:14.19, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/AntsyCrunchyGaragePunchTrees
+Dialogue: 5:43:11.41, 5:43:14.19, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/AntsyCrunchyGaragePunchTrees
 Dialogue: 5:43:13.57, 5:43:16.20, Default, {\c&H5200CC&}EthMastare{\c&HFFFFFF&}: Что сегодня кушоть будешь @BlackUFA OpieOP
 Dialogue: 5:43:17.57, 5:43:20.53, Default, {\c&HFFFFFF&}graf_kakula{\c&HFFFFFF&}: 173 приходит когда стример токсичит или это \Nсовпадение? PixelBob
 Dialogue: 5:43:17.93, 5:43:20.51, Default, {\c&HFFFFFF&}mercurylover{\c&HFFFFFF&}: Гг не выдержал засос в шею от 173 Kappa
@@ -23803,7 +23803,7 @@ Dialogue: 6:05:28.39, 6:05:30.57, Default, {\c&HFFFFFF&}tpyc_rus{\c&HFFFFFF&}: p
 Dialogue: 6:05:28.71, 6:05:30.86, Default, {\c&HFF0000&}blackoren56{\c&HFFFFFF&}: TaBeRu x⁣6
 Dialogue: 6:05:28.93, 6:05:31.03, Default, {\c&HB469FF&}TR0Yz{\c&HFFFFFF&}: NODDERS
 Dialogue: 6:05:29.81, 6:05:31.99, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}: peepoMas x⁣8
-; Dialogue: 6:05:29.98, 6:05:32.77, Default, {\c&H20A5DA&}NickWorraps{\c&HFFFFFF&}: \NpeepoMas peepoHuggers peepoSnow peepoClap Jammies x⁣5
+Dialogue: 6:05:29.98, 6:05:32.77, Default, {\c&H20A5DA&}NickWorraps{\c&HFFFFFF&}: \NpeepoMas peepoHuggers peepoSnow peepoClap Jammies x⁣5
 ; Dialogue: 6:05:33.12, 6:05:35.40, Default, {\c&HE22B8A&}VladdyMoses{\c&HFFFFFF&}: !шар, а мне можно?)
 ; Dialogue: 6:05:33.44, 6:05:35.99, Default, {\c&H008000&}TheDrHaxBot{\c&HFFFFFF&}: @vladdymoses, думаю, что да SeemsGood
 Dialogue: 6:05:33.56, 6:05:35.75, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: peepoMas x⁣16
@@ -23861,7 +23861,7 @@ Dialogue: 6:06:15.63, 6:06:17.88, Default, {\c&H008000&}robbzombie_{\c&HFFFFFF&}
 Dialogue: 6:06:15.79, 6:06:19.03, Default, {\c&HFF901E&}SpacePixelSnow{\c&HFFFFFF&}: Jammies SoSnowy Jammies SoSnowy Jammies SoSn\Nowy Jammies SoSnowy Jammies SoSnowy x⁣4
 Dialogue: 6:06:16.77, 6:06:18.95, Default, {\c&HFFFFFF&}dFx64xFF{\c&HFFFFFF&}: peepoMas x⁣8
 Dialogue: 6:06:17.62, 6:06:19.95, Default, {\c&H0000FF&}Pupalzen{\c&HFFFFFF&}: peepoSnow peepoMas x⁣4
-; Dialogue: 6:06:18.24, 6:06:21.03, Default, {\c&H20A5DA&}NickWorraps{\c&HFFFFFF&}: \NpeepoMas peepoHuggers peepoSnow peepoClap Jammies x⁣3
+Dialogue: 6:06:18.24, 6:06:21.03, Default, {\c&H20A5DA&}NickWorraps{\c&HFFFFFF&}: \NpeepoMas peepoHuggers peepoSnow peepoClap Jammies x⁣3
 Dialogue: 6:06:20.54, 6:06:22.91, Default, {\c&HFFFFFF&}Sir_Regynald{\c&HFFFFFF&}: ze6ypoRju x⁣7 WutFace x⁣7
 Dialogue: 6:06:20.65, 6:06:22.84, Default, {\c&H20A5DA&}Sir_Leonid1199{\c&HFFFFFF&}: peepoMas x⁣13
 Dialogue: 6:06:20.85, 6:06:23.03, Default, {\c&H0045FF&}Nikkiriru{\c&HFFFFFF&}: peepoMas x⁣7

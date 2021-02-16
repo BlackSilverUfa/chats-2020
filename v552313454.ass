@@ -8228,7 +8228,7 @@ Dialogue: 1:27:55.96, 1:27:58.14, Default, {\c&HFFFFFF&}EvilChewbacca{\c&HFFFFFF
 ; Dialogue: 1:27:58.85, 1:28:02.36, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: @rpd_33 -> The bot commands for this channel are \Navailable at https://nightbot.tv/t/blackufa/commands
 ; Dialogue: 1:27:59.02, 1:28:02.43, Default, {\c&HFF995B&}StreamElements{\c&HFFFFFF&}: @rpd_33, You can find a list of all Commands \Nhere https://StreamElements.com/blackufa/commands
 Dialogue: 1:28:01.24, 1:28:03.37, Default, {\c&HFFFFFF&}Zmeigo{\c&HFFFFFF&}: InuyoFace
-Dialogue: 1:28:03.72, 1:28:05.79, Default, {\c&HE22B8A&}ZverX{\c&HFFFFFF&}: \bow1
+; Dialogue: 1:28:03.72, 1:28:05.79, Default, {\c&HE22B8A&}ZverX{\c&HFFFFFF&}: \bow1
 Dialogue: 1:28:07.57, 1:28:09.88, Default, {\c&H507FFF&}PrincessPeachee{\c&HFFFFFF&}: BibleThump BibleThump
 Dialogue: 1:28:11.30, 1:28:13.42, Default, {\c&HFFFFFF&}chirnish{\c&HFFFFFF&}: bow1 100
 Dialogue: 1:28:11.68, 1:28:13.89, Default, {\c&H008000&}kassansha{\c&HFFFFFF&}: Всем приветики
@@ -10574,7 +10574,7 @@ Dialogue: 2:12:51.06, 2:12:53.16, Default, {\c&HE22B8A&}fitzppy{\c&HFFFFFF&}: pi
 ; Dialogue: 2:12:51.09, 2:12:53.19, Default, {\c&HFFFFFF&}pogudin_n{\c&HFFFFFF&}: !зшсльу
 Dialogue: 2:12:51.32, 2:12:53.36, Default, {\c&HFF0000&}iskusstvoed{\c&HFFFFFF&}: LUL
 Dialogue: 2:12:51.44, 2:12:54.11, Default, {\c&H20A5DA&}Povelitel_nonsubov{\c&HFFFFFF&}: написано ты отключил поддержку чата \N@BlackUFA
-Dialogue: 2:12:55.03, 2:12:57.13, Default, {\c&HFFFFFF&}Safren_gaming{\c&HFFFFFF&}: \pickme
+; Dialogue: 2:12:55.03, 2:12:57.13, Default, {\c&HFFFFFF&}Safren_gaming{\c&HFFFFFF&}: \pickme
 ; Dialogue: 2:12:57.09, 2:12:59.36, Default, {\c&HFFFFFF&}matonaaaario{\c&HFFFFFF&}: pickme bufaSubHype
 Dialogue: 2:13:02.42, 2:13:04.51, Default, {\c&HFFFFFF&}megusta970{\c&HFFFFFF&}: pikeme
 Dialogue: 2:13:04.00, 2:13:06.09, Default, {\c&HFFFFFF&}Run_AwaY{\c&HFFFFFF&}: pickmr
@@ -10867,7 +10867,7 @@ Dialogue: 2:18:49.92, 2:18:52.46, Default, {\c&HFFFFFF&}gniknaissur{\c&HFFFFFF&}
 Dialogue: 2:18:51.40, 2:18:53.43, Default, {\c&HFFFFFF&}GrigorioGrom{\c&HFFFFFF&}: 12
 Dialogue: 2:18:51.43, 2:18:53.58, Default, {\c&H0045FF&}LekSbI4{\c&HFFFFFF&}: не писать?
 Dialogue: 2:18:52.44, 2:18:54.59, Default, {\c&HFFFFFF&}ShockJake{\c&HFFFFFF&}: bufaUL x⁣3
-Dialogue: 2:18:53.24, 2:18:55.46, Default, {\c&HFFFFFF&}baku_daruma{\c&HFFFFFF&}: pick me x⁣3 up!
+; Dialogue: 2:18:53.24, 2:18:55.46, Default, {\c&HFFFFFF&}baku_daruma{\c&HFFFFFF&}: pick me x⁣3 up!
 Dialogue: 2:18:54.23, 2:18:56.62, Default, {\c&HFFFFFF&}Alir_the_neon{\c&HFFFFFF&}: пик ми алл, семпай GivePLZ
 Dialogue: 2:18:54.33, 2:18:56.48, Default, {\c&H872427&}petrodigitator{\c&HFFFFFF&}: bufaUL Чат
 Dialogue: 2:18:54.35, 2:18:56.74, Default, {\c&H2222B2&}qQqweSa{\c&HFFFFFF&}: @Jornie_Nonsabiya ну мб мб
@@ -11264,7 +11264,7 @@ Dialogue: 2:26:27.08, 2:26:29.24, Default, {\c&HFF0000&}APTOPUAC{\c&HFFFFFF&}: �
 Dialogue: 2:26:27.50, 2:26:29.68, Default, {\c&HFFFFFF&}Shepard_alive{\c&HFFFFFF&}: StinkyCheese
 Dialogue: 2:26:28.71, 2:26:30.72, Default, {\c&HFFFFFF&}tanchikk8282{\c&HFFFFFF&}: Y
 ; Dialogue: 2:26:33.42, 2:26:35.46, Default, {\c&HFFFFFF&}Spamer_02{\c&HFFFFFF&}: пиф
-Dialogue: 2:26:34.05, 2:26:36.09, Default, {\c&H00CC1F&}maxtanx{\c&HFFFFFF&}: бух
+; Dialogue: 2:26:34.05, 2:26:36.09, Default, {\c&H00CC1F&}maxtanx{\c&HFFFFFF&}: бух
 ; Dialogue: 2:26:34.61, 2:26:36.65, Default, {\c&H507FFF&}Cove__{\c&HFFFFFF&}: пиф
 ; Dialogue: 2:26:34.66, 2:26:36.70, Default, {\c&HE22B8A&}StrimanSSSS{\c&HFFFFFF&}: пиф
 Dialogue: 2:26:34.72, 2:26:36.73, Default, {\c&HE22B8A&}loki4sama{\c&HFFFFFF&}: 1
@@ -11290,12 +11290,12 @@ Dialogue: 2:26:37.30, 2:26:39.34, Default, {\c&H7FFF00&}ADrus74{\c&HFFFFFF&}: gb
 ; Dialogue: 2:26:37.51, 2:26:39.55, Default, {\c&H0000FF&}ACATOP{\c&HFFFFFF&}: бум
 ; Dialogue: 2:26:37.54, 2:26:39.58, Default, {\c&H0000FF&}Dracula_Rus{\c&HFFFFFF&}: пиф
 ; Dialogue: 2:26:37.55, 2:26:39.59, Default, {\c&HFFFFFF&}artie_m2{\c&HFFFFFF&}: пиф
-Dialogue: 2:26:37.62, 2:26:39.66, Default, {\c&HFFFFFF&}polowojricar{\c&HFFFFFF&}: бух
+; Dialogue: 2:26:37.62, 2:26:39.66, Default, {\c&HFFFFFF&}polowojricar{\c&HFFFFFF&}: бух
 Dialogue: 2:26:37.95, 2:26:39.96, Default, {\c&H507FFF&}Salted_Salmon{\c&HFFFFFF&}: 1
 ; Dialogue: 2:26:37.97, 2:26:40.01, Default, {\c&H008000&}CrestedPilot1{\c&HFFFFFF&}: пиф
-Dialogue: 2:26:38.05, 2:26:40.09, Default, {\c&H2222B2&}Bonikular{\c&HFFFFFF&}: бух
+; Dialogue: 2:26:38.05, 2:26:40.09, Default, {\c&H2222B2&}Bonikular{\c&HFFFFFF&}: бух
 ; Dialogue: 2:26:38.11, 2:26:40.15, Default, {\c&HFFFFFF&}ilgeyt_{\c&HFFFFFF&}: пиф
-Dialogue: 2:26:38.12, 2:26:40.21, Default, {\c&H578B2E&}mairdrake{\c&HFFFFFF&}: шкварк
+; Dialogue: 2:26:38.12, 2:26:40.21, Default, {\c&H578B2E&}mairdrake{\c&HFFFFFF&}: шкварк
 Dialogue: 2:26:38.22, 2:26:40.29, Default, {\c&H0045FF&}Oustmine{\c&HFFFFFF&}: шварк
 ; Dialogue: 2:26:38.38, 2:26:40.42, Default, {\c&HFFFFFF&}Retano{\c&HFFFFFF&}: бум
 Dialogue: 2:26:38.54, 2:26:40.63, Default, {\c&H1E69D2&}DILLERON{\c&HFFFFFF&}: bufaUL
@@ -11307,21 +11307,21 @@ Dialogue: 2:26:38.69, 2:26:40.72, Default, {\c&HFF00AA&}Piterskiisimba{\c&HFFFFF
 ; Dialogue: 2:26:38.88, 2:26:40.92, Default, {\c&HFFFFFF&}AeoMento{\c&HFFFFFF&}: бум
 ; Dialogue: 2:26:38.99, 2:26:41.03, Default, {\c&H507FFF&}mr__bator{\c&HFFFFFF&}: пиф
 ; Dialogue: 2:26:39.14, 2:26:41.18, Default, {\c&HFFFFFF&}DeckBlack2{\c&HFFFFFF&}: пиф
-Dialogue: 2:26:39.29, 2:26:41.33, Default, {\c&HA90D6B&}KpekepSalt{\c&HFFFFFF&}: бух
+; Dialogue: 2:26:39.29, 2:26:41.33, Default, {\c&HA90D6B&}KpekepSalt{\c&HFFFFFF&}: бух
 ; Dialogue: 2:26:39.41, 2:26:41.45, Default, {\c&H0000FF&}Kotofeich1330{\c&HFFFFFF&}: пиф
 ; Dialogue: 2:26:39.44, 2:26:41.48, Default, {\c&HB469FF&}oplasido{\c&HFFFFFF&}: пиф
 ; Dialogue: 2:26:39.46, 2:26:41.50, Default, {\c&HFFFFFF&}4e6yPaLLI{\c&HFFFFFF&}: пиф
 ; Dialogue: 2:26:39.58, 2:26:41.62, Default, {\c&HFFFFFF&}NesQuik012{\c&HFFFFFF&}: бум
 Dialogue: 2:26:39.60, 2:26:41.64, Default, {\c&H0000FF&}Demonic_smile{\c&HFFFFFF&}: ,ev
 ; Dialogue: 2:26:39.78, 2:26:41.84, Default, {\c&HE22B8A&}mad_iris{\c&HFFFFFF&}: !бум
-Dialogue: 2:26:40.02, 2:26:42.11, Default, {\c&HFF901E&}pirojika{\c&HFFFFFF&}: шкварк
+; Dialogue: 2:26:40.02, 2:26:42.11, Default, {\c&HFF901E&}pirojika{\c&HFFFFFF&}: шкварк
 ; Dialogue: 2:26:40.08, 2:26:42.12, Default, {\c&H0000FF&}mrgreen06{\c&HFFFFFF&}: пиф
-Dialogue: 2:26:40.14, 2:26:42.18, Default, {\c&HE22B8A&}smipe207{\c&HFFFFFF&}: бух
+; Dialogue: 2:26:40.14, 2:26:42.18, Default, {\c&HE22B8A&}smipe207{\c&HFFFFFF&}: бух
 ; Dialogue: 2:26:40.21, 2:26:42.25, Default, {\c&HFFFFFF&}Zertul_Nair{\c&HFFFFFF&}: бум
 ; Dialogue: 2:26:40.37, 2:26:42.41, Default, {\c&HFFFFFF&}yurkaaa_1{\c&HFFFFFF&}: бум
 ; Dialogue: 2:26:40.40, 2:26:42.47, Default, {\c&H507FFF&}Cove__{\c&HFFFFFF&}: дзинь
 ; Dialogue: 2:26:40.42, 2:26:42.46, Default, {\c&H32CD9A&}RileyRayan{\c&HFFFFFF&}: пиф
-Dialogue: 2:26:40.53, 2:26:42.57, Default, {\c&H32CD9A&}hughton{\c&HFFFFFF&}: бух
+; Dialogue: 2:26:40.53, 2:26:42.57, Default, {\c&H32CD9A&}hughton{\c&HFFFFFF&}: бух
 ; Dialogue: 2:26:40.60, 2:26:42.64, Default, {\c&HFFFFFF&}polowojricar{\c&HFFFFFF&}: бум
 ; Dialogue: 2:26:40.64, 2:26:42.71, Default, {\c&HFFFFFF&}miliyk0t{\c&HFFFFFF&}: дзинь
 Dialogue: 2:26:40.65, 2:26:42.69, Default, {\c&HFFFFFF&}andrew_s89{\c&HFFFFFF&}: gba
@@ -11330,42 +11330,42 @@ Dialogue: 2:26:40.65, 2:26:42.69, Default, {\c&HFFFFFF&}andrew_s89{\c&HFFFFFF&}:
 ; Dialogue: 2:26:40.71, 2:26:42.75, Default, {\c&H507FFF&}Odvistr{\c&HFFFFFF&}: пиф
 ; Dialogue: 2:26:40.77, 2:26:42.81, Default, {\c&HFFFFFF&}dom1no456{\c&HFFFFFF&}: бум
 ; Dialogue: 2:26:41.12, 2:26:43.16, Default, {\c&HFFFFFF&}nike0313{\c&HFFFFFF&}: бум
-Dialogue: 2:26:41.13, 2:26:43.22, Default, {\c&HB469FF&}badukov{\c&HFFFFFF&}: шкварк
+; Dialogue: 2:26:41.13, 2:26:43.22, Default, {\c&HB469FF&}badukov{\c&HFFFFFF&}: шкварк
 ; Dialogue: 2:26:41.15, 2:26:43.19, Default, {\c&HFFFFFF&}TARLOK_0{\c&HFFFFFF&}: бум
-Dialogue: 2:26:41.16, 2:26:43.20, Default, {\c&HE22B8A&}DarkOnegin{\c&HFFFFFF&}: бух
+; Dialogue: 2:26:41.16, 2:26:43.20, Default, {\c&HE22B8A&}DarkOnegin{\c&HFFFFFF&}: бух
 ; Dialogue: 2:26:41.18, 2:26:43.25, Default, {\c&HCC8100&}TheMightyBeerhammer{\c&HFFFFFF&}: дзинь
-Dialogue: 2:26:41.21, 2:26:43.30, Default, {\c&HE22B8A&}kirikalika{\c&HFFFFFF&}: шкварк
+; Dialogue: 2:26:41.21, 2:26:43.30, Default, {\c&HE22B8A&}kirikalika{\c&HFFFFFF&}: шкварк
 ; Dialogue: 2:26:41.22, 2:26:43.26, Default, {\c&H0000FF&}red_rum{\c&HFFFFFF&}: бум
 Dialogue: 2:26:41.26, 2:26:44.02, Default, {\c&H872427&}petrodigitator{\c&HFFFFFF&}: Рекомендация чата, куда те надо идти. Бэксит \NbufaUL
-Dialogue: 2:26:41.34, 2:26:43.38, Default, {\c&HFFFFFF&}vertakinmac{\c&HFFFFFF&}: бух
+; Dialogue: 2:26:41.34, 2:26:43.38, Default, {\c&HFFFFFF&}vertakinmac{\c&HFFFFFF&}: бух
 ; Dialogue: 2:26:41.42, 2:26:43.46, Default, {\c&HFFFFFF&}antonru9{\c&HFFFFFF&}: пиф
-Dialogue: 2:26:41.53, 2:26:43.57, Default, {\c&HFFFFFF&}Ackord{\c&HFFFFFF&}: бух
+; Dialogue: 2:26:41.53, 2:26:43.57, Default, {\c&HFFFFFF&}Ackord{\c&HFFFFFF&}: бух
 ; Dialogue: 2:26:41.58, 2:26:43.62, Default, {\c&HFFFFFF&}ZAE_B{\c&HFFFFFF&}: ПИФ
-Dialogue: 2:26:41.61, 2:26:43.65, Default, {\c&HFFFFFF&}z000mbie{\c&HFFFFFF&}: бух
+; Dialogue: 2:26:41.61, 2:26:43.65, Default, {\c&HFFFFFF&}z000mbie{\c&HFFFFFF&}: бух
 ; Dialogue: 2:26:41.68, 2:26:43.72, Default, {\c&HFFFFFF&}tinvel{\c&HFFFFFF&}: пиф
-Dialogue: 2:26:41.85, 2:26:43.94, Default, {\c&H578B2E&}GrimGuyMike{\c&HFFFFFF&}: шкварк
+; Dialogue: 2:26:41.85, 2:26:43.94, Default, {\c&H578B2E&}GrimGuyMike{\c&HFFFFFF&}: шкварк
 ; Dialogue: 2:26:42.02, 2:26:44.06, Default, {\c&H0000FF&}smorcgentleman{\c&HFFFFFF&}: бум
 ; Dialogue: 2:26:42.03, 2:26:44.07, Default, {\c&HFF0000&}xeethedead{\c&HFFFFFF&}: пиф
 ; Dialogue: 2:26:42.04, 2:26:44.08, Default, {\c&HFFFFFF&}alexgv1{\c&HFFFFFF&}: пиф
-Dialogue: 2:26:42.06, 2:26:44.10, Default, {\c&HFFFFFF&}krakozyabr{\c&HFFFFFF&}: бух
+; Dialogue: 2:26:42.06, 2:26:44.10, Default, {\c&HFFFFFF&}krakozyabr{\c&HFFFFFF&}: бух
 ; Dialogue: 2:26:43.46, 2:26:45.50, Default, {\c&HFF901E&}sameBaka{\c&HFFFFFF&}: пиф
 ; Dialogue: 2:26:43.46, 2:26:45.50, Default, {\c&HFFFFFF&}kristalniyvoin{\c&HFFFFFF&}: пиф
 ; Dialogue: 2:26:43.49, 2:26:45.53, Default, {\c&HFFFFFF&}sebastian_castilvanus{\c&HFFFFFF&}: пиф
 ; Dialogue: 2:26:43.49, 2:26:45.53, Default, {\c&H0045FF&}Egorisonja{\c&HFFFFFF&}: ПИФ
 ; Dialogue: 2:26:43.63, 2:26:45.70, Default, {\c&H0000FF&}dejidze{\c&HFFFFFF&}: дзинь
 Dialogue: 2:26:43.65, 2:26:45.69, Default, {\c&H2222B2&}baka_sitri{\c&HFFFFFF&}: gba
-Dialogue: 2:26:44.03, 2:26:46.12, Default, {\c&H008000&}PaRazZzitMraK{\c&HFFFFFF&}: шкварк
+; Dialogue: 2:26:44.03, 2:26:46.12, Default, {\c&H008000&}PaRazZzitMraK{\c&HFFFFFF&}: шкварк
 ; Dialogue: 2:26:44.04, 2:26:46.08, Default, {\c&HFFFFFF&}andrew_s89{\c&HFFFFFF&}: пиф
 ; Dialogue: 2:26:44.05, 2:26:46.12, Default, {\c&H32CD9A&}orion1887{\c&HFFFFFF&}: ДЗИНЬ
-Dialogue: 2:26:44.05, 2:26:46.09, Default, {\c&H0000FF&}Dracula_Rus{\c&HFFFFFF&}: бух
+; Dialogue: 2:26:44.05, 2:26:46.09, Default, {\c&H0000FF&}Dracula_Rus{\c&HFFFFFF&}: бух
 ; Dialogue: 2:26:44.18, 2:26:46.22, Default, {\c&HFFFFFF&}ShurchikMurchik{\c&HFFFFFF&}: пиф
 ; Dialogue: 2:26:44.27, 2:26:46.31, Default, {\c&HFF0000&}AlexanderKufeld{\c&HFFFFFF&}: пиф
 ; Dialogue: 2:26:44.27, 2:26:46.31, Default, {\c&HFFFFFF&}ZAE_B{\c&HFFFFFF&}: пиф
-Dialogue: 2:26:44.45, 2:26:46.49, Default, {\c&HFFFFFF&}Gerqa02{\c&HFFFFFF&}: бух
-Dialogue: 2:26:44.60, 2:26:46.64, Default, {\c&HE22B8A&}cross_jack1{\c&HFFFFFF&}: бух
+; Dialogue: 2:26:44.45, 2:26:46.49, Default, {\c&HFFFFFF&}Gerqa02{\c&HFFFFFF&}: бух
+; Dialogue: 2:26:44.60, 2:26:46.64, Default, {\c&HE22B8A&}cross_jack1{\c&HFFFFFF&}: бух
 ; Dialogue: 2:26:44.72, 2:26:46.76, Default, {\c&H32CD9A&}likiput{\c&HFFFFFF&}: пиф
 ; Dialogue: 2:26:44.74, 2:26:46.78, Default, {\c&H008000&}Nivis_Taylor{\c&HFFFFFF&}: пиф
-Dialogue: 2:26:44.76, 2:26:46.85, Default, {\c&HFFFFFF&}SantaJuggernaut{\c&HFFFFFF&}: шкварк
+; Dialogue: 2:26:44.76, 2:26:46.85, Default, {\c&HFFFFFF&}SantaJuggernaut{\c&HFFFFFF&}: шкварк
 ; Dialogue: 2:26:44.87, 2:26:46.91, Default, {\c&H008000&}goods0ul{\c&HFFFFFF&}: пиф
 ; Dialogue: 2:26:44.87, 2:26:46.91, Default, {\c&HFFFFFF&}Anatoliy_Gamer{\c&HFFFFFF&}: пиф
 ; Dialogue: 2:26:44.90, 2:26:46.94, Default, {\c&HFFFFFF&}KotikZhirnotick{\c&HFFFFFF&}: бум
@@ -11374,22 +11374,22 @@ Dialogue: 2:26:44.76, 2:26:46.85, Default, {\c&HFFFFFF&}SantaJuggernaut{\c&HFFFF
 ; Dialogue: 2:26:45.19, 2:26:47.26, Default, {\c&HE22B8A&}gorgus2{\c&HFFFFFF&}: дзинь
 ; Dialogue: 2:26:45.23, 2:26:47.27, Default, {\c&H7FFF00&}dr_ophthalmologist{\c&HFFFFFF&}: бум
 ; Dialogue: 2:26:45.32, 2:26:47.36, Default, {\c&HFFFFFF&}gera0ff{\c&HFFFFFF&}: бум
-Dialogue: 2:26:45.36, 2:26:47.45, Default, {\c&HFF901E&}Bladvin32{\c&HFFFFFF&}: шкварк
+; Dialogue: 2:26:45.36, 2:26:47.45, Default, {\c&HFF901E&}Bladvin32{\c&HFFFFFF&}: шкварк
 ; Dialogue: 2:26:45.36, 2:26:47.40, Default, {\c&H0000FF&}Georg0600{\c&HFFFFFF&}: бум
 Dialogue: 2:26:45.37, 2:26:47.41, Default, {\c&H0000FF&}zetr229{\c&HFFFFFF&}: ,ev
 ; Dialogue: 2:26:45.42, 2:26:47.46, Default, {\c&HE22B8A&}IrrealityGG{\c&HFFFFFF&}: пиф
 ; Dialogue: 2:26:45.46, 2:26:47.50, Default, {\c&H2222B2&}baka_sitri{\c&HFFFFFF&}: пиф
-Dialogue: 2:26:45.54, 2:26:47.58, Default, {\c&H2222B2&}VAMPSnow{\c&HFFFFFF&}: бух
+; Dialogue: 2:26:45.54, 2:26:47.58, Default, {\c&H2222B2&}VAMPSnow{\c&HFFFFFF&}: бух
 ; Dialogue: 2:26:45.78, 2:26:47.85, Default, {\c&HE22B8A&}DarkOnegin{\c&HFFFFFF&}: дзинь
-Dialogue: 2:26:45.81, 2:26:47.85, Default, {\c&HFF0000&}AyaCthulhu{\c&HFFFFFF&}: бух
-Dialogue: 2:26:45.92, 2:26:47.96, Default, {\c&H7FFF00&}wergoti{\c&HFFFFFF&}: бух
+; Dialogue: 2:26:45.81, 2:26:47.85, Default, {\c&HFF0000&}AyaCthulhu{\c&HFFFFFF&}: бух
+; Dialogue: 2:26:45.92, 2:26:47.96, Default, {\c&H7FFF00&}wergoti{\c&HFFFFFF&}: бух
 ; Dialogue: 2:26:45.96, 2:26:48.00, Default, {\c&HFFFFFF&}dreyyk_{\c&HFFFFFF&}: бум
-Dialogue: 2:26:46.02, 2:26:48.06, Default, {\c&H2222B2&}coala_MONSTER{\c&HFFFFFF&}: бух
+; Dialogue: 2:26:46.02, 2:26:48.06, Default, {\c&H2222B2&}coala_MONSTER{\c&HFFFFFF&}: бух
 Dialogue: 2:26:46.05, 2:26:48.09, Default, {\c&H2222B2&}VV47T3R{\c&HFFFFFF&}: буч
 Dialogue: 2:26:46.12, 2:26:48.19, Default, {\c&HFFFFFF&}Rumby{\c&HFFFFFF&}: здинь
 ; Dialogue: 2:26:46.21, 2:26:48.25, Default, {\c&HFFFFFF&}ronga20{\c&HFFFFFF&}: ПИФ
-Dialogue: 2:26:47.31, 2:26:49.40, Default, {\c&H0045FF&}kosh1995{\c&HFFFFFF&}: шкварк
-Dialogue: 2:26:47.39, 2:26:49.43, Default, {\c&H578B2E&}redleaf_7{\c&HFFFFFF&}: бух
+; Dialogue: 2:26:47.31, 2:26:49.40, Default, {\c&H0045FF&}kosh1995{\c&HFFFFFF&}: шкварк
+; Dialogue: 2:26:47.39, 2:26:49.43, Default, {\c&H578B2E&}redleaf_7{\c&HFFFFFF&}: бух
 ; Dialogue: 2:26:47.40, 2:26:49.44, Default, {\c&H20A5DA&}Jewasi{\c&HFFFFFF&}: бум
 ; Dialogue: 2:26:47.41, 2:26:49.45, Default, {\c&H32CD9A&}3icq{\c&HFFFFFF&}: пиф
 ; Dialogue: 2:26:47.43, 2:26:49.47, Default, {\c&HFFFFFF&}Docuta{\c&HFFFFFF&}: пиф
@@ -11400,7 +11400,7 @@ Dialogue: 2:26:47.51, 2:26:49.58, Default, {\c&H008000&}tonymonk{\c&HFFFFFF&}: l
 ; Dialogue: 2:26:47.59, 2:26:49.63, Default, {\c&HFF0000&}DiversioSpb{\c&HFFFFFF&}: бум
 ; Dialogue: 2:26:47.70, 2:26:49.74, Default, {\c&HFFFFFF&}cyberwolf51{\c&HFFFFFF&}: пиф
 ; Dialogue: 2:26:47.81, 2:26:49.85, Default, {\c&HFFFFFF&}banlordban{\c&HFFFFFF&}: пиф
-Dialogue: 2:26:47.87, 2:26:49.91, Default, {\c&HFFFFFF&}ArhiSD{\c&HFFFFFF&}: бух
+; Dialogue: 2:26:47.87, 2:26:49.91, Default, {\c&HFFFFFF&}ArhiSD{\c&HFFFFFF&}: бух
 ; Dialogue: 2:26:47.95, 2:26:49.99, Default, {\c&H2222B2&}besqitos{\c&HFFFFFF&}: пиф
 ; Dialogue: 2:26:47.97, 2:26:50.01, Default, {\c&H32CD9A&}boombadaboom{\c&HFFFFFF&}: бум
 ; Dialogue: 2:26:48.08, 2:26:50.12, Default, {\c&HFFFFFF&}Ackord{\c&HFFFFFF&}: бум
@@ -11417,29 +11417,29 @@ Dialogue: 2:26:49.44, 2:26:51.89, Default, {\c&HA09E5F&}red_socks_{\c&HFFFFFF&}:
 Dialogue: 2:26:49.97, 2:26:52.01, Default, {\c&HFFFFFF&}James_rei{\c&HFFFFFF&}: ,e[
 ; Dialogue: 2:26:49.99, 2:26:52.03, Default, {\c&H0000FF&}darja_m{\c&HFFFFFF&}: пиф
 ; Dialogue: 2:26:50.18, 2:26:52.22, Default, {\c&HFFFFFF&}Neik39{\c&HFFFFFF&}: пиф
-Dialogue: 2:26:50.18, 2:26:52.22, Default, {\c&HFF901E&}Scout_Channel{\c&HFFFFFF&}: бух
+; Dialogue: 2:26:50.18, 2:26:52.22, Default, {\c&HFF901E&}Scout_Channel{\c&HFFFFFF&}: бух
 ; Dialogue: 2:26:50.28, 2:26:52.32, Default, {\c&H0000FF&}run_thejewels{\c&HFFFFFF&}: бум
 ; Dialogue: 2:26:50.35, 2:26:52.42, Default, {\c&HFFFFFF&}Shepard_alive{\c&HFFFFFF&}: дзинь
 ; Dialogue: 2:26:50.56, 2:26:52.60, Default, {\c&HFFFFFF&}kukushka17{\c&HFFFFFF&}: пиф
-Dialogue: 2:26:50.97, 2:26:53.01, Default, {\c&H2222B2&}VV47T3R{\c&HFFFFFF&}: бух
+; Dialogue: 2:26:50.97, 2:26:53.01, Default, {\c&H2222B2&}VV47T3R{\c&HFFFFFF&}: бух
 Dialogue: 2:26:51.15, 2:26:53.19, Default, {\c&HFF0000&}Morrrgan_{\c&HFFFFFF&}: ,fb
 ; Dialogue: 2:26:51.18, 2:26:53.25, Default, {\c&HE22B8A&}mr_voki{\c&HFFFFFF&}: дзинь
 ; Dialogue: 2:26:51.18, 2:26:53.22, Default, {\c&H0045FF&}Dellay1{\c&HFFFFFF&}: пиф
 ; Dialogue: 2:26:51.21, 2:26:53.28, Default, {\c&H7FFF00&}CakeWithBlueberries{\c&HFFFFFF&}: дзинь
 ; Dialogue: 2:26:51.21, 2:26:53.25, Default, {\c&H507FFF&}beguoru{\c&HFFFFFF&}: пиф
 ; Dialogue: 2:26:51.22, 2:26:53.26, Default, {\c&H32CD9A&}silfian{\c&HFFFFFF&}: пиф
-Dialogue: 2:26:51.23, 2:26:53.27, Default, {\c&HFFFFFF&}cracen79{\c&HFFFFFF&}: бух
+; Dialogue: 2:26:51.23, 2:26:53.27, Default, {\c&HFFFFFF&}cracen79{\c&HFFFFFF&}: бух
 ; Dialogue: 2:26:51.90, 2:26:53.94, Default, {\c&H0000FF&}slaense{\c&HFFFFFF&}: Пиф
-Dialogue: 2:26:52.45, 2:26:54.49, Default, {\c&HFFFFFF&}ikenkucukov70{\c&HFFFFFF&}: бух
+; Dialogue: 2:26:52.45, 2:26:54.49, Default, {\c&HFFFFFF&}ikenkucukov70{\c&HFFFFFF&}: бух
 ; Dialogue: 2:26:52.73, 2:26:54.77, Default, {\c&HFF901E&}akill1{\c&HFFFFFF&}: бум
 Dialogue: 2:26:52.81, 2:26:55.18, Default, {\c&HFFFFFF&}Pomoch_invalidam{\c&HFFFFFF&}: Что за питушка там летает
 ; Dialogue: 2:26:53.31, 2:26:55.35, Default, {\c&HFFFFFF&}HoldomGok{\c&HFFFFFF&}: бум
 ; Dialogue: 2:26:53.50, 2:26:55.54, Default, {\c&HFFFFFF&}lobotomishka{\c&HFFFFFF&}: бум
-Dialogue: 2:26:54.94, 2:26:56.98, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: бух
-Dialogue: 2:26:55.14, 2:26:57.18, Default, {\c&HED0980&}m__slava{\c&HFFFFFF&}: бух
+; Dialogue: 2:26:54.94, 2:26:56.98, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: бух
+; Dialogue: 2:26:55.14, 2:26:57.18, Default, {\c&HED0980&}m__slava{\c&HFFFFFF&}: бух
 ; Dialogue: 2:26:55.57, 2:26:57.61, Default, {\c&HFFFFFF&}mooglesss{\c&HFFFFFF&}: бум
 ; Dialogue: 2:26:56.65, 2:26:58.69, Default, {\c&HFFFFFF&}oldgoodxpan{\c&HFFFFFF&}: пиф
-Dialogue: 2:26:56.94, 2:26:58.98, Default, {\c&HFFFFFF&}GadfIy{\c&HFFFFFF&}: бух
+; Dialogue: 2:26:56.94, 2:26:58.98, Default, {\c&HFFFFFF&}GadfIy{\c&HFFFFFF&}: бух
 ; Dialogue: 2:26:57.13, 2:26:59.17, Default, {\c&HA09E5F&}andeniel{\c&HFFFFFF&}: пиф
 ; Dialogue: 2:26:57.19, 2:26:59.23, Default, {\c&H03A67D&}Cardemon{\c&HFFFFFF&}: бум
 Dialogue: 2:26:57.73, 2:27:00.49, Default, {\c&HE22B8A&}Virel7729{\c&HFFFFFF&}: Это просто куда чат хочет ( не обязательно \Nслушать)
@@ -11450,7 +11450,7 @@ Dialogue: 2:26:59.33, 2:27:01.37, Default, {\c&H7FFF00&}Dop1Ng__{\c&HFFFFFF&}: g
 Dialogue: 2:27:00.08, 2:27:02.11, Default, {\c&HA09E5F&}Severnaya_Utka{\c&HFFFFFF&}: Ня
 Dialogue: 2:27:00.26, 2:27:02.35, Default, {\c&HFFFFFF&}tarhankut{\c&HFFFFFF&}: пфуньк
 Dialogue: 2:27:01.13, 2:27:04.15, Default, {\c&HFF901E&}A1_ive{\c&HFFFFFF&}: @BlackUFA ты пока туда не залезешь, тебе надо \Nнаучиться делать лианы
-Dialogue: 2:27:01.14, 2:27:03.18, Default, {\c&HFFFFFF&}tri_bukovki{\c&HFFFFFF&}: Бух
+; Dialogue: 2:27:01.14, 2:27:03.18, Default, {\c&HFFFFFF&}tri_bukovki{\c&HFFFFFF&}: Бух
 Dialogue: 2:27:01.23, 2:27:03.26, Default, {\c&H0045FF&}BlackInvadep{\c&HFFFFFF&}: да
 Dialogue: 2:27:01.43, 2:27:03.56, Default, {\c&HFFFFFF&}jora37{\c&HFFFFFF&}: Цыпа цыпа
 Dialogue: 2:27:01.94, 2:27:03.98, Default, {\c&H7FFF00&}Dop1Ng__{\c&HFFFFFF&}: GBA
@@ -11460,12 +11460,12 @@ Dialogue: 2:27:04.86, 2:27:06.90, Default, {\c&H0045FF&}ZeeWanderer_{\c&HFFFFFF&
 Dialogue: 2:27:05.79, 2:27:08.66, Default, {\c&HFFFFFF&}mayakoflove{\c&HFFFFFF&}: @blackufa к слову красное оружие к щитам не \Nпредусловленно
 Dialogue: 2:27:05.94, 2:27:07.98, Default, {\c&H0045FF&}ZeeWanderer_{\c&HFFFFFF&}: pif
 Dialogue: 2:27:06.15, 2:27:08.34, Default, {\c&HFFFFFF&}Spamer_02{\c&HFFFFFF&}: легко открыли
-Dialogue: 2:27:06.29, 2:27:08.33, Default, {\c&HFFFFFF&}al_primarx{\c&HFFFFFF&}: бух
-Dialogue: 2:27:07.45, 2:27:09.49, Default, {\c&HFFFFFF&}faradeus_game{\c&HFFFFFF&}: бух
+; Dialogue: 2:27:06.29, 2:27:08.33, Default, {\c&HFFFFFF&}al_primarx{\c&HFFFFFF&}: бух
+; Dialogue: 2:27:07.45, 2:27:09.49, Default, {\c&HFFFFFF&}faradeus_game{\c&HFFFFFF&}: бух
 ; Dialogue: 2:27:08.38, 2:27:10.42, Default, {\c&H507FFF&}hopeless_infinitum{\c&HFFFFFF&}: бум
-Dialogue: 2:27:08.86, 2:27:10.90, Default, {\c&HFFFFFF&}murdrum24{\c&HFFFFFF&}: бух
+; Dialogue: 2:27:08.86, 2:27:10.90, Default, {\c&HFFFFFF&}murdrum24{\c&HFFFFFF&}: бух
 Dialogue: 2:27:10.90, 2:27:13.65, Default, {\c&H0000FF&}AleksWin4ester{\c&HFFFFFF&}: @BlackUFA что так странно то на русском то \Nна англ
-Dialogue: 2:27:12.06, 2:27:14.15, Default, {\c&HFFFFFF&}BlackCatRU{\c&HFFFFFF&}: шкварк
+; Dialogue: 2:27:12.06, 2:27:14.15, Default, {\c&HFFFFFF&}BlackCatRU{\c&HFFFFFF&}: шкварк
 Dialogue: 2:27:14.28, 2:27:16.97, Default, {\c&HFF901E&}A1_ive{\c&HFFFFFF&}: @BlackUFA kbfys - 'nj nf ckbpm ptktyfz yf gjke
 Dialogue: 2:27:15.29, 2:27:17.30, Default, {\c&H0000FF&}JagaTerrorist{\c&HFFFFFF&}: 1
 Dialogue: 2:27:15.85, 2:27:18.39, Default, {\c&H0045FF&}user0one{\c&HFFFFFF&}: @BlackUFA ты же щитом не пользуешься
@@ -14774,7 +14774,7 @@ Dialogue: 3:07:34.35, 3:07:37.10, Default, {\c&HFFFFFF&}kusokbik{\c&HFFFFFF&}: @
 ; Dialogue: 3:07:39.21, 3:07:41.28, Default, {\c&HFF0000&}Lich999lvl{\c&HFFFFFF&}: бабах
 Dialogue: 3:07:39.27, 3:07:42.02, Default, {\c&HE22B8A&}My4HOE{\c&HFFFFFF&}: @BlackUFA да купи, всё равно деньги тратить некуда
 ; Dialogue: 3:07:39.32, 3:07:41.39, Default, {\c&H20A5DA&}I3uga{\c&HFFFFFF&}: хрясь
-Dialogue: 3:07:39.56, 3:07:41.60, Default, {\c&H0000FF&}Dracula_Rus{\c&HFFFFFF&}: бух
+; Dialogue: 3:07:39.56, 3:07:41.60, Default, {\c&H0000FF&}Dracula_Rus{\c&HFFFFFF&}: бух
 ; Dialogue: 3:07:39.58, 3:07:41.65, Default, {\c&HFFFFFF&}EdMany{\c&HFFFFFF&}: бабах
 ; Dialogue: 3:07:40.09, 3:07:42.13, Default, {\c&H7FFF00&}dr_ophthalmologist{\c&HFFFFFF&}: тик
 ; Dialogue: 3:07:40.09, 3:07:42.13, Default, {\c&H20A5DA&}Blazira{\c&HFFFFFF&}: бах
@@ -14796,7 +14796,7 @@ Dialogue: 3:07:40.35, 3:07:42.42, Default, {\c&HFF0000&}NoctGar{\c&HFFFFFF&}: ,f
 ; Dialogue: 3:07:41.63, 3:07:43.67, Default, {\c&H008000&}tonymonk{\c&HFFFFFF&}: тик
 Dialogue: 3:07:41.63, 3:07:43.67, Default, {\c&H008000&}PaRazZzitMraK{\c&HFFFFFF&}: nbr
 ; Dialogue: 3:07:41.63, 3:07:43.67, Default, {\c&HFFFFFF&}nikich_man{\c&HFFFFFF&}: тик
-Dialogue: 3:07:41.70, 3:07:43.74, Default, {\c&H2222B2&}morionna{\c&HFFFFFF&}: бух
+; Dialogue: 3:07:41.70, 3:07:43.74, Default, {\c&H2222B2&}morionna{\c&HFFFFFF&}: бух
 ; Dialogue: 3:07:41.79, 3:07:43.83, Default, {\c&HFFFFFF&}darkoni{\c&HFFFFFF&}: буф
 ; Dialogue: 3:07:41.81, 3:07:43.88, Default, {\c&H00FF1A&}Jornie_Nonsabiya{\c&HFFFFFF&}: бабах
 ; Dialogue: 3:07:42.04, 3:07:44.08, Default, {\c&HFFFFFF&}tinvel{\c&HFFFFFF&}: буф
@@ -14854,7 +14854,7 @@ Dialogue: 3:07:45.25, 3:07:47.32, Default, {\c&H7FFF00&}maxon05{\c&HFFFFFF&}: [h
 ; Dialogue: 3:07:46.20, 3:07:48.27, Default, {\c&H32CD9A&}RileyRayan{\c&HFFFFFF&}: бабах
 ; Dialogue: 3:07:47.39, 3:07:49.46, Default, {\c&HB469FF&}oplasido{\c&HFFFFFF&}: бабах
 ; Dialogue: 3:07:47.43, 3:07:49.47, Default, {\c&H008000&}CrestedPilot1{\c&HFFFFFF&}: буф
-Dialogue: 3:07:47.44, 3:07:49.48, Default, {\c&H7FFF00&}annshepard8{\c&HFFFFFF&}: бух
+; Dialogue: 3:07:47.44, 3:07:49.48, Default, {\c&H7FFF00&}annshepard8{\c&HFFFFFF&}: бух
 ; Dialogue: 3:07:47.45, 3:07:49.49, Default, {\c&HFFFFFF&}krakozyabr{\c&HFFFFFF&}: тик
 Dialogue: 3:07:47.45, 3:07:49.48, Default, {\c&HE22B8A&}Nicklincolncole{\c&HFFFFFF&}: Уф
 ; Dialogue: 3:07:47.52, 3:07:49.56, Default, {\c&H0045FF&}Edmond_Paraway{\c&HFFFFFF&}: тик
@@ -14876,7 +14876,7 @@ Dialogue: 3:07:48.00, 3:07:50.04, Default, {\c&H7FFF00&}in100grammfox{\c&HFFFFFF
 ; Dialogue: 3:07:48.23, 3:07:50.27, Default, {\c&H0000FF&}gluk48{\c&HFFFFFF&}: тик
 ; Dialogue: 3:07:48.23, 3:07:50.27, Default, {\c&H0000CC&}iddqd_{\c&HFFFFFF&}: пиф
 Dialogue: 3:07:50.41, 3:07:52.45, Default, {\c&HFFFFFF&}juforfun{\c&HFFFFFF&}: tik
-Dialogue: 3:07:50.49, 3:07:52.53, Default, {\c&HFF0000&}enjoy_3{\c&HFFFFFF&}: бух
+; Dialogue: 3:07:50.49, 3:07:52.53, Default, {\c&HFF0000&}enjoy_3{\c&HFFFFFF&}: бух
 ; Dialogue: 3:07:50.52, 3:07:52.59, Default, {\c&HFFFFFF&}antip2001{\c&HFFFFFF&}: бабах
 Dialogue: 3:07:50.58, 3:07:52.62, Default, {\c&H0000FF&}FrankyFTP{\c&HFFFFFF&}: тие
 ; Dialogue: 3:07:50.71, 3:07:52.78, Default, {\c&H0000FF&}Unnamed102rus{\c&HFFFFFF&}: бабах
@@ -15779,7 +15779,7 @@ Dialogue: 3:17:22.56, 3:17:24.60, Default, {\c&HE22B8A&}DarkOnegin{\c&HFFFFFF&}:
 ; Dialogue: 3:17:23.04, 3:17:25.08, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: буф
 ; Dialogue: 3:17:23.06, 3:17:25.10, Default, {\c&HFFFFFF&}Ghoobies{\c&HFFFFFF&}: пиф
 ; Dialogue: 3:17:23.07, 3:17:25.11, Default, {\c&HFFFFFF&}fallenangel00000{\c&HFFFFFF&}: пиф
-Dialogue: 3:17:23.09, 3:17:25.18, Default, {\c&HFFFFFF&}firstsunset63{\c&HFFFFFF&}: шкварк
+; Dialogue: 3:17:23.09, 3:17:25.18, Default, {\c&HFFFFFF&}firstsunset63{\c&HFFFFFF&}: шкварк
 ; Dialogue: 3:17:23.11, 3:17:25.15, Default, {\c&H2222B2&}infernal216{\c&HFFFFFF&}: пиф
 ; Dialogue: 3:17:23.16, 3:17:25.20, Default, {\c&HFFFFFF&}baku_daruma{\c&HFFFFFF&}: пиф
 ; Dialogue: 3:17:23.20, 3:17:25.24, Default, {\c&HFFFFFF&}xammer23{\c&HFFFFFF&}: пиф
@@ -15800,7 +15800,7 @@ Dialogue: 3:17:23.09, 3:17:25.18, Default, {\c&HFFFFFF&}firstsunset63{\c&HFFFFFF
 Dialogue: 3:17:25.12, 3:17:27.21, Default, {\c&HFFFFFF&}kusokbik{\c&HFFFFFF&}: ,бабах
 ; Dialogue: 3:17:25.14, 3:17:27.21, Default, {\c&HFFFFFF&}steve_p0{\c&HFFFFFF&}: бабах
 ; Dialogue: 3:17:25.16, 3:17:27.20, Default, {\c&HFFFFFF&}Thomases{\c&HFFFFFF&}: буф
-Dialogue: 3:17:25.16, 3:17:27.20, Default, {\c&HFFFFFF&}ikenkucukov70{\c&HFFFFFF&}: бух
+; Dialogue: 3:17:25.16, 3:17:27.20, Default, {\c&HFFFFFF&}ikenkucukov70{\c&HFFFFFF&}: бух
 ; Dialogue: 3:17:25.23, 3:17:27.27, Default, {\c&HFF901E&}n4vi47{\c&HFFFFFF&}: пиф
 ; Dialogue: 3:17:25.25, 3:17:27.32, Default, {\c&HFFFFFF&}Neik39{\c&HFFFFFF&}: бабах
 ; Dialogue: 3:17:25.32, 3:17:27.36, Default, {\c&HB469FF&}Lorin_Light{\c&HFFFFFF&}: пиф
@@ -15810,7 +15810,7 @@ Dialogue: 3:17:25.16, 3:17:27.20, Default, {\c&HFFFFFF&}ikenkucukov70{\c&HFFFFFF
 ; Dialogue: 3:17:25.53, 3:17:27.60, Default, {\c&HE22B8A&}shuma9{\c&HFFFFFF&}: бабах
 Dialogue: 3:17:25.62, 3:17:27.66, Default, {\c&HFFFFFF&}tinvel{\c&HFFFFFF&}: пуф
 ; Dialogue: 3:17:25.64, 3:17:27.71, Default, {\c&HFFFFFF&}rinakarrent{\c&HFFFFFF&}: бабах
-Dialogue: 3:17:25.82, 3:17:27.91, Default, {\c&HFFFFFF&}moonshine12{\c&HFFFFFF&}: шкварк
+; Dialogue: 3:17:25.82, 3:17:27.91, Default, {\c&HFFFFFF&}moonshine12{\c&HFFFFFF&}: шкварк
 ; Dialogue: 3:17:26.06, 3:17:28.13, Default, {\c&HFFFFFF&}witchwill{\c&HFFFFFF&}: бабах
 ; Dialogue: 3:17:26.07, 3:17:28.11, Default, {\c&HB469FF&}fenikseez{\c&HFFFFFF&}: пиф
 ; Dialogue: 3:17:26.11, 3:17:28.15, Default, {\c&H0000FF&}NoRFoLk_RF{\c&HFFFFFF&}: пиф
@@ -15819,14 +15819,14 @@ Dialogue: 3:17:25.82, 3:17:27.91, Default, {\c&HFFFFFF&}moonshine12{\c&HFFFFFF&}
 ; Dialogue: 3:17:26.21, 3:17:28.28, Default, {\c&HE22B8A&}Zephyr021{\c&HFFFFFF&}: бабах
 ; Dialogue: 3:17:26.23, 3:17:28.27, Default, {\c&H008000&}PaRazZzitMraK{\c&HFFFFFF&}: буф
 ; Dialogue: 3:17:28.26, 3:17:30.30, Default, {\c&H7FFF00&}RayDayBlade{\c&HFFFFFF&}: пиф
-Dialogue: 3:17:28.27, 3:17:30.36, Default, {\c&HFF0000&}KiritoKirishime{\c&HFFFFFF&}: шкварк
-Dialogue: 3:17:28.33, 3:17:30.42, Default, {\c&H578B2E&}Apik_trololo{\c&HFFFFFF&}: шкварк
+; Dialogue: 3:17:28.27, 3:17:30.36, Default, {\c&HFF0000&}KiritoKirishime{\c&HFFFFFF&}: шкварк
+; Dialogue: 3:17:28.33, 3:17:30.42, Default, {\c&H578B2E&}Apik_trololo{\c&HFFFFFF&}: шкварк
 ; Dialogue: 3:17:28.34, 3:17:30.38, Default, {\c&H0000FF&}veteranzzz{\c&HFFFFFF&}: буф
 ; Dialogue: 3:17:28.36, 3:17:30.43, Default, {\c&HFFFFFF&}smth_new_user{\c&HFFFFFF&}: бабах
 ; Dialogue: 3:17:28.37, 3:17:30.44, Default, {\c&H008000&}beerom{\c&HFFFFFF&}: бабах
 ; Dialogue: 3:17:28.40, 3:17:30.44, Default, {\c&HFFFFFF&}flying_waffel{\c&HFFFFFF&}: буф
 ; Dialogue: 3:17:28.40, 3:17:30.44, Default, {\c&HFFFFFF&}bubblegum3016{\c&HFFFFFF&}: пиф
-Dialogue: 3:17:28.41, 3:17:30.45, Default, {\c&HE22B8A&}heilalaley{\c&HFFFFFF&}: бух
+; Dialogue: 3:17:28.41, 3:17:30.45, Default, {\c&HE22B8A&}heilalaley{\c&HFFFFFF&}: бух
 ; Dialogue: 3:17:28.41, 3:17:30.48, Default, {\c&HFFFFFF&}artie_m2{\c&HFFFFFF&}: бабах
 ; Dialogue: 3:17:28.41, 3:17:30.48, Default, {\c&HFFFFFF&}cyberwolf51{\c&HFFFFFF&}: бабах
 ; Dialogue: 3:17:28.45, 3:17:30.52, Default, {\c&H20A5DA&}BemosDD{\c&HFFFFFF&}: дзинь
@@ -15870,26 +15870,26 @@ Dialogue: 3:17:32.12, 3:17:34.16, Default, {\c&H0000FF&}Qwerkan{\c&HFFFFFF&}: gb
 ; Dialogue: 3:17:32.51, 3:17:34.55, Default, {\c&H0000FF&}RedSquirreli{\c&HFFFFFF&}: пиф
 ; Dialogue: 3:17:32.65, 3:17:34.72, Default, {\c&HFFFFFF&}irikost{\c&HFFFFFF&}: бабах
 ; Dialogue: 3:17:32.66, 3:17:34.70, Default, {\c&HFFFFFF&}Kottis_777{\c&HFFFFFF&}: пиф
-Dialogue: 3:17:32.82, 3:17:34.91, Default, {\c&HFFFFFF&}sabotenda{\c&HFFFFFF&}: шкварк
+; Dialogue: 3:17:32.82, 3:17:34.91, Default, {\c&HFFFFFF&}sabotenda{\c&HFFFFFF&}: шкварк
 Dialogue: 3:17:33.12, 3:17:35.16, Default, {\c&HFFFFFF&}grendpasag{\c&HFFFFFF&}: бэм
 ; Dialogue: 3:17:33.20, 3:17:35.27, Default, {\c&HFFFFFF&}sonnayaosminozhka{\c&HFFFFFF&}: бабах
 ; Dialogue: 3:17:33.20, 3:17:35.27, Default, {\c&H008000&}AnyGun{\c&HFFFFFF&}: бабах
 ; Dialogue: 3:17:34.53, 3:17:36.60, Default, {\c&HE22B8A&}Sentinelist{\c&HFFFFFF&}: дзинь
 ; Dialogue: 3:17:34.63, 3:17:36.70, Default, {\c&HE22B8A&}spir1tflame{\c&HFFFFFF&}: бабах
-Dialogue: 3:17:34.87, 3:17:36.96, Default, {\c&HFFFFFF&}GadfIy{\c&HFFFFFF&}: шкварк
+; Dialogue: 3:17:34.87, 3:17:36.96, Default, {\c&HFFFFFF&}GadfIy{\c&HFFFFFF&}: шкварк
 ; Dialogue: 3:17:34.96, 3:17:37.00, Default, {\c&HFF0000&}dmitriy43ru{\c&HFFFFFF&}: пиф
-Dialogue: 3:17:34.97, 3:17:37.06, Default, {\c&HFFFFFF&}namespa{\c&HFFFFFF&}: шкварк
+; Dialogue: 3:17:34.97, 3:17:37.06, Default, {\c&HFFFFFF&}namespa{\c&HFFFFFF&}: шкварк
 ; Dialogue: 3:17:35.02, 3:17:37.09, Default, {\c&HFFFFFF&}Bartolomyuroberts{\c&HFFFFFF&}: бабах
 ; Dialogue: 3:17:35.06, 3:17:37.13, Default, {\c&HFFFFFF&}im_hentai{\c&HFFFFFF&}: дзинь
 ; Dialogue: 3:17:35.26, 3:17:37.33, Default, {\c&HE22B8A&}cookie19{\c&HFFFFFF&}: бабах
 ; Dialogue: 3:17:35.40, 3:17:37.47, Default, {\c&HE22B8A&}mr_voki{\c&HFFFFFF&}: дзинь
 ; Dialogue: 3:17:35.54, 3:17:37.63, Default, {\c&HFFFFFF&}EqvillNoah{\c&HFFFFFF&}: пифпиф
 ; Dialogue: 3:17:35.61, 3:17:37.65, Default, {\c&HFFFFFF&}demian256{\c&HFFFFFF&}: пиф
-Dialogue: 3:17:35.94, 3:17:38.03, Default, {\c&HA09E5F&}andeniel{\c&HFFFFFF&}: шкварк
+; Dialogue: 3:17:35.94, 3:17:38.03, Default, {\c&HA09E5F&}andeniel{\c&HFFFFFF&}: шкварк
 Dialogue: 3:17:35.97, 3:17:38.07, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: удалось
 Dialogue: 3:17:36.11, 3:17:38.29, Default, {\c&HFFFFFF&}jora37{\c&HFFFFFF&}: bufaSave x⁣5
 ; Dialogue: 3:17:36.13, 3:17:38.17, Default, {\c&HFF901E&}siera_11{\c&HFFFFFF&}: буф
-Dialogue: 3:17:36.15, 3:17:38.24, Default, {\c&H32CD9A&}trollfecev2{\c&HFFFFFF&}: шкварк
+; Dialogue: 3:17:36.15, 3:17:38.24, Default, {\c&H32CD9A&}trollfecev2{\c&HFFFFFF&}: шкварк
 ; Dialogue: 3:17:36.18, 3:17:38.22, Default, {\c&HFFFFFF&}Kereline14{\c&HFFFFFF&}: буф
 ; Dialogue: 3:17:36.62, 3:17:38.69, Default, {\c&HFFFFFF&}keborg20{\c&HFFFFFF&}: бабах
 Dialogue: 3:17:36.69, 3:17:39.05, Default, {\c&HED0980&}m__slava{\c&HFFFFFF&}: @kottis_777 bufaLove x⁣4
@@ -15900,7 +15900,7 @@ Dialogue: 3:17:37.21, 3:17:39.25, Default, {\c&H1E69D2&}fari_game{\c&HFFFFFF&}: 
 Dialogue: 3:17:37.53, 3:17:39.57, Default, {\c&HE22B8A&}babkin_kalmar{\c&HFFFFFF&}: пуф
 ; Dialogue: 3:17:37.57, 3:17:39.61, Default, {\c&HFF901E&}Brokoli_from_Tarkof{\c&HFFFFFF&}: пиф
 ; Dialogue: 3:17:37.59, 3:17:39.63, Default, {\c&HE22B8A&}Yaktoshtop{\c&HFFFFFF&}: паф
-Dialogue: 3:17:37.71, 3:17:39.80, Default, {\c&HFFFFFF&}al_primarx{\c&HFFFFFF&}: шкварк
+; Dialogue: 3:17:37.71, 3:17:39.80, Default, {\c&HFFFFFF&}al_primarx{\c&HFFFFFF&}: шкварк
 ; Dialogue: 3:17:37.86, 3:17:39.90, Default, {\c&HFFFFFF&}alex911ox{\c&HFFFFFF&}: бах
 ; Dialogue: 3:17:37.99, 3:17:40.06, Default, {\c&HFFFFFF&}battellm_ix{\c&HFFFFFF&}: бабах
 Dialogue: 3:17:38.32, 3:17:40.36, Default, {\c&HFFFFFF&}Kristianian{\c&HFFFFFF&}: ,ea
@@ -15908,7 +15908,7 @@ Dialogue: 3:17:38.60, 3:17:40.76, Default, {\c&HFFFFFF&}kaetriakeisa{\c&HFFFFFF&
 Dialogue: 3:17:38.79, 3:17:40.92, Default, {\c&HFFFFFF&}EdMany{\c&HFFFFFF&}: удалос же
 ; Dialogue: 3:17:38.91, 3:17:40.95, Default, {\c&HFF901E&}SiberianBlackBerry{\c&HFFFFFF&}: пиф
 ; Dialogue: 3:17:39.06, 3:17:41.13, Default, {\c&HFFFFFF&}grob1ik{\c&HFFFFFF&}: бабах
-Dialogue: 3:17:39.10, 3:17:41.19, Default, {\c&H507FFF&}aloe_vera{\c&HFFFFFF&}: шкварк
+; Dialogue: 3:17:39.10, 3:17:41.19, Default, {\c&H507FFF&}aloe_vera{\c&HFFFFFF&}: шкварк
 Dialogue: 3:17:39.78, 3:17:41.91, Default, {\c&HFFFFFF&}darkoni{\c&HFFFFFF&}: bufaLough
 Dialogue: 3:17:39.98, 3:17:42.23, Default, {\c&HFFFFFF&}NaitRat{\c&HFFFFFF&}: Удалось вообще то
 ; Dialogue: 3:17:40.00, 3:17:42.07, Default, {\c&H7FFF00&}CakeLieLife{\c&HFFFFFF&}: бабах
@@ -15933,7 +15933,7 @@ Dialogue: 3:17:42.67, 3:17:44.83, Default, {\c&HFFFFFF&}Alir_the_neon{\c&HFFFFFF
 ; Dialogue: 3:17:43.12, 3:17:45.19, Default, {\c&HFFFFFF&}stradevari23{\c&HFFFFFF&}: бабах
 Dialogue: 3:17:43.16, 3:17:45.32, Default, {\c&HFFFFFF&}irikost{\c&HFFFFFF&}: monkaBehind
 Dialogue: 3:17:43.38, 3:17:45.48, Default, {\c&H578B2E&}mairdrake{\c&HFFFFFF&}: Удалось
-Dialogue: 3:17:44.11, 3:17:46.20, Default, {\c&H008000&}kassiendra{\c&HFFFFFF&}: шкварк
+; Dialogue: 3:17:44.11, 3:17:46.20, Default, {\c&H008000&}kassiendra{\c&HFFFFFF&}: шкварк
 Dialogue: 3:17:44.53, 3:17:46.68, Default, {\c&HFFFFFF&}pumpurluska{\c&HFFFFFF&}: Че делаем?
 ; Dialogue: 3:17:44.86, 3:17:46.93, Default, {\c&H0000FF&}Nezhno_Sumrak{\c&HFFFFFF&}: бабах
 Dialogue: 3:17:45.05, 3:17:47.33, Default, {\c&HB469FF&}Jipegass{\c&HFFFFFF&}: удалось artgamesALO
@@ -15950,7 +15950,7 @@ Dialogue: 3:17:46.28, 3:17:48.34, Default, {\c&HFFFFFF&}Slavaa{\c&HFFFFFF&}: б�
 Dialogue: 3:17:46.94, 3:17:49.04, Default, {\c&HFFFFFF&}DarkWellington{\c&HFFFFFF&}: удалось
 Dialogue: 3:17:47.01, 3:17:49.13, Default, {\c&HFFFFFF&}Ackord{\c&HFFFFFF&}: Удалось!
 Dialogue: 3:17:47.02, 3:17:49.17, Default, {\c&HFFFFFF&}pashken80{\c&HFFFFFF&}: удалось же
-Dialogue: 3:17:47.30, 3:17:49.34, Default, {\c&HFFFFFF&}rozovaya_skameika{\c&HFFFFFF&}: Бух
+; Dialogue: 3:17:47.30, 3:17:49.34, Default, {\c&HFFFFFF&}rozovaya_skameika{\c&HFFFFFF&}: Бух
 Dialogue: 3:17:47.47, 3:17:49.57, Default, {\c&H0000FF&}mrgreen06{\c&HFFFFFF&}: Удалось
 Dialogue: 3:17:47.94, 3:17:50.13, Default, {\c&HFFFFFF&}krypto_0n{\c&HFFFFFF&}: удалось, алло
 Dialogue: 3:17:48.43, 3:17:51.51, Default, {\c&HE22B8A&}Rogue_Monro{\c&HFFFFFF&}: @severnaya_utka, а за что тогда?)))) Тоже \Nнормально! Выходныыыыые! Peka1
@@ -18303,7 +18303,7 @@ Dialogue: 3:45:05.52, 3:45:07.64, Default, {\c&H7FFF00&}rezmar_i{\c&HFFFFFF&}: �
 ; Dialogue: 3:45:15.07, 3:45:17.13, Default, {\c&HA09E5F&}glassyfox{\c&HFFFFFF&}: cool
 ; Dialogue: 3:45:15.09, 3:45:17.15, Default, {\c&HFFFFFF&}paranoik1221{\c&HFFFFFF&}: nice
 ; Dialogue: 3:45:15.11, 3:45:17.17, Default, {\c&HFFFFFF&}GroSk1ll{\c&HFFFFFF&}: woot
-Dialogue: 3:45:15.19, 3:45:17.20, Default, {\c&HFFFFFF&}GadfIy{\c&HFFFFFF&}: \
+; Dialogue: 3:45:15.19, 3:45:17.20, Default, {\c&HFFFFFF&}GadfIy{\c&HFFFFFF&}: \
 ; Dialogue: 3:45:15.29, 3:45:17.38, Default, {\c&HFF901E&}hypertauri{\c&HFFFFFF&}: notbad
 ; Dialogue: 3:45:15.31, 3:45:17.37, Default, {\c&HFFFFFF&}gofend{\c&HFFFFFF&}: cool
 ; Dialogue: 3:45:15.34, 3:45:17.41, Default, {\c&HE22B8A&}Rogue_Monro{\c&HFFFFFF&}: great
@@ -18889,12 +18889,12 @@ Dialogue: 3:48:42.19, 3:48:44.23, Default, {\c&HFFFFFF&}Zertul_Nair{\c&HFFFFFF&}
 ; Dialogue: 3:48:42.22, 3:48:44.29, Default, {\c&H7FFF00&}es85{\c&HFFFFFF&}: бабах
 Dialogue: 3:48:42.31, 3:48:44.37, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: баба
 ; Dialogue: 3:48:42.82, 3:48:44.86, Default, {\c&H7FFF00&}annshepard8{\c&HFFFFFF&}: бум
-Dialogue: 3:48:42.96, 3:48:45.02, Default, {\c&HFFFFFF&}xxMAIIIUHUCTxx{\c&HFFFFFF&}: \тик
+; Dialogue: 3:48:42.96, 3:48:45.02, Default, {\c&HFFFFFF&}xxMAIIIUHUCTxx{\c&HFFFFFF&}: \тик
 ; Dialogue: 3:48:42.98, 3:48:45.02, Default, {\c&HFF901E&}SerialNumber8{\c&HFFFFFF&}: тик
 ; Dialogue: 3:48:42.98, 3:48:45.05, Default, {\c&HFF901E&}pirojika{\c&HFFFFFF&}: хрясь
 ; Dialogue: 3:48:43.01, 3:48:45.08, Default, {\c&H0000FF&}illua123{\c&HFFFFFF&}: хрясь
 ; Dialogue: 3:48:43.13, 3:48:45.20, Default, {\c&HFF0000&}Morrrgan_{\c&HFFFFFF&}: хрясь
-Dialogue: 3:48:43.14, 3:48:45.18, Default, {\c&H0000FF&}Dracula_Rus{\c&HFFFFFF&}: бух
+; Dialogue: 3:48:43.14, 3:48:45.18, Default, {\c&H0000FF&}Dracula_Rus{\c&HFFFFFF&}: бух
 Dialogue: 3:48:43.14, 3:48:45.18, Default, {\c&H0000FF&}vadimych1991{\c&HFFFFFF&}: nbr
 Dialogue: 3:48:43.17, 3:48:45.21, Default, {\c&H0000FF&}Retlif{\c&HFFFFFF&}: ,ev
 ; Dialogue: 3:48:43.18, 3:48:45.22, Default, {\c&HFFFFFF&}fallenangel00000{\c&HFFFFFF&}: тик
@@ -18902,7 +18902,7 @@ Dialogue: 3:48:43.17, 3:48:45.21, Default, {\c&H0000FF&}Retlif{\c&HFFFFFF&}: ,ev
 ; Dialogue: 3:48:44.33, 3:48:46.40, Default, {\c&H20A5DA&}I3uga{\c&HFFFFFF&}: хрясь
 ; Dialogue: 3:48:44.33, 3:48:46.37, Default, {\c&HA09E5F&}evilquq{\c&HFFFFFF&}: тик
 ; Dialogue: 3:48:44.34, 3:48:46.38, Default, {\c&HFF0000&}AlexanderKufeld{\c&HFFFFFF&}: бум
-Dialogue: 3:48:44.35, 3:48:46.39, Default, {\c&HFF901E&}siera_11{\c&HFFFFFF&}: бух
+; Dialogue: 3:48:44.35, 3:48:46.39, Default, {\c&HFF901E&}siera_11{\c&HFFFFFF&}: бух
 ; Dialogue: 3:48:44.36, 3:48:46.43, Default, {\c&HFFFFFF&}urobor0s8{\c&HFFFFFF&}: бабах
 ; Dialogue: 3:48:44.38, 3:48:46.42, Default, {\c&H0000FF&}NinKorr{\c&HFFFFFF&}: тик
 ; Dialogue: 3:48:44.40, 3:48:46.47, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: бабах
@@ -22472,7 +22472,7 @@ Dialogue: 5:00:19.40, 5:00:21.61, Default, {\c&HFFFFFF&}lakenotocean{\c&HFFFFFF&
 Dialogue: 5:00:21.49, 5:00:23.74, Default, {\c&HFFFFFF&}Kolyanfantagan{\c&HFFFFFF&}: о боже, что это!?
 ; Dialogue: 5:00:24.21, 5:00:27.69, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Хайповоз запускается при минимум 3-х подписках \N(или чирах) за 5 минут. НОНСАБИЯ СОСЕД (НЕ БАЙТ ЛУЛ)
 Dialogue: 5:00:26.65, 5:00:29.07, Default, {\c&HFF901E&}TOSYAed{\c&HFFFFFF&}: тут есть список лидеров KEKW
-Dialogue: 5:00:29.47, 5:00:31.54, Default, {\c&HFFFFFF&}thedunwich{\c&HFFFFFF&}: \[T]/
+; Dialogue: 5:00:29.47, 5:00:31.54, Default, {\c&HFFFFFF&}thedunwich{\c&HFFFFFF&}: \[T]/
 Dialogue: 5:00:31.09, 5:00:34.17, Default, {\c&HFFFFFF&}TossABanToYourMamay{\c&HFFFFFF&}: @BlackUFA Можно хватать два камня в \Nкаждую руку . Покажи настоящую мощь.
 Dialogue: 5:00:34.27, 5:00:36.64, Default, {\c&HFFFFFF&}ded_suhar1{\c&HFFFFFF&}: Таня и Ева игре evosayWUT
 Dialogue: 5:00:35.32, 5:00:38.13, Default, {\c&HB469FF&}JulieWestwind{\c&HFFFFFF&}: Он тебе жестом показывает, мол, зацени \Nкрасоту природы
@@ -22487,7 +22487,7 @@ Dialogue: 5:00:52.42, 5:00:54.87, Default, {\c&H0000FF&}Angry_arctic_fox{\c&HFFF
 Dialogue: 5:01:06.74, 5:01:09.37, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: @angry_arctic_fox, SeriousSloth MercyWing2
 Dialogue: 5:01:07.61, 5:01:09.86, Default, {\c&H7FFF00&}TheSoldier60{\c&HFFFFFF&}: Это стоит денег ?
 Dialogue: 5:01:08.95, 5:01:11.34, Default, {\c&HFFB57A&}quolta{\c&HFFFFFF&}: Я также на толчке сижу LUL
-Dialogue: 5:01:11.29, 5:01:13.47, Default, {\c&H0045FF&}ohnotmeagain_{\c&HFFFFFF&}: \ Kreygasm /
+; Dialogue: 5:01:11.29, 5:01:13.47, Default, {\c&H0045FF&}ohnotmeagain_{\c&HFFFFFF&}: \ Kreygasm /
 Dialogue: 5:01:12.39, 5:01:15.23, Default, {\c&HA09E5F&}AlexSilverDefend{\c&HFFFFFF&}: ууу физику сисек не подвезли evosayStupido \NevosayStupido
 Dialogue: 5:01:13.08, 5:01:15.35, Default, {\c&HFFFFFF&}Whiteman216{\c&HFFFFFF&}: На скалу похож ппц
 Dialogue: 5:01:15.03, 5:01:17.24, Default, {\c&H0045FF&}leylin_farlier_{\c&HFFFFFF&}: Praise the уль
@@ -22510,7 +22510,7 @@ Dialogue: 5:01:44.22, 5:01:46.35, Default, {\c&HFFFFFF&}kukushka17{\c&HFFFFFF&}:
 ; Dialogue: 5:01:45.56, 5:01:50.02, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: С 30 января по 16 февраля ты можешь поддержать \Nстримера и получить смайлы для себя и зрителей! Подробнее: \Nhttps://help.twitch.tv/s/article/streamer-love?language=ru
 Dialogue: 5:01:45.97, 5:01:48.15, Default, {\c&H020269&}Omenosa{\c&HFFFFFF&}: это победа=)
 Dialogue: 5:01:49.36, 5:01:52.27, Default, {\c&HFFFFFF&}preli4t0r{\c&HFFFFFF&}: Если Артур растолстеет и его побрить налысо, то \Nпросто копия)
-Dialogue: 5:01:50.27, 5:01:52.37, Default, {\c&HFFFFFF&}leviysosock{\c&HFFFFFF&}: \(°|°)/
+; Dialogue: 5:01:50.27, 5:01:52.37, Default, {\c&HFFFFFF&}leviysosock{\c&HFFFFFF&}: \(°|°)/
 Dialogue: 5:01:50.42, 5:01:52.64, Default, {\c&HFFFFFF&}VerdantRU{\c&HFFFFFF&}: Вас таких двое!
 Dialogue: 5:01:50.60, 5:01:53.48, Default, {\c&H0045FF&}ZeeWanderer_{\c&HFFFFFF&}: В настройках не всё на максимум, неTTорядок \NKappa @BlackUFA
 Dialogue: 5:01:50.66, 5:01:52.81, Default, {\c&HFFFFFF&}drKrest{\c&HFFFFFF&}: вас двое?)

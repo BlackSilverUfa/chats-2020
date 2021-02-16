@@ -4463,7 +4463,7 @@ Dialogue: 0:56:29.65, 0:56:31.80, Default, {\c&HFFFFFF&}my_gospodln{\c&HFFFFFF&}
 Dialogue: 0:56:30.06, 0:56:32.24, Default, {\c&HE22B8A&}ksey_sirin{\c&HFFFFFF&}: OMEGALUL x⁣3
 Dialogue: 0:56:30.26, 0:56:32.65, Default, {\c&HFFFFFF&}nobestnoob{\c&HFFFFFF&}: ResidentSleeper x⁣3 <3 x⁣4
 Dialogue: 0:56:30.48, 0:56:32.72, Default, {\c&HFFFFFF&}Bratvaable{\c&HFFFFFF&}: CoolStoryBob x⁣6
-; Dialogue: 0:56:30.54, 0:56:33.36, Default, {\c&HFF0000&}mr_nonsab{\c&HFFFFFF&}: \NSquid1 DoritosChip Squid4 Squid1 DoritosChip Squid4 x⁣3
+Dialogue: 0:56:30.54, 0:56:33.36, Default, {\c&HFF0000&}mr_nonsab{\c&HFFFFFF&}: \NSquid1 DoritosChip Squid4 Squid1 DoritosChip Squid4 x⁣3
 Dialogue: 0:56:30.74, 0:56:32.84, Default, {\c&HE22B8A&}Kilana_Nerenel{\c&HFFFFFF&}: LUL x⁣4
 Dialogue: 0:56:30.88, 0:56:33.07, Default, {\c&HFFFFFF&}filinmaxi{\c&HFFFFFF&}: bufaDonAptypo
 Dialogue: 0:56:30.96, 0:56:33.29, Default, {\c&H507FFF&}foxnax{\c&HFFFFFF&}: Музыка как в лифте Pog
@@ -4893,7 +4893,7 @@ Dialogue: 0:59:12.08, 0:59:14.33, Default, {\c&H0045FF&}DefaultHowler{\c&HFFFFFF
 Dialogue: 0:59:12.80, 0:59:16.37, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: @TheDrHax или всё-таки пока подтянуть R) я не \Nто что программирую, мне чисто для расчетов статистических)
 Dialogue: 0:59:13.13, 0:59:15.23, Default, {\c&H20A5DA&}Mishkau{\c&HFFFFFF&}: avocHmm
 Dialogue: 0:59:15.85, 0:59:18.24, Default, {\c&HB469FF&}galin666{\c&HFFFFFF&}: а Джек играет в фазмофобию
-; Dialogue: 0:59:17.97, 0:59:20.85, Default, {\c&HFF0000&}mr_nonsab{\c&HFFFFFF&}: \NSquid1 TheIlluminati Squid4 Squid1 TheIlluminati Squid4 x⁣3
+Dialogue: 0:59:17.97, 0:59:20.85, Default, {\c&HFF0000&}mr_nonsab{\c&HFFFFFF&}: \NSquid1 TheIlluminati Squid4 Squid1 TheIlluminati Squid4 x⁣3
 Dialogue: 0:59:21.48, 0:59:23.55, Default, {\c&H008000&}Konsolka{\c&HFFFFFF&}: хотим
 Dialogue: 0:59:21.81, 0:59:24.72, Default, {\c&HFFFFFF&}Ilushinskiy{\c&HFFFFFF&}: Интересно, а как бы выглядела бы реклама RAIDa \Nот лица Артура
 Dialogue: 0:59:21.83, 0:59:24.29, Default, {\c&HFF0000&}4eByRaShKa_71{\c&HFFFFFF&}: Посоветуешь наушники 100-150$ ?
@@ -4909,7 +4909,7 @@ Dialogue: 0:59:32.68, 0:59:34.89, Default, {\c&HFF0000&}victorious_{\c&HFFFFFF&}
 Dialogue: 0:59:34.12, 0:59:36.43, Default, {\c&HFFFFFF&}Vkysnyatina{\c&HFFFFFF&}: Она на пижамку похожа
 Dialogue: 0:59:35.04, 0:59:37.46, Default, {\c&HFF0000&}boogeyman199{\c&HFFFFFF&}: а теперь в пежаме с бункером
 Dialogue: 0:59:36.28, 0:59:38.32, Default, {\c&HFFFFFF&}vladiskor_tw{\c&HFFFFFF&}: LUL
-; Dialogue: 0:59:36.53, 0:59:39.38, Default, {\c&HFF0000&}mr_nonsab{\c&HFFFFFF&}: \NSquid1 TheIlluminati Squid4 Squid1 DoritosChip Squid4 x⁣3
+Dialogue: 0:59:36.53, 0:59:39.38, Default, {\c&HFF0000&}mr_nonsab{\c&HFFFFFF&}: \NSquid1 TheIlluminati Squid4 Squid1 DoritosChip Squid4 x⁣3
 Dialogue: 0:59:36.97, 0:59:39.03, Default, {\c&HFF0000&}SibiroM{\c&HFFFFFF&}: Хто?
 Dialogue: 0:59:37.03, 0:59:39.33, Default, {\c&H7FFF00&}pajila9_chupakabra{\c&HFFFFFF&}: почему ты в ночнушке
 Dialogue: 0:59:37.28, 0:59:39.55, Default, {\c&H7FFF00&}tarhankut{\c&HFFFFFF&}: чё,норм футболочка
@@ -5018,7 +5018,7 @@ Dialogue: 1:00:23.85, 1:00:26.46, Default, {\c&H008000&}tonymonk{\c&HFFFFFF&}: @
 ; Dialogue: 1:00:24.34, 1:00:29.34, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: ● Мой твиттер - twitter.com/Sempai_Black ● Группа \Nв вк - vk.com/b_silver ● Канал - youtube.com/BlackSilverUfa \N● Дополнительные смайлы в приложении BetterTTV - \Nhttps://nightdev.com/betterttv/ ● Наш сервер в Discord - \Nhttps://discordapp.com/invite/bsndw
 Dialogue: 1:00:25.80, 1:00:28.76, Default, {\c&HFFFFFF&}magvaik{\c&HFFFFFF&}: похожа на американскую пижаму что с вырезом на \Nзаднице SeemsGood
 Dialogue: 1:00:25.92, 1:00:28.44, Default, {\c&HFFFFFF&}morosoft{\c&HFFFFFF&}: вообще, это похоже на Дашину блузку
-; Dialogue: 1:00:27.13, 1:00:30.01, Default, {\c&HFF0000&}mr_nonsab{\c&HFFFFFF&}: \NSquid1 TheIlluminati Squid4 Squid1 TheIlluminati Squid4 x⁣3
+Dialogue: 1:00:27.13, 1:00:30.01, Default, {\c&HFF0000&}mr_nonsab{\c&HFFFFFF&}: \NSquid1 TheIlluminati Squid4 Squid1 TheIlluminati Squid4 x⁣3
 Dialogue: 1:00:29.13, 1:00:31.55, Default, {\c&HFFFFFF&}Zeetot{\c&HFFFFFF&}: @blackufa агрятся на красный
 Dialogue: 1:00:30.09, 1:00:32.88, Default, {\c&H20A5DA&}z_1_o_o_o{\c&HFFFFFF&}: jstTop jstLol jstCoolStoryChris jstMerzkiyKot \NjstGirl
 Dialogue: 1:00:30.79, 1:00:33.34, Default, {\c&H0000FF&}igor__a{\c&HFFFFFF&}: комбез с форточкой на жепе? @blackufa
@@ -10473,7 +10473,7 @@ Dialogue: 2:36:11.77, 2:36:14.41, Default, {\c&HFFFFFF&}laiqu{\c&HFFFFFF&}: @Bla
 Dialogue: 2:36:13.07, 2:36:15.82, Default, {\c&H2222B2&}JennDi{\c&HFFFFFF&}: это новый призрак )) выкидывает людей с серваков )
 Dialogue: 2:36:13.77, 2:36:16.49, Default, {\c&H0000FF&}max_krai{\c&HFFFFFF&}: Половина,это как щелчок таноса,но для фазмофобии
 Dialogue: 2:36:14.20, 2:36:16.33, Default, {\c&HFF901E&}Ikar94{\c&HFFFFFF&}: dogeDance
-; Dialogue: 2:36:15.60, 2:36:18.90, Default, {\c&HFF0000&}grimdarkened{\c&HFFFFFF&}: \NzululDrums BSUDance zululDrums BSUDance zululDrums BSUDance \Nx⁣2 zululDrums BSUDance x⁣2
+Dialogue: 2:36:15.60, 2:36:18.90, Default, {\c&HFF0000&}grimdarkened{\c&HFFFFFF&}: \NzululDrums BSUDance zululDrums BSUDance zululDrums BSUDance \Nx⁣2 zululDrums BSUDance x⁣2
 Dialogue: 2:36:16.97, 2:36:20.80, Default, {\c&HB469FF&}raw_yatagarasu{\c&HFFFFFF&}: знаете, я действительно рад, что джеки \Nвернулся... стал чаще появляться в коопах, сразу вайбы того \Nпрошлого и дейзи((я емо
 Dialogue: 2:36:17.02, 2:36:19.42, Default, {\c&H3D4E8F&}spokyveles{\c&HFFFFFF&}: в игре @BlackUFA сферхразум
 Dialogue: 2:36:17.16, 2:36:19.91, Default, {\c&H0000FF&}BlackInvadep{\c&HFFFFFF&}: @BlackUFA Тёму в разговор не забудьте добавить \NLUL
@@ -13701,7 +13701,7 @@ Dialogue: 3:12:31.77, 3:12:34.29, Default, {\c&HFFFFFF&}Meletur{\c&HFFFFFF&}: No
 Dialogue: 3:12:31.83, 3:12:34.05, Default, {\c&HFFFFFF&}Hunterv1rus{\c&HFFFFFF&}: NotLikeThis x⁣4
 Dialogue: 3:12:32.01, 3:12:34.10, Default, {\c&H20A5DA&}alexkedo{\c&HFFFFFF&}: <3 x⁣5
 Dialogue: 3:12:32.43, 3:12:34.64, Default, {\c&H0045FF&}Nevayasha{\c&HFFFFFF&}: PurpleStar x⁣4
-; Dialogue: 3:12:32.52, 3:12:36.66, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NbufaCoolStory bufaChatSila bufaCoolStory bufaChatSila x⁣2 \NbufaCoolStory bufaCoolStory \NbufaCoolStory bufaChatSila bufaCoolStory bufaChatSila x⁣2
+Dialogue: 3:12:32.52, 3:12:36.66, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NbufaCoolStory bufaChatSila bufaCoolStory bufaChatSila x⁣2 \NbufaCoolStory bufaCoolStory \NbufaCoolStory bufaChatSila bufaCoolStory bufaChatSila x⁣2
 Dialogue: 3:12:32.62, 3:12:35.13, Default, {\c&HA09E5F&}ReDbuJl{\c&HFFFFFF&}: Squid1 Squid2 Squid3 Squid2 Squid4
 Dialogue: 3:12:32.74, 3:12:35.02, Default, {\c&HFFFFFF&}evilalexa1{\c&HFFFFFF&}: ResidentSleeper x⁣3
 Dialogue: 3:12:32.83, 3:12:35.04, Default, {\c&HB469FF&}belka_pirozhok{\c&HFFFFFF&}: PurpleStar x⁣6

@@ -11745,7 +11745,7 @@ Dialogue: 4:10:14.02, 4:10:16.14, Default, {\c&HE22B8A&}sido_disst{\c&HFFFFFF&}:
 Dialogue: 4:10:14.23, 4:10:16.36, Default, {\c&HFFFFFF&}kapuchishko{\c&HFFFFFF&}: LUL x⁣5 \
 Dialogue: 4:10:14.43, 4:10:16.64, Default, {\c&H0000FF&}CRAZYB0MB{\c&HFFFFFF&}: bufaPressF x⁣5
 Dialogue: 4:10:14.59, 4:10:16.83, Default, {\c&H507FFF&}itilgail_{\c&HFFFFFF&}: bigBossSalut x⁣4
-; Dialogue: 4:10:14.68, 4:10:17.41, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NPepegaAim bigBossSalut PepegaAim bigBossSalut x⁣3
+Dialogue: 4:10:14.68, 4:10:17.41, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NPepegaAim bigBossSalut PepegaAim bigBossSalut x⁣3
 Dialogue: 4:10:15.29, 4:10:17.53, Default, {\c&HE22B8A&}ShumsterArt{\c&HFFFFFF&}: bigBossSalut x⁣6
 Dialogue: 4:10:15.62, 4:10:17.81, Default, {\c&H006FFF&}XandreX_Spb{\c&HFFFFFF&}: PepegaAim x⁣5
 Dialogue: 4:10:16.08, 4:10:18.20, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}: peepoJAM
@@ -11983,7 +11983,7 @@ Dialogue: 4:11:18.08, 4:11:20.32, Default, {\c&HFF0000&}Okay0451{\c&HFFFFFF&}: b
 Dialogue: 4:11:18.16, 4:11:20.29, Default, {\c&HFFFFFF&}gurgsar{\c&HFFFFFF&}: к награде
 Dialogue: 4:11:18.26, 4:11:20.30, Default, {\c&HFFFFFF&}redcas1ng{\c&HFFFFFF&}: Ура
 Dialogue: 4:11:18.38, 4:11:20.42, Default, {\c&HFFFFFF&}Batya_valdemar{\c&HFFFFFF&}: Ура
-; Dialogue: 4:11:18.41, 4:11:21.53, Default, {\c&H32CD9A&}SmokeyMonstr{\c&HFFFFFF&}: \NbufaPressF bigBossSalut bufaPressF bigBossSalut x⁣3 \NbufaPressF bigBossSalut
+Dialogue: 4:11:18.41, 4:11:21.53, Default, {\c&H32CD9A&}SmokeyMonstr{\c&HFFFFFF&}: \NbufaPressF bigBossSalut bufaPressF bigBossSalut x⁣3 \NbufaPressF bigBossSalut
 Dialogue: 4:11:18.44, 4:11:20.48, Default, {\c&HE22B8A&}dais_senpai{\c&HFFFFFF&}: Ура
 Dialogue: 4:11:18.68, 4:11:20.77, Default, {\c&HFFFFFF&}chuvakizchata{\c&HFFFFFF&}: Ураааа
 Dialogue: 4:11:18.95, 4:11:21.19, Default, {\c&H0000FF&}VerN4221{\c&HFFFFFF&}: bigBossSalut x⁣4
@@ -12188,7 +12188,7 @@ Dialogue: 4:12:01.23, 4:12:03.48, Default, {\c&HFF0000&}StrimanSSSS{\c&HFFFFFF&}
 Dialogue: 4:12:01.67, 4:12:03.73, Default, {\c&HFFFFFF&}q2dustman{\c&HFFFFFF&}: Ура!
 Dialogue: 4:12:02.59, 4:12:04.71, Default, {\c&H008000&}too_lazy_for_this{\c&HFFFFFF&}: ela7 x⁣3
 Dialogue: 4:12:02.75, 4:12:05.59, Default, {\c&HFFFFFF&}DevilDrunk{\c&HFFFFFF&}: Концовка за СССР - сбрасывание бомб. С - серия \Nмораль)00
-; Dialogue: 4:12:02.80, 4:12:05.92, Default, {\c&H32CD9A&}SmokeyMonstr{\c&HFFFFFF&}: \NbufaPressF bigBossSalut bufaPressF bigBossSalut x⁣3 \NbufaPressF bigBossSalut
+Dialogue: 4:12:02.80, 4:12:05.92, Default, {\c&H32CD9A&}SmokeyMonstr{\c&HFFFFFF&}: \NbufaPressF bigBossSalut bufaPressF bigBossSalut x⁣3 \NbufaPressF bigBossSalut
 Dialogue: 4:12:02.92, 4:12:05.08, Default, {\c&HFFFFFF&}GOODMAN077{\c&HFFFFFF&}: WutFace x⁣4
 Dialogue: 4:12:03.08, 4:12:05.32, Default, {\c&HFFFFFF&}dimonpokimon4ik{\c&HFFFFFF&}: bigBossSalut x⁣6
 Dialogue: 4:12:03.52, 4:12:05.76, Default, {\c&H0045FF&}VERTUFAISEN{\c&HFFFFFF&}: bigBossSalut x⁣6
@@ -14560,7 +14560,7 @@ Dialogue: 4:47:42.86, 4:47:45.10, Default, {\c&H20A5DA&}keeper_85{\c&HFFFFFF&}: 
 Dialogue: 4:47:43.17, 4:47:45.30, Default, {\c&H0000FF&}CRAZYB0MB{\c&HFFFFFF&}: bufaLough
 ; Dialogue: 4:47:43.45, 4:47:46.68, Default, {\c&H008000&}TheDrHaxBot{\c&HFFFFFF&}: @defaulthowler выбирается из горящего танка и \Nкусает @puffer_fish777 за ушко Kappa
 Dialogue: 4:47:43.82, 4:47:46.06, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}: bigBossSalut x⁣6
-; Dialogue: 4:47:43.96, 4:47:46.66, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NbigBossSalut BSUDance bigBossSalut BSUDance x⁣3
+Dialogue: 4:47:43.96, 4:47:46.66, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NbigBossSalut BSUDance bigBossSalut BSUDance x⁣3
 Dialogue: 4:47:44.07, 4:47:46.25, Default, {\c&HE22B8A&}Jiskra{\c&HFFFFFF&}: bigBossSalut
 Dialogue: 4:47:44.74, 4:47:47.68, Default, {\c&HA09E5F&}Ligein{\c&HFFFFFF&}: zululDrums peepoJAM zululDrums peepoJAM x⁣2 \NzululDrums peepoJAM
 Dialogue: 4:47:44.86, 4:47:47.10, Default, {\c&H0000FF&}pulsar333{\c&HFFFFFF&}: bigBossSalut x⁣3
@@ -14623,7 +14623,7 @@ Dialogue: 4:47:59.38, 4:48:01.63, Default, {\c&HFFFFFF&}vekin_grum{\c&HFFFFFF&}:
 Dialogue: 4:47:59.50, 4:48:01.69, Default, {\c&H0000FF&}KOCT04KA{\c&HFFFFFF&}: Ура товарищи!
 Dialogue: 4:47:59.62, 4:48:02.01, Default, {\c&HE22B8A&}grumbler_htg{\c&HFFFFFF&}: Служу Советскому Союзу!!!!
 ; Dialogue: 4:47:59.64, 4:48:02.19, Default, {\c&H008000&}TheDrHaxBot{\c&HFFFFFF&}: @mrarashi12, у вас 90 ICQ (+70) PepoG
-; Dialogue: 4:47:59.85, 4:48:02.55, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NbigBossSalut BSUDance bigBossSalut BSUDance x⁣3
+Dialogue: 4:47:59.85, 4:48:02.55, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NbigBossSalut BSUDance bigBossSalut BSUDance x⁣3
 Dialogue: 4:48:00.19, 4:48:02.31, Default, {\c&H20A5DA&}RebellHammer{\c&HFFFFFF&}: в шо эта
 Dialogue: 4:48:00.21, 4:48:02.39, Default, {\c&HFFFFFF&}kara_ajdaha_{\c&HFFFFFF&}: bufaLove x⁣3
 Dialogue: 4:48:00.31, 4:48:03.12, Default, {\c&HFFFFFF&}shadyvlad{\c&HFFFFFF&}: bigBossSalut x⁣5 bigBossSalutbigBossSalut \NbigBossSalut
@@ -14684,7 +14684,7 @@ Dialogue: 4:48:23.49, 4:48:25.68, Default, {\c&HFFFFFF&}Marrrtha{\c&HFFFFFF&}: P
 Dialogue: 4:48:23.53, 4:48:25.80, Default, {\c&H0000FF&}shurth{\c&HFFFFFF&}: zululDrums ZZoomer
 Dialogue: 4:48:24.54, 4:48:26.63, Default, {\c&HFFFFFF&}cheerymaize{\c&HFFFFFF&}: <3 x⁣6
 Dialogue: 4:48:24.79, 4:48:27.03, Default, {\c&HFFFFFF&}temnik99{\c&HFFFFFF&}: bigBossSalut x⁣4
-; Dialogue: 4:48:25.06, 4:48:28.09, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NbigBossSalut BSUDance bigBossSalut BSUDance x⁣3 bigBossSalut \NBSUDance
+Dialogue: 4:48:25.06, 4:48:28.09, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NbigBossSalut BSUDance bigBossSalut BSUDance x⁣3 bigBossSalut \NBSUDance
 Dialogue: 4:48:25.13, 4:48:27.34, Default, {\c&HE22B8A&}MefiStoriuZ{\c&HFFFFFF&}: bufaPressF x⁣5
 Dialogue: 4:48:25.37, 4:48:27.59, Default, {\c&HFFFFFF&}Hus10LER{\c&HFFFFFF&}: уууу мать вашу!
 Dialogue: 4:48:25.58, 4:48:27.79, Default, {\c&HFFFFFF&}dreamy_duck{\c&HFFFFFF&}: ура, товариши!
@@ -14769,7 +14769,7 @@ Dialogue: 4:48:59.02, 4:49:01.26, Default, {\c&H0045FF&}VERTUFAISEN{\c&HFFFFFF&}
 Dialogue: 4:48:59.53, 4:49:01.77, Default, {\c&HFF901E&}Cat_Remington{\c&HFFFFFF&}: bigBossSalut x⁣6
 Dialogue: 4:49:00.26, 4:49:02.35, Default, {\c&HFFFFFF&}cheerymaize{\c&HFFFFFF&}: <3 x⁣7
 Dialogue: 4:49:00.28, 4:49:02.65, Default, {\c&HFF901E&}creme__brulee{\c&HFFFFFF&}: bigBossSalut bigBossSalut
-; Dialogue: 4:49:00.75, 4:49:03.65, Default, {\c&HFFFFFF&}l1nd_32{\c&HFFFFFF&}: \NzululDrums ZZoomer zululDrums ZZoomer zululDrums ZZoomer x⁣3
+Dialogue: 4:49:00.75, 4:49:03.65, Default, {\c&HFFFFFF&}l1nd_32{\c&HFFFFFF&}: \NzululDrums ZZoomer zululDrums ZZoomer zululDrums ZZoomer x⁣3
 Dialogue: 4:49:01.44, 4:49:04.13, Default, {\c&HFFFFFF&}Marrrtha{\c&HFFFFFF&}: bigBossSalut bufaPressF x⁣3 Ура! Ура! Урааааа!
 Dialogue: 4:49:01.66, 4:49:03.91, Default, {\c&HFF901E&}JackSirris{\c&HFFFFFF&}: bigBossSalut x⁣23
 Dialogue: 4:49:03.08, 4:49:05.32, Default, {\c&HFFFFFF&}chaloveg{\c&HFFFFFF&}: bigBossSalut x⁣6

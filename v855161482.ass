@@ -1037,7 +1037,7 @@ Dialogue: 0:14:12.86, 0:14:15.07, Default, {\c&H0000FF&}Lori_Anger{\c&HFFFFFF&}:
 Dialogue: 0:14:14.16, 0:14:16.32, Default, {\c&HFF901E&}humblepoe{\c&HFFFFFF&}: popCat x⁣17
 Dialogue: 0:14:14.35, 0:14:16.51, Default, {\c&H0000FF&}PedoKloun{\c&HFFFFFF&}: TaBeRu x⁣10
 Dialogue: 0:14:15.07, 0:14:17.23, Default, {\c&H20A5DA&}tvaridobro3{\c&HFFFFFF&}: Jammies x⁣6
-; Dialogue: 0:14:15.09, 0:14:18.09, Default, {\c&H0000FF&}bornintheuniverse{\c&HFFFFFF&}: \NУаааа BabyRage Уаааа BabyRage Уаааа BabyRage x⁣2 \NУаааа BabyRage x⁣2
+Dialogue: 0:14:15.09, 0:14:18.09, Default, {\c&H0000FF&}bornintheuniverse{\c&HFFFFFF&}: \NУаааа BabyRage Уаааа BabyRage Уаааа BabyRage x⁣2 \NУаааа BabyRage x⁣2
 Dialogue: 0:14:15.16, 0:14:17.31, Default, {\c&HFFFFFF&}Dobraya_Tetushka{\c&HFFFFFF&}: BSUJam x⁣3
 Dialogue: 0:14:15.46, 0:14:17.52, Default, {\c&HB469FF&}AleksWin4ester{\c&HFFFFFF&}: BSUL
 Dialogue: 0:14:16.44, 0:14:18.54, Default, {\c&HFFFFFF&}arsyushkin{\c&HFFFFFF&}: LUL x⁣5
@@ -1405,7 +1405,7 @@ Dialogue: 0:17:12.06, 0:17:14.42, Default, {\c&H7FFF00&}FractalCucumber{\c&HFFFF
 Dialogue: 0:17:12.33, 0:17:14.43, Default, {\c&HE22B8A&}Etler_Black{\c&HFFFFFF&}: LUL x⁣3
 Dialogue: 0:17:13.20, 0:17:15.33, Default, {\c&H0045FF&}lorde_demons1999{\c&HFFFFFF&}: KEKW KEKW
 Dialogue: 0:17:13.77, 0:17:16.16, Default, {\c&H0045FF&}vkusnetskiy_kolbass{\c&HFFFFFF&}: Это было прекрасно LUL x⁣3
-; Dialogue: 0:17:13.93, 0:17:16.84, Default, {\c&H20A5DA&}BladeSeva{\c&HFFFFFF&}: \NmonkaX OMEGALUL peepoGiggles monkaX OMEGALUL peepoGiggles \Nx⁣3
+Dialogue: 0:17:13.93, 0:17:16.84, Default, {\c&H20A5DA&}BladeSeva{\c&HFFFFFF&}: \NmonkaX OMEGALUL peepoGiggles monkaX OMEGALUL peepoGiggles \Nx⁣3
 Dialogue: 0:17:14.27, 0:17:16.61, Default, {\c&HFFFFFF&}charliebarkin1{\c&HFFFFFF&}: Артур Рэмбо как влитой)
 Dialogue: 0:17:14.42, 0:17:16.58, Default, {\c&H0045FF&}Sire_Luminus_Fox{\c&HFFFFFF&}: Это эпично.
 Dialogue: 0:17:15.10, 0:17:17.16, Default, {\c&H008000&}nezateynik{\c&HFFFFFF&}: KEKW
@@ -1997,7 +1997,7 @@ Dialogue: 0:24:55.55, 0:24:58.03, Default, {\c&H0045FF&}Anatoliy_Gamer{\c&HFFFFF
 ; Dialogue: 0:24:57.97, 0:25:00.94, Default, {\c&H008000&}TheDrHaxBot{\c&HFFFFFF&}: @valdislav, у вас 0 ICQ bigBossSalut \Nbsu.us.to/348094949?at=12727
 Dialogue: 0:24:58.02, 0:25:00.66, Default, {\c&HFFFFFF&}sdnal{\c&HFFFFFF&}: Блин, у меня уже лицо разорвано от смеха =)
 Dialogue: 0:24:58.53, 0:25:00.92, Default, {\c&HFFFFFF&}tofik_abdullaev{\c&HFFFFFF&}: HolidaySanta GlitchLit x⁣3
-; Dialogue: 0:24:59.37, 0:25:02.63, Default, {\c&HFF901E&}HaBaHaVaHu{\c&HFFFFFF&}: \NartgamesBe artgamesHeheboi artgamesBe artgamesHeheboi x⁣2 \NartgamesBe artgamesHeheboi
+Dialogue: 0:24:59.37, 0:25:02.63, Default, {\c&HFF901E&}HaBaHaVaHu{\c&HFFFFFF&}: \NartgamesBe artgamesHeheboi artgamesBe artgamesHeheboi x⁣2 \NartgamesBe artgamesHeheboi
 Dialogue: 0:25:00.45, 0:25:02.63, Default, {\c&HFFFFFF&}momorin_chan{\c&HFFFFFF&}: bufaLUL x⁣12
 Dialogue: 0:25:00.93, 0:25:03.03, Default, {\c&HE22B8A&}Ellirain{\c&HFFFFFF&}: LUL x⁣3
 ; Dialogue: 0:25:01.65, 0:25:03.71, Default, {\c&HFF0000&}ChemleXVl{\c&HFFFFFF&}: !icq
@@ -6821,7 +6821,7 @@ Dialogue: 1:35:38.83, 1:35:40.95, Default, {\c&H0045FF&}Andryushok{\c&HFFFFFF&}:
 Dialogue: 1:35:41.16, 1:35:43.56, Default, {\c&HFFFFFF&}PolzovatelSeti{\c&HFFFFFF&}: Симулятор идейальной фэмэли
 Dialogue: 1:35:41.39, 1:35:43.49, Default, {\c&HE22B8A&}maggie_cherry{\c&HFFFFFF&}: LUL x⁣7
 Dialogue: 1:35:41.65, 1:35:43.77, Default, {\c&H0000FF&}AquilaAlbus{\c&HFFFFFF&}: Зажевало
-; Dialogue: 1:35:41.69, 1:35:44.45, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/ConfidentWealthyKiwiOneHand
+Dialogue: 1:35:41.69, 1:35:44.45, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/ConfidentWealthyKiwiOneHand
 Dialogue: 1:35:42.79, 1:35:45.12, Default, {\c&H008000&}KpuBopy4ka_{\c&HFFFFFF&}: Может таблетки = бусты
 ; Dialogue: 1:35:46.31, 1:35:48.37, Default, {\c&HFFFFFF&}Kirsuchello{\c&HFFFFFF&}: !icq
 ; Dialogue: 1:35:46.95, 1:35:49.65, Default, {\c&H008000&}TheDrHaxBot{\c&HFFFFFF&}: @kirsuchello, у вас 63 ICQ (-29) DANKHACKERMANS
@@ -6858,7 +6858,7 @@ Dialogue: 1:36:46.43, 1:36:48.53, Default, {\c&HFF901E&}IvanGrroznyi85{\c&HFFFFF
 ; Dialogue: 1:36:48.22, 1:36:51.21, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Archer AX73 от TP-Link со скидкой 1100 рублей: \Nhttps://u.to/Q-OiGg
 Dialogue: 1:36:49.37, 1:36:51.52, Default, {\c&H0000FF&}AquilaAlbus{\c&HFFFFFF&}: ClappyHype
 Dialogue: 1:36:49.37, 1:36:51.61, Default, {\c&H0000FF&}Sindarey{\c&HFFFFFF&}: а где хп бабки ?
-; Dialogue: 1:36:49.65, 1:36:52.47, Default, {\c&H0045FF&}Sire_Luminus_Fox{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/ZealousCuteAnacondaCoolStoryBob
+Dialogue: 1:36:49.65, 1:36:52.47, Default, {\c&H0045FF&}Sire_Luminus_Fox{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/ZealousCuteAnacondaCoolStoryBob
 Dialogue: 1:36:50.19, 1:36:52.38, Default, {\c&H008000&}afkbymep{\c&HFFFFFF&}: bufaLough x⁣3
 Dialogue: 1:36:52.95, 1:36:55.13, Default, {\c&HFFFFFF&}mefazim{\c&HFFFFFF&}: 3ех очковый!
 Dialogue: 1:36:57.90, 1:37:00.21, Default, {\c&H7FFF00&}ARTypKUN_OPGasm{\c&HFFFFFF&}: Экстримальный пирсинг
@@ -6964,7 +6964,7 @@ Dialogue: 1:39:36.83, 1:39:39.05, Default, {\c&H0000FF&}simonfromthenorth666{\c&
 Dialogue: 1:39:38.62, 1:39:40.83, Default, {\c&HB469FF&}JmixM{\c&HFFFFFF&}: jstNotLikeThis
 Dialogue: 1:39:40.27, 1:39:42.42, Default, {\c&H008000&}afkbymep{\c&HFFFFFF&}: bufaPressF
 Dialogue: 1:39:45.11, 1:39:47.96, Default, {\c&HFFFFFF&}hitrojopiy_krolik{\c&HFFFFFF&}: тут походу не с детьми воевать нужно, а \Nзадания выполнять
-; Dialogue: 1:39:49.35, 1:39:52.13, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/NastyPiliableTomatoPastaThat
+Dialogue: 1:39:49.35, 1:39:52.13, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/NastyPiliableTomatoPastaThat
 Dialogue: 1:39:54.59, 1:39:56.98, Default, {\c&HFF901E&}TOSYAed{\c&HFFFFFF&}: @TheDrHax KEKW вау, победа
 Dialogue: 1:39:57.43, 1:40:00.28, Default, {\c&HE22B8A&}Pokobor{\c&HFFFFFF&}: @blackufa согнутый ребёнок на могиле - венок, \Nполучатся ?
 Dialogue: 1:39:59.62, 1:40:02.10, Default, {\c&H5200CC&}EthMastare{\c&HFFFFFF&}: Там вон еще можно левелы выбрать
@@ -6999,7 +6999,7 @@ Dialogue: 1:41:31.90, 1:41:34.60, Default, {\c&HFF0000&}hetmansky{\c&HFFFFFF&}: 
 Dialogue: 1:41:37.53, 1:41:39.81, Default, {\c&HFFFFFF&}dimonpokimon4ik{\c&HFFFFFF&}: Киберспорт OMEGALUL
 Dialogue: 1:41:39.19, 1:41:41.37, Default, {\c&H008000&}yura_pudding{\c&HFFFFFF&}: bufaLove x⁣3
 Dialogue: 1:41:41.20, 1:41:43.69, Default, {\c&H7FFF00&}ARTypKUN_OPGasm{\c&HFFFFFF&}: bufaOops Абстрагивались, конечно)
-; Dialogue: 1:41:41.63, 1:41:44.48, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/BraveCheerfulSparrowPeteZarollTie
+Dialogue: 1:41:41.63, 1:41:44.48, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/BraveCheerfulSparrowPeteZarollTie
 ; Dialogue: 1:41:43.34, 1:41:45.64, Default, {\c&HFF901E&}pirojika{\c&HFFFFFF&}: !шар бабки или дети?
 ; Dialogue: 1:41:43.61, 1:41:46.18, Default, {\c&H008000&}TheDrHaxBot{\c&HFFFFFF&}: @pirojika, бабки — наш выбор SeemsGood
 Dialogue: 1:41:47.52, 1:41:49.70, Default, {\c&HE22B8A&}TheDrHax{\c&HFFFFFF&}: peepoGiggles
@@ -13842,7 +13842,7 @@ Dialogue: 5:18:53.96, 5:18:56.11, Default, {\c&HFF0000&}StrimanSSSS{\c&HFFFFFF&}
 Dialogue: 5:18:54.04, 5:18:56.25, Default, {\c&HE22B8A&}pelikines{\c&HFFFFFF&}: BibleThump x⁣5
 Dialogue: 5:18:54.61, 5:18:57.03, Default, {\c&H7FFF00&}dark_eastwood{\c&HFFFFFF&}: С наступающим, ребята <3 x⁣7
 Dialogue: 5:18:55.59, 5:18:57.74, Default, {\c&H32CD9A&}AlienoraPredatorova{\c&HFFFFFF&}: Сабнавтика
-; Dialogue: 5:18:58.14, 5:19:01.40, Default, {\c&HE22B8A&}oki_666{\c&HFFFFFF&}: \NpeepoLoveXmas peepoBlanket peepoLoveXmas peepoBlanket x⁣2 \NpeepoLoveXmas peepoBlanket
+Dialogue: 5:18:58.14, 5:19:01.40, Default, {\c&HE22B8A&}oki_666{\c&HFFFFFF&}: \NpeepoLoveXmas peepoBlanket peepoLoveXmas peepoBlanket x⁣2 \NpeepoLoveXmas peepoBlanket
 Dialogue: 5:18:58.51, 5:19:00.73, Default, {\c&H0000FF&}extra7m{\c&HFFFFFF&}: hakumaiLove x⁣5
 Dialogue: 5:19:00.19, 5:19:02.68, Default, {\c&H20A5DA&}NickWorraps{\c&HFFFFFF&}: новогодние хубики ненависти нужны
 Dialogue: 5:19:00.65, 5:19:02.83, Default, {\c&H0000FF&}Mental_Massacre{\c&HFFFFFF&}: bufaLove x⁣3
@@ -14184,7 +14184,7 @@ Dialogue: 5:22:53.11, 5:22:56.41, Default, {\c&H008000&}Hitagara{\c&HFFFFFF&}: s
 ; Dialogue: 5:22:53.63, 5:22:56.18, Default, {\c&H7FFF00&}dark_eastwood{\c&HFFFFFF&}: !шар подаришь фотки Памеллы Андерсон?
 ; Dialogue: 5:22:53.89, 5:22:56.65, Default, {\c&H008000&}TheDrHaxBot{\c&HFFFFFF&}: @dark_eastwood, тут всё не так однозначно \NPepoThink
 Dialogue: 5:22:55.19, 5:22:57.34, Default, {\c&HE22B8A&}GeliosViP{\c&HFFFFFF&}: MmmHmm x⁣4
-; Dialogue: 5:22:55.84, 5:22:58.84, Default, {\c&HFF901E&}SpacePixelSnow{\c&HFFFFFF&}: \NJammies SoSnowy Jammies SoSnowy Jammies SoSnowy x⁣3 Jammies \NSoSnowy
+Dialogue: 5:22:55.84, 5:22:58.84, Default, {\c&HFF901E&}SpacePixelSnow{\c&HFFFFFF&}: \NJammies SoSnowy Jammies SoSnowy Jammies SoSnowy x⁣3 Jammies \NSoSnowy
 Dialogue: 5:22:56.38, 5:22:58.45, Default, {\c&HFF901E&}BUeBU_{\c&HFFFFFF&}: AYAYA
 Dialogue: 5:22:56.39, 5:22:58.64, Default, {\c&H7FFF00&}GhostTown_1{\c&HFFFFFF&}: 2020Celebrate x⁣6
 Dialogue: 5:22:56.52, 5:22:58.86, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}: peepoJAMMER SoSnowy x⁣2
@@ -14239,7 +14239,7 @@ Dialogue: 5:23:37.78, 5:23:40.26, Default, {\c&HE22B8A&}marion_anyuan{\c&HFFFFFF
 Dialogue: 5:23:41.97, 5:23:44.13, Default, {\c&H7FFF00&}DomashniyEnot{\c&HFFFFFF&}: Jammies x⁣6
 Dialogue: 5:23:43.87, 5:23:46.51, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}: peepoJAMMER SoSnowy peepoJAMMER SoSnowy x⁣3
 Dialogue: 5:23:44.49, 5:23:46.91, Default, {\c&H0000FF&}stormtrooperl8a43{\c&HFFFFFF&}: PepegaDriving @hey_barrmalei
-; Dialogue: 5:23:44.83, 5:23:47.77, Default, {\c&H1E69D2&}hey_barrmalei{\c&HFFFFFF&}: \NgachiBASS Jammies peepoJAMMER gachiBASS Jammies peepoJAMMER \Nx⁣3
+Dialogue: 5:23:44.83, 5:23:47.77, Default, {\c&H1E69D2&}hey_barrmalei{\c&HFFFFFF&}: \NgachiBASS Jammies peepoJAMMER gachiBASS Jammies peepoJAMMER \Nx⁣3
 Dialogue: 5:23:47.07, 5:23:50.31, Default, {\c&HFF901E&}SpacePixelSnow{\c&HFFFFFF&}: Jammies SoSnowy Jammies SoSnowy Jammies SoSn\Nowy Jammies SoSnowy x⁣3 Jammies SoSnowy
 ; Dialogue: 5:23:48.86, 5:23:51.32, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: !шар, мотыгу, фотки или краски?
 ; Dialogue: 5:23:49.15, 5:23:51.79, Default, {\c&H008000&}TheDrHaxBot{\c&HFFFFFF&}: @albatros128, скорее всего краски PepoThink
@@ -14256,7 +14256,7 @@ Dialogue: 5:23:55.98, 5:23:58.14, Default, {\c&HFFFFFF&}vladiskor_tw{\c&HFFFFFF&
 Dialogue: 5:23:56.88, 5:23:59.06, Default, {\c&HFF0000&}StrimanSSSS{\c&HFFFFFF&}: pepeJAM x⁣12
 Dialogue: 5:23:57.48, 5:23:59.81, Default, {\c&HFF901E&}lIISpirit{\c&HFFFFFF&}: monkaSTEER SoSnowy x⁣3
 Dialogue: 5:23:57.93, 5:24:00.09, Default, {\c&HFF901E&}KayMuQM{\c&HFFFFFF&}: ;) GayPride
-; Dialogue: 5:24:00.59, 5:24:03.89, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}: \NpeepoJAMMER SoSnowy peepoJAMMER SoSnowy peepoJAMMER SoSnowy \Nx⁣2 peepoJAMMER SoSnowy x⁣2
+Dialogue: 5:24:00.59, 5:24:03.89, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}: \NpeepoJAMMER SoSnowy peepoJAMMER SoSnowy peepoJAMMER SoSnowy \Nx⁣2 peepoJAMMER SoSnowy x⁣2
 Dialogue: 5:24:00.95, 5:24:03.85, Default, {\c&H7FFF00&}xxxpidofelxxx{\c&HFFFFFF&}: NOPERS peepoJAMMER NOPERS peepoJAMMER x⁣2 \NNOPERS peepoJAMMER
 ; Dialogue: 5:24:02.50, 5:24:04.56, Default, {\c&HFFFFFF&}will_of_the_tribunal{\c&HFFFFFF&}: !icq
 ; Dialogue: 5:24:03.06, 5:24:05.79, Default, {\c&H008000&}TheDrHaxBot{\c&HFFFFFF&}: @will_of_the_tribunal, у вас 32 ICQ (-99) \NAptisha
@@ -14264,7 +14264,7 @@ Dialogue: 5:24:07.36, 5:24:10.00, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}:
 Dialogue: 5:24:09.35, 5:24:11.51, Default, {\c&HFFFFFF&}Zyamba2{\c&HFFFFFF&}: Jammies x⁣5
 Dialogue: 5:24:10.94, 5:24:13.91, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: Jammies peepoJAMMER monkaSTEER Jammies peepoJAM\NMER monkaSTEER x⁣3
 Dialogue: 5:24:11.19, 5:24:13.34, Default, {\c&HFF0000&}blackoren56{\c&HFFFFFF&}: TaBeRu x⁣6
-; Dialogue: 5:24:12.21, 5:24:15.51, Default, {\c&HFFFFFF&}s1mplen1ck{\c&HFFFFFF&}: \NpeepoJAMMER SoSnowy peepoJAMMER SoSnowy peepoJAMMER SoSnowy \Nx⁣2 peepoJAMMER SoSnowy x⁣2
+Dialogue: 5:24:12.21, 5:24:15.51, Default, {\c&HFFFFFF&}s1mplen1ck{\c&HFFFFFF&}: \NpeepoJAMMER SoSnowy peepoJAMMER SoSnowy peepoJAMMER SoSnowy \Nx⁣2 peepoJAMMER SoSnowy x⁣2
 Dialogue: 5:24:12.91, 5:24:16.15, Default, {\c&HFF901E&}SpacePixelSnow{\c&HFFFFFF&}: Jammies SoSnowy Jammies SoSnowy Jammies SoSn\Nowy Jammies SoSnowy x⁣3 Jammies SoSnowy
 Dialogue: 5:24:13.05, 5:24:17.01, Default, {\c&HA5BC10&}ray_yeah{\c&HFFFFFF&}: SoSnowy peepoJAMMER SoSnowy peepoJAMMER SoSnowy pe\NepoJAMMER SoSnowy peepoJAMMER x⁣2 SoSnowy peepoJAMMER x⁣2 \NpeepoJAMMER peepoJAMMER
 Dialogue: 5:24:13.38, 5:24:15.71, Default, {\c&HE22B8A&}Lostrock_true{\c&HFFFFFF&}: Jammies x⁣4 monkaSTEER

@@ -19607,7 +19607,7 @@ Dialogue: 5:02:20.40, 5:02:22.65, Default, {\c&HE22B8A&}SinHi{\c&HFFFFFF&}: BSUT
 Dialogue: 5:02:20.48, 5:02:22.66, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: LuvGift x⁣13
 Dialogue: 5:02:22.12, 5:02:24.22, Default, {\c&H0000FF&}rei_foll{\c&HFFFFFF&}: <3 x⁣10
 Dialogue: 5:02:23.30, 5:02:25.40, Default, {\c&H7FFF00&}perrrrkele{\c&HFFFFFF&}: <3 x⁣24
-; Dialogue: 5:02:23.32, 5:02:26.19, Default, {\c&HFFFFFF&}l_lazy_rabbit{\c&HFFFFFF&}: \NSirMad SirSword SirMad SirSword SirMad SirSword x⁣3 SirMad
+Dialogue: 5:02:23.32, 5:02:26.19, Default, {\c&HFFFFFF&}l_lazy_rabbit{\c&HFFFFFF&}: \NSirMad SirSword SirMad SirSword SirMad SirSword x⁣3 SirMad
 Dialogue: 5:02:23.34, 5:02:26.76, Default, {\c&HE22B8A&}NANOTEHNIK{\c&HFFFFFF&}: Сейчас бы на топовой конфигурации графику ниже \Nделать. Может просто игра говняно оптимизирована
 ; Dialogue: 5:02:23.55, 5:02:25.61, Default, {\c&HE22B8A&}MoonshineNomad{\c&HFFFFFF&}: !icq
 ; Dialogue: 5:02:23.85, 5:02:26.88, Default, {\c&H7FFF00&}TheDrHaxBot{\c&HFFFFFF&}: @moonshinenomad, ICQ можно проверять не чаще 1 \Nраза в минуту BUFANerd
@@ -19749,7 +19749,7 @@ Dialogue: 5:03:58.55, 5:04:00.70, Default, {\c&HFFFFFF&}Maxonson888{\c&HFFFFFF&}
 ; Dialogue: 5:03:58.59, 5:04:01.50, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: @MoyaPipirka -> Не капси, я в танке горел, я \Nдурак. [warning]
 Dialogue: 5:03:59.53, 5:04:01.65, Default, {\c&HE22B8A&}Ganslinger{\c&HFFFFFF&}: Jebaited
 Dialogue: 5:04:00.28, 5:04:02.49, Default, {\c&H507FFF&}ckBoH4{\c&HFFFFFF&}: Пути dead5What
-; Dialogue: 5:04:00.92, 5:04:03.62, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NBSUToxic bufaChatSila BSUToxic bufaChatSila x⁣3
+Dialogue: 5:04:00.92, 5:04:03.62, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NBSUToxic bufaChatSila BSUToxic bufaChatSila x⁣3
 Dialogue: 5:04:01.36, 5:04:03.72, Default, {\c&H1E69D2&}Seyosan{\c&HFFFFFF&}: KPOPfan x⁣6 bufaLove x⁣4
 Dialogue: 5:04:01.65, 5:04:04.29, Default, {\c&H32CD9A&}Ligneous{\c&HFFFFFF&}: @BlackUFA осуди на всякий случай....мало ли
 Dialogue: 5:04:02.06, 5:04:04.43, Default, {\c&H578B2E&}alexxbess{\c&HFFFFFF&}: SeriousSloth SeriousSloth
@@ -19772,7 +19772,7 @@ Dialogue: 5:04:08.58, 5:04:10.67, Default, {\c&H2222B2&}ChemleXVl{\c&HFFFFFF&}: 
 Dialogue: 5:04:08.62, 5:04:10.77, Default, {\c&HFFFFFF&}alexis_cherry_{\c&HFFFFFF&}: Свобода <3
 Dialogue: 5:04:08.72, 5:04:10.81, Default, {\c&HFF901E&}TOSYAed{\c&HFFFFFF&}: писять
 Dialogue: 5:04:08.94, 5:04:11.33, Default, {\c&HFFFFFF&}konohagakure_no_tyan{\c&HFFFFFF&}: камон, че все такие нежные
-; Dialogue: 5:04:09.59, 5:04:12.62, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NBSUToxic bufaChatSila BSUToxic bufaChatSila x⁣2 BSUToxic \NbufaChatSila
+Dialogue: 5:04:09.59, 5:04:12.62, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NBSUToxic bufaChatSila BSUToxic bufaChatSila x⁣2 BSUToxic \NbufaChatSila
 Dialogue: 5:04:10.01, 5:04:12.29, Default, {\c&HFFFFFF&}AlisaMein{\c&HFFFFFF&}: Любим Артура <3 x⁣5
 Dialogue: 5:04:10.15, 5:04:12.49, Default, {\c&HFFFFFF&}Baletazar{\c&HFFFFFF&}: @natsu2dragnil приветь!
 ; Dialogue: 5:04:10.33, 5:04:13.29, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: @ChocolateEye_ -> Ну ты со смайлами то не \Nперебарщивай [warning]
@@ -19802,7 +19802,7 @@ Dialogue: 5:04:21.99, 5:04:24.08, Default, {\c&H008000&}Mihanikus98{\c&HFFFFFF&}
 Dialogue: 5:04:22.64, 5:04:24.89, Default, {\c&HFFFFFF&}kenter129{\c&HFFFFFF&}: блин кушоть охота
 Dialogue: 5:04:23.22, 5:04:25.53, Default, {\c&HE22B8A&}demonu4_{\c&HFFFFFF&}: BSURage WeirdChamping
 Dialogue: 5:04:24.26, 5:04:26.59, Default, {\c&HE22B8A&}fishback203{\c&HFFFFFF&}: что -то умное PogChamp
-; Dialogue: 5:04:24.40, 5:04:27.10, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NBSUToxic bufaChatSila BSUToxic bufaChatSila x⁣3
+Dialogue: 5:04:24.40, 5:04:27.10, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NBSUToxic bufaChatSila BSUToxic bufaChatSila x⁣3
 Dialogue: 5:04:24.57, 5:04:26.72, Default, {\c&HFFFFFF&}hhipsterpro{\c&HFFFFFF&}: Silverhand
 Dialogue: 5:04:27.56, 5:04:29.84, Default, {\c&H20A5DA&}z_1_o_o_o{\c&HFFFFFF&}: dizzyRage dizzyRage
 Dialogue: 5:04:28.61, 5:04:30.74, Default, {\c&H0000FF&}mental_massacre{\c&HFFFFFF&}: чааааааат
@@ -19823,7 +19823,7 @@ Dialogue: 5:04:35.83, 5:04:38.08, Default, {\c&HE22B8A&}FalconPlay_{\c&HFFFFFF&}
 Dialogue: 5:04:38.53, 5:04:40.57, Default, {\c&HFFFFFF&}yan_khan{\c&HFFFFFF&}: LUL
 Dialogue: 5:04:40.05, 5:04:42.18, Default, {\c&HFFFFFF&}pnevmoslonik{\c&HFFFFFF&}: Баны всем
 Dialogue: 5:04:42.09, 5:04:44.21, Default, {\c&HFFFFFF&}kkrevetkaa{\c&HFFFFFF&}: BSUToxic
-; Dialogue: 5:04:42.71, 5:04:45.74, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NBSUToxic bufaChatSila BSUToxic bufaChatSila x⁣2 BSUToxic \NbufaChatSila
+Dialogue: 5:04:42.71, 5:04:45.74, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NBSUToxic bufaChatSila BSUToxic bufaChatSila x⁣2 BSUToxic \NbufaChatSila
 Dialogue: 5:04:43.26, 5:04:45.68, Default, {\c&HFFFFFF&}Baletazar{\c&HFFFFFF&}: @nekonic0le привет! bufaLove
 Dialogue: 5:04:45.24, 5:04:47.37, Default, {\c&HFFFFFF&}temnik99{\c&HFFFFFF&}: Бунта нет
 Dialogue: 5:04:46.53, 5:04:48.63, Default, {\c&HFFFFFF&}papin_cabanchik{\c&HFFFFFF&}: LUL x⁣6
@@ -19860,7 +19860,7 @@ Dialogue: 5:05:13.70, 5:05:16.42, Default, {\c&HFFFFFF&}aytwix{\c&HFFFFFF&}: <3 
 Dialogue: 5:05:22.40, 5:05:25.73, Default, {\c&HCC8100&}TheMightyBeerhammer{\c&HFFFFFF&}: @TheDrHax я у них на стриме дропов \Nособо тоже не видел, просто говорят что у них тормозит
 Dialogue: 5:05:23.05, 5:05:25.15, Default, {\c&H7FFF00&}Belochek{\c&HFFFFFF&}: LUL x⁣5
 Dialogue: 5:05:25.03, 5:05:27.33, Default, {\c&HFF901E&}GraciSL{\c&HFFFFFF&}: @NekoNic0le дэ? KEKW
-; Dialogue: 5:05:26.65, 5:05:29.68, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NBSUToxic bufaChatSila BSUToxic bufaChatSila x⁣2 BSUToxic \NbufaChatSila
+Dialogue: 5:05:26.65, 5:05:29.68, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NBSUToxic bufaChatSila BSUToxic bufaChatSila x⁣2 BSUToxic \NbufaChatSila
 Dialogue: 5:05:28.42, 5:05:30.73, Default, {\c&HFFFFFF&}melkiywey777{\c&HFFFFFF&}: часть экрана не видно
 Dialogue: 5:05:29.54, 5:05:32.08, Default, {\c&HFFFFFF&}feivvelin{\c&HFFFFFF&}: заодно проверил как сейвы работают))
 Dialogue: 5:05:33.41, 5:05:36.53, Default, {\c&HFFFFFF&}restingDrizzt{\c&HFFFFFF&}: @themightybeerhammer, но она у Артура то и не \Nтормозит кроме пары моментов.
@@ -19898,7 +19898,7 @@ Dialogue: 5:06:04.46, 5:06:06.70, Default, {\c&HFFFFFF&}dimonpokimon4ik{\c&HFFFF
 Dialogue: 5:06:06.11, 5:06:08.26, Default, {\c&HFFFFFF&}kenter129{\c&HFFFFFF&}: wlgRip x⁣4
 Dialogue: 5:06:07.88, 5:06:10.13, Default, {\c&H7FFF00&}Belochek{\c&HFFFFFF&}: Jebaited Jebaited
 Dialogue: 5:06:08.09, 5:06:10.13, Default, {\c&HFFFFFF&}feivvelin{\c&HFFFFFF&}: мау
-; Dialogue: 5:06:08.37, 5:06:11.40, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NBSUToxic bufaChatSila BSUToxic bufaChatSila x⁣2 BSUToxic \NbufaChatSila
+Dialogue: 5:06:08.37, 5:06:11.40, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NBSUToxic bufaChatSila BSUToxic bufaChatSila x⁣2 BSUToxic \NbufaChatSila
 Dialogue: 5:06:08.79, 5:06:10.97, Default, {\c&HFFFFFF&}bezgodovvv{\c&HFFFFFF&}: bufaLewd x⁣3
 Dialogue: 5:06:09.33, 5:06:11.57, Default, {\c&H7FFF00&}QuantinusHD{\c&HFFFFFF&}: клаву отключи им
 Dialogue: 5:06:09.85, 5:06:13.53, Default, {\c&HFF5686&}VampireLili_{\c&HFFFFFF&}: @mpa3otuha1, Боже, ну серьезно, зачем такую \Nгрязь в чат писать, не обращай внимание и все тут? \NanakCoolStory x⁣3
@@ -19933,7 +19933,7 @@ Dialogue: 5:06:34.81, 5:06:37.36, Default, {\c&HFFFFFF&}meffisst{\c&HFFFFFF&}: �
 Dialogue: 5:06:36.51, 5:06:40.29, Default, {\c&HFFFFFF&}restingDrizzt{\c&HFFFFFF&}: @p1sos1k, это его канал, по факту он можеть \Nделать всё что не запрещается твичом, в том числе и то чем \Nты недоволен лул
 Dialogue: 5:06:38.39, 5:06:41.30, Default, {\c&HE22B8A&}Seychirokki{\c&HFFFFFF&}: Я понимаю тебя, Артур, глупые советы \Nдействительно раздражают
 Dialogue: 5:06:40.73, 5:06:42.92, Default, {\c&HFFFFFF&}philolog_miasnyk{\c&HFFFFFF&}: PETTHEAPTEEPO
-; Dialogue: 5:06:42.05, 5:06:45.08, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NBSUToxic bufaChatSila BSUToxic bufaChatSila x⁣2 BSUToxic \NbufaChatSila
+Dialogue: 5:06:42.05, 5:06:45.08, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NBSUToxic bufaChatSila BSUToxic bufaChatSila x⁣2 BSUToxic \NbufaChatSila
 Dialogue: 5:06:45.37, 5:06:47.50, Default, {\c&HFFFFFF&}phantom_ip{\c&HFFFFFF&}: SMOrc x⁣5
 Dialogue: 5:06:50.25, 5:06:52.70, Default, {\c&HFFFFFF&}Baletazar{\c&HFFFFFF&}: @vampirelili_ привет) bufaLove
 Dialogue: 5:06:51.60, 5:06:53.66, Default, {\c&H7FFF00&}Zombie988{\c&HFFFFFF&}: KEKW
@@ -19949,7 +19949,7 @@ Dialogue: 5:06:59.15, 5:07:01.39, Default, {\c&HFFFFFF&}kenter129{\c&HFFFFFF&}: 
 Dialogue: 5:07:00.19, 5:07:02.29, Default, {\c&HFFFFFF&}DeeViaS{\c&HFFFFFF&}: BSURage
 Dialogue: 5:07:00.42, 5:07:03.63, Default, {\c&HFFFFFF&}ikotletai{\c&HFFFFFF&}: Может переставишь контроллер на 1, там вроде \Nнаписано контроллер Джека? @blackufa
 Dialogue: 5:07:02.32, 5:07:04.47, Default, {\c&HFFFFFF&}Dreyres{\c&HFFFFFF&}: ну все, гг
-; Dialogue: 5:07:03.25, 5:07:05.95, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NBSUToxic bufaChatSila BSUToxic bufaChatSila x⁣3
+Dialogue: 5:07:03.25, 5:07:05.95, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NBSUToxic bufaChatSila BSUToxic bufaChatSila x⁣3
 Dialogue: 5:07:03.99, 5:07:06.17, Default, {\c&HFFFFFF&}TvoyMoy{\c&HFFFFFF&}: OkayChamping
 Dialogue: 5:07:04.81, 5:07:07.21, Default, {\c&H20A5DA&}z_1_o_o_o{\c&HFFFFFF&}: dizzyThink сломали dizzyPls
 Dialogue: 5:07:07.00, 5:07:12.00, Default, {\c&HD29B2A&}PolunochnyyKoshmarik{\c&HFFFFFF&}: @themightybeerhammer не в этом дело, \Nкогда тормозит у Даши, не тормозит у остальных, так же как и \Nво время тормозов у других, в это же время у Артура не \Nтормозит ничего, это не взаимосвязанно. Так что н правильно \Nговорит
@@ -26428,7 +26428,7 @@ Dialogue: 6:45:01.12, 6:45:04.23, Default, {\c&HFFFFFF&}TXRENTX{\c&HFFFFFF&}: с
 Dialogue: 6:45:01.53, 6:45:03.77, Default, {\c&H1E69D2&}plankton4221{\c&HFFFFFF&}: ChickenRave x⁣12
 Dialogue: 6:45:01.60, 6:45:03.72, Default, {\c&HFF901E&}zheleck{\c&HFFFFFF&}: BSUDance
 Dialogue: 6:45:02.25, 6:45:04.46, Default, {\c&HFF5686&}VampireLili_{\c&HFFFFFF&}: dogeDance x⁣10
-; Dialogue: 6:45:02.40, 6:45:05.30, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NBSUDance dogeDance BSUDance dogeDance BSUDance dogeDance x⁣3
+Dialogue: 6:45:02.40, 6:45:05.30, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NBSUDance dogeDance BSUDance dogeDance BSUDance dogeDance x⁣3
 ; Dialogue: 6:45:03.62, 6:45:05.80, Default, {\c&H0000FF&}Nezhno_Sumrak{\c&HFFFFFF&}: !запис until
 Dialogue: 6:45:07.73, 6:45:10.09, Default, {\c&H7FFF00&}Lipisiin{\c&HFFFFFF&}: Всем пока! Squid4 <3 x⁣6
 Dialogue: 6:45:08.70, 6:45:10.89, Default, {\c&HFFFFFF&}sosisone4ka{\c&HFFFFFF&}: dogeDance x⁣8
@@ -26440,7 +26440,7 @@ Dialogue: 6:45:16.87, 6:45:19.57, Default, {\c&H507FFF&}ckBoH4{\c&HFFFFFF&}: pee
 Dialogue: 6:45:17.14, 6:45:19.32, Default, {\c&H32CD9A&}Gle6ywka{\c&HFFFFFF&}: bufaLove x⁣7
 Dialogue: 6:45:17.82, 6:45:20.00, Default, {\c&HFFFFFF&}Krigo_Cli{\c&HFFFFFF&}: Kreygasm x⁣4
 Dialogue: 6:45:17.99, 6:45:20.11, Default, {\c&H0045FF&}M0r0zhenk0{\c&HFFFFFF&}: BSUDance
-; Dialogue: 6:45:18.95, 6:45:22.13, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NBSUDance dogeDance BSUDance dogeDance BSUDance dogeDance x⁣3 \NBSUDance dogeDance
+Dialogue: 6:45:18.95, 6:45:22.13, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NBSUDance dogeDance BSUDance dogeDance BSUDance dogeDance x⁣3 \NBSUDance dogeDance
 Dialogue: 6:45:19.36, 6:45:21.54, Default, {\c&HE22B8A&}ShumsterArt{\c&HFFFFFF&}: bufaLove x⁣5
 Dialogue: 6:45:20.78, 6:45:23.00, Default, {\c&HFFFFFF&}faerymagick{\c&HFFFFFF&}: Всего хорошего)
 Dialogue: 6:45:22.10, 6:45:24.34, Default, {\c&H1E69D2&}plankton4221{\c&HFFFFFF&}: ChickenRave x⁣10
@@ -26460,7 +26460,7 @@ Dialogue: 6:45:31.54, 6:45:33.78, Default, {\c&H1E69D2&}plankton4221{\c&HFFFFFF&
 Dialogue: 6:45:32.75, 6:45:34.85, Default, {\c&H507FFF&}ckBoH4{\c&HFFFFFF&}: BSURage
 Dialogue: 6:45:34.01, 6:45:36.16, Default, {\c&HFF0000&}blackoren56{\c&HFFFFFF&}: TaBeRu x⁣6
 Dialogue: 6:45:34.34, 6:45:36.56, Default, {\c&HA09E5F&}tosinpupok{\c&HFFFFFF&}: ChickenRave x⁣7
-; Dialogue: 6:45:35.22, 6:45:38.46, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NBSUDance dogeDance BSUDance dogeDance BSUDance dogeDance x⁣2 \NBSUDance dogeDance x⁣2
+Dialogue: 6:45:35.22, 6:45:38.46, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NBSUDance dogeDance BSUDance dogeDance BSUDance dogeDance x⁣2 \NBSUDance dogeDance x⁣2
 Dialogue: 6:45:35.61, 6:45:37.74, Default, {\c&HFFFFFF&}Krigo_Cli{\c&HFFFFFF&}: DxCat x⁣6
 Dialogue: 6:45:35.69, 6:45:37.90, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: dogeDance x⁣12
 Dialogue: 6:45:37.35, 6:45:39.83, Default, {\c&HFFFFFF&}cheese007_{\c&HFFFFFF&}: пока-пока, чатик, минус 3 <3 x⁣3
@@ -26478,7 +26478,7 @@ Dialogue: 6:45:45.53, 6:45:47.71, Default, {\c&H7FFF00&}Gvirem{\c&HFFFFFF&}: BSU
 Dialogue: 6:45:48.95, 6:45:51.14, Default, {\c&HFF901E&}zheleck{\c&HFFFFFF&}: dogeDance x⁣9
 Dialogue: 6:45:50.83, 6:45:53.56, Default, {\c&HE22B8A&}TheDrHax{\c&HFFFFFF&}: @cohanjohan, MewOne! исполнитель, а трек не помню
 Dialogue: 6:45:51.23, 6:45:53.44, Default, {\c&HFF901E&}zheleck{\c&HFFFFFF&}: dogeDance x⁣10
-; Dialogue: 6:45:52.09, 6:45:54.99, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NBSUDance dogeDance BSUDance dogeDance BSUDance dogeDance x⁣3
+Dialogue: 6:45:52.09, 6:45:54.99, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NBSUDance dogeDance BSUDance dogeDance BSUDance dogeDance x⁣3
 Dialogue: 6:45:53.96, 6:45:56.15, Default, {\c&H0045FF&}Mereditly{\c&HFFFFFF&}: dogeDance x⁣6
 ; Dialogue: 6:45:55.24, 6:45:57.31, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: !icq?
 Dialogue: 6:45:55.54, 6:45:57.76, Default, {\c&H1E69D2&}plankton4221{\c&HFFFFFF&}: ChickenRave x⁣9
@@ -26497,7 +26497,7 @@ Dialogue: 6:46:03.94, 6:46:06.15, Default, {\c&H7FFF00&}Gvirem{\c&HFFFFFF&}: dog
 Dialogue: 6:46:04.96, 6:46:07.15, Default, {\c&HFFFFFF&}dFx64xFF{\c&HFFFFFF&}: dogeDance x⁣6
 Dialogue: 6:46:06.65, 6:46:08.86, Default, {\c&HFF5686&}VampireLili_{\c&HFFFFFF&}: dogeDance x⁣10
 Dialogue: 6:46:07.06, 6:46:09.25, Default, {\c&HFF901E&}zheleck{\c&HFFFFFF&}: dogeDance x⁣9
-; Dialogue: 6:46:08.27, 6:46:11.45, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NBSUDance dogeDance BSUDance dogeDance BSUDance dogeDance x⁣3 \NBSUDance dogeDance
+Dialogue: 6:46:08.27, 6:46:11.45, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NBSUDance dogeDance BSUDance dogeDance BSUDance dogeDance x⁣3 \NBSUDance dogeDance
 Dialogue: 6:46:08.51, 6:46:10.94, Default, {\c&HA09E5F&}cohanjohan{\c&HFFFFFF&}: @TheDrHax ну хотя бы так, спс
 Dialogue: 6:46:08.55, 6:46:10.70, Default, {\c&HFF0000&}blackoren56{\c&HFFFFFF&}: TaBeRu x⁣6
 Dialogue: 6:46:09.05, 6:46:11.29, Default, {\c&H1E69D2&}plankton4221{\c&HFFFFFF&}: ChickenRave x⁣10
@@ -26533,7 +26533,7 @@ Dialogue: 6:46:36.40, 6:46:38.61, Default, {\c&HFF901E&}zheleck{\c&HFFFFFF&}: do
 Dialogue: 6:46:37.55, 6:46:39.79, Default, {\c&H1E69D2&}plankton4221{\c&HFFFFFF&}: ChickenRave x⁣14
 ; Dialogue: 6:46:39.73, 6:46:41.82, Default, {\c&HE22B8A&}TheDrHax{\c&HFFFFFF&}: !Gaben
 Dialogue: 6:46:40.38, 6:46:42.53, Default, {\c&HFF0000&}blackoren56{\c&HFFFFFF&}: TaBeRu x⁣6
-; Dialogue: 6:46:40.72, 6:46:43.96, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NBSUDance dogeDance BSUDance dogeDance BSUDance dogeDance x⁣2 \NBSUDance dogeDance x⁣2
+Dialogue: 6:46:40.72, 6:46:43.96, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NBSUDance dogeDance BSUDance dogeDance BSUDance dogeDance x⁣2 \NBSUDance dogeDance x⁣2
 Dialogue: 6:46:40.73, 6:46:42.92, Default, {\c&HFF901E&}zheleck{\c&HFFFFFF&}: dogeDance x⁣9
 Dialogue: 6:46:43.40, 6:46:45.50, Default, {\c&HE22B8A&}TheDrHax{\c&HFFFFFF&}: KEKWait
 Dialogue: 6:46:44.66, 6:46:46.87, Default, {\c&HFF901E&}zheleck{\c&HFFFFFF&}: dogeDance x⁣10

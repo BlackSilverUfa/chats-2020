@@ -323,7 +323,7 @@ Dialogue: 0:05:11.72, 0:05:13.94, Default, {\c&H7FFF00&}Emerald___fox{\c&HFFFFFF
 ; Dialogue: 0:05:12.89, 0:05:14.98, Default, {\c&HE22B8A&}kassiendra{\c&HFFFFFF&}: !анонс
 ; Dialogue: 0:05:13.14, 0:05:17.78, Default, {\c&H008000&}TheDrHaxBot{\c&HFFFFFF&}: @kassiendra, сегодняшний анонс: 16:00 МСК Вечер \N(всратых) хорроров! Сначала, понятное дело, поможем немного \Nуборщику в SCP, после - всякое эдакое! Берите кирпичей по \Nдва мешка.
 Dialogue: 0:05:14.43, 0:05:16.62, Default, {\c&H0000FF&}itirik_kyocka{\c&HFFFFFF&}: 2020Shred x⁣3
-; Dialogue: 0:05:16.33, 0:05:19.39, Default, {\c&H20A5DA&}Irina_Ishtar{\c&HFFFFFF&}: \NJammies SoSnowy Jammies SoSnowy Jammies SoSnowy x⁣2 \NJammies SoSnowy x⁣2
+Dialogue: 0:05:16.33, 0:05:19.39, Default, {\c&H20A5DA&}Irina_Ishtar{\c&HFFFFFF&}: \NJammies SoSnowy Jammies SoSnowy Jammies SoSnowy x⁣2 \NJammies SoSnowy x⁣2
 Dialogue: 0:05:16.60, 0:05:18.82, Default, {\c&H578B2E&}Fess8659{\c&HFFFFFF&}: bufaSubHype x⁣3
 Dialogue: 0:05:20.17, 0:05:22.41, Default, {\c&H0000FF&}Mental_Massacre{\c&HFFFFFF&}: @madkapitan, оло
 Dialogue: 0:05:21.61, 0:05:23.71, Default, {\c&HFFB7C7&}yeosunny{\c&HFFFFFF&}: HahaCat
@@ -1152,7 +1152,7 @@ Dialogue: 0:16:10.15, 0:16:12.27, Default, {\c&H0045FF&}BSODerr{\c&HFFFFFF&}: Ч
 Dialogue: 0:16:10.35, 0:16:13.70, Default, {\c&H7FFF00&}havines{\c&HFFFFFF&}: Драконов и принцесс нам, или бунт peepoRiotДраконов \Nx⁣2 и принцесс нам, или бунт peepoRiot
 Dialogue: 0:16:11.70, 0:16:13.88, Default, {\c&HA09E5F&}prizrak213{\c&HFFFFFF&}: BSUToxic x⁣5
 Dialogue: 0:16:12.02, 0:16:16.19, Default, {\c&HFFFFFF&}voron_alchemist{\c&HFFFFFF&}: @blackufa Привет, Аптип! Стоит ли от тебя \Nждать стримы по RDR2 хотя бы раз в месяц или в несколько? \NОЧень хочется от тебя досмотреть эту историю)
-; Dialogue: 0:16:12.52, 0:16:15.82, Default, {\c&H0000FF&}Mental_Massacre{\c&HFFFFFF&}: \NpeepoRiot BSUBUND1 BSUBUND2 peepoRiot BSUBUND1 BSUBUND2 x⁣2 \NpeepoRiot BSUBUND1 BSUBUND2
+Dialogue: 0:16:12.52, 0:16:15.82, Default, {\c&H0000FF&}Mental_Massacre{\c&HFFFFFF&}: \NpeepoRiot BSUBUND1 BSUBUND2 peepoRiot BSUBUND1 BSUBUND2 x⁣2 \NpeepoRiot BSUBUND1 BSUBUND2
 Dialogue: 0:16:13.43, 0:16:16.07, Default, {\c&H507FFF&}qweamy{\c&HFFFFFF&}: Драконов и принцесс нам, или бунт bufaNiOH2
 Dialogue: 0:16:13.87, 0:16:15.97, Default, {\c&HFFFFFF&}aqkyn{\c&HFFFFFF&}: LUL x⁣5
 Dialogue: 0:16:14.37, 0:16:16.47, Default, {\c&H008000&}amiruz{\c&HFFFFFF&}: bufaLUL
@@ -1274,7 +1274,7 @@ Dialogue: 0:17:11.49, 0:17:13.62, Default, {\c&H32CD9A&}sova_svetka{\c&HFFFFFF&}
 Dialogue: 0:17:11.87, 0:17:14.66, Default, {\c&HFFFFFF&}Dzirt2a{\c&HFFFFFF&}: Байтовое испытание, но я должен держаться \NNotLikeThis
 Dialogue: 0:17:12.30, 0:17:14.60, Default, {\c&HFFFFFF&}Rustorque{\c&HFFFFFF&}: ЧАЧ! Не трать! Копи.
 Dialogue: 0:17:12.47, 0:17:14.80, Default, {\c&HFFFFFF&}temnik99{\c&HFFFFFF&}: Не будем сливать SMOrc
-; Dialogue: 0:17:12.48, 0:17:15.87, Default, {\c&H7FFF00&}Dariya_Willis{\c&HFFFFFF&}: \NSMOrc BSUBUND1 SMOrc BSUBUND2 SMOrc BSUBUND1 SMOrc BSUBUND2 \Nx⁣3 SMOrc BSUBUND1 SMOrc BSUBUND2
+Dialogue: 0:17:12.48, 0:17:15.87, Default, {\c&H7FFF00&}Dariya_Willis{\c&HFFFFFF&}: \NSMOrc BSUBUND1 SMOrc BSUBUND2 SMOrc BSUBUND1 SMOrc BSUBUND2 \Nx⁣3 SMOrc BSUBUND1 SMOrc BSUBUND2
 Dialogue: 0:17:12.60, 0:17:14.72, Default, {\c&HFFFFFF&}vivien_cumbercraft{\c&HFFFFFF&}: АРТУР!!!
 Dialogue: 0:17:14.06, 0:17:17.08, Default, {\c&H20A5DA&}NickWorraps{\c&HFFFFFF&}: для тех кто не знает английский там написанно \N"НЕ играть в Елмирион"
 Dialogue: 0:17:14.72, 0:17:16.82, Default, {\c&H578B2E&}Akulz{\c&HFFFFFF&}: дурачки
@@ -6153,7 +6153,7 @@ Dialogue: 1:15:32.24, 1:15:34.34, Default, {\c&H2222B2&}JETFIRE93{\c&HFFFFFF&}: 
 Dialogue: 1:15:32.60, 1:15:35.09, Default, {\c&H0000FF&}aaaa_nya_is_kb{\c&HFFFFFF&}: лед кружится в безудержном вальсе
 Dialogue: 1:15:33.89, 1:15:36.04, Default, {\c&HFFFFFF&}momorin_chan{\c&HFFFFFF&}: duDudu x⁣6
 Dialogue: 1:15:33.91, 1:15:36.61, Default, {\c&H32CD9A&}FaN_Era{\c&HFFFFFF&}: Сейчас он свернется в сингулярность и GAME OVER
-; Dialogue: 1:15:34.41, 1:15:37.20, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/CrazyGracefulJellyfishPrimeMe
+Dialogue: 1:15:34.41, 1:15:37.20, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/CrazyGracefulJellyfishPrimeMe
 Dialogue: 1:15:35.57, 1:15:37.67, Default, {\c&HE22B8A&}Zmeigo{\c&HFFFFFF&}: ты увен
 Dialogue: 1:15:36.80, 1:15:38.95, Default, {\c&HFFFFFF&}momorin_chan{\c&HFFFFFF&}: duDudu x⁣7
 Dialogue: 1:15:36.81, 1:15:39.15, Default, {\c&H2222B2&}Uil_Karter{\c&HFFFFFF&}: На швабре. Уборщики же!
@@ -14075,7 +14075,7 @@ Dialogue: 3:31:20.39, 3:31:22.55, Default, {\c&H7FFF00&}xxxpidofelxxx{\c&HFFFFFF
 Dialogue: 3:31:21.69, 3:31:24.30, Default, {\c&HFFFFFF&}konivponi{\c&HFFFFFF&}: эта та игра где на спуске в подвал ебака?
 Dialogue: 3:31:22.36, 3:31:24.87, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: @black_stas, говори давай IndiCorn
 Dialogue: 3:31:23.00, 3:31:25.45, Default, {\c&HFFFFFF&}spc_man{\c&HFFFFFF&}: Чач, а Чач, до 5 лямов добьем?
-; Dialogue: 3:31:23.26, 3:31:26.38, Default, {\c&HE22B8A&}LooperNON{\c&HFFFFFF&}: \NПоползень popCat Поползень popCat Поползень popCat x⁣2 \NПоползень popCat x⁣2
+Dialogue: 3:31:23.26, 3:31:26.38, Default, {\c&HE22B8A&}LooperNON{\c&HFFFFFF&}: \NПоползень popCat Поползень popCat Поползень popCat x⁣2 \NПоползень popCat x⁣2
 Dialogue: 3:31:25.32, 3:31:28.40, Default, {\c&H0000FF&}MA3AII{\c&HFFFFFF&}: @BlackUFA может там где помехи у инвалидной коляски \Nбыли активная точка?
 Dialogue: 3:31:31.44, 3:31:33.56, Default, {\c&HFFFFFF&}vesna_zimu{\c&HFFFFFF&}: Дедушка?
 Dialogue: 3:31:32.08, 3:31:34.65, Default, {\c&HFFFFFF&}rage785{\c&HFFFFFF&}: @BlackUFA когда хоть бабай появиться ?
@@ -23522,7 +23522,7 @@ Dialogue: 6:23:04.76, 6:23:06.95, Default, {\c&HFFFFFF&}maks1842{\c&HFFFFFF&}: P
 Dialogue: 6:23:05.67, 6:23:08.30, Default, {\c&H0045FF&}DefaultHowler{\c&HFFFFFF&}: @Severnaya_Utka @Rogue_Monro_ bufaLove x⁣5
 Dialogue: 6:23:07.43, 6:23:09.98, Default, {\c&HB469FF&}DiogisH{\c&HFFFFFF&}: HahaDoge bufaLUL bufaBaited bufaLough
 Dialogue: 6:23:12.00, 6:23:14.18, Default, {\c&HFF901E&}SpacePixelSnow{\c&HFFFFFF&}: Jammies x⁣26
-; Dialogue: 6:23:12.48, 6:23:15.72, Default, {\c&HFFFFFF&}will_of_the_tribunal{\c&HFFFFFF&}: \NJammies monkaSTEER Jammies monkaSTEER Jammies monkaSTEER x⁣2 \NJammies monkaSTEER x⁣2
+Dialogue: 6:23:12.48, 6:23:15.72, Default, {\c&HFFFFFF&}will_of_the_tribunal{\c&HFFFFFF&}: \NJammies monkaSTEER Jammies monkaSTEER Jammies monkaSTEER x⁣2 \NJammies monkaSTEER x⁣2
 Dialogue: 6:23:12.61, 6:23:15.69, Default, {\c&HFF901E&}GraciSL{\c&HFFFFFF&}: peepoSnow peepoBlanket peepoSnow peepoBlanket x⁣3 \NpeepoSnow peepoBlanket
 Dialogue: 6:23:12.77, 6:23:15.74, Default, {\c&HFFFFFF&}lichinus1234{\c&HFFFFFF&}: Jammies x⁣7 JammiesJammies Jammies x⁣6 \NJammiesJammies Jammies x⁣7
 Dialogue: 6:23:12.98, 6:23:15.17, Default, {\c&HFF901E&}zheleck{\c&HFFFFFF&}: peepoSnow x⁣3
@@ -23561,7 +23561,7 @@ Dialogue: 6:23:45.76, 6:23:47.97, Default, {\c&HE22B8A&}TheDrHax{\c&HFFFFFF&}: m
 Dialogue: 6:23:46.03, 6:23:50.07, Default, {\c&HFF901E&}dragon_rider1017{\c&HFFFFFF&}: HahaCat SingsNote <3 HolidayTree \NHolidayLog HolidaySanta HolidayPresent HolidayOrnament \NHahaSweat HahaPoint HolidayPresent HolidayCookie
 ; Dialogue: 6:23:46.38, 6:23:48.44, Default, {\c&HFFFFFF&}Asdiky{\c&HFFFFFF&}: !icq
 ; Dialogue: 6:23:47.20, 6:23:49.71, Default, {\c&H008000&}TheDrHaxBot{\c&HFFFFFF&}: @asdiky, у вас 55 ICQ (-45) Pepega
-; Dialogue: 6:23:48.37, 6:23:51.36, Default, {\c&H7FFF00&}Scarlex_87{\c&HFFFFFF&}: \NHolidaySanta HolidayTree HolidaySanta HolidayTree x⁣2 \NHolidaySanta
+Dialogue: 6:23:48.37, 6:23:51.36, Default, {\c&H7FFF00&}Scarlex_87{\c&HFFFFFF&}: \NHolidaySanta HolidayTree HolidaySanta HolidayTree x⁣2 \NHolidaySanta
 Dialogue: 6:23:49.32, 6:23:51.66, Default, {\c&HB469FF&}JmixM{\c&HFFFFFF&}: jstLol_SA 2020Celebrate
 Dialogue: 6:23:50.05, 6:23:52.21, Default, {\c&H0000FF&}Railag_{\c&HFFFFFF&}: peepoJAMMER
 Dialogue: 6:23:51.33, 6:23:54.93, Default, {\c&HA09E5F&}Severnaya_Utka{\c&HFFFFFF&}: @defaulthowler Тоже верно, просто делай свое \Nдело и все будет хорошо, а что до следующего \Nгода...Посмотрим)
@@ -23570,7 +23570,7 @@ Dialogue: 6:23:51.33, 6:23:54.93, Default, {\c&HA09E5F&}Severnaya_Utka{\c&HFFFFF
 Dialogue: 6:23:52.32, 6:23:54.71, Default, {\c&HFF901E&}YagayaAgia{\c&HFFFFFF&}: о, дождались крутой песни)
 Dialogue: 6:23:52.65, 6:23:54.83, Default, {\c&HFFFFFF&}morozka___{\c&HFFFFFF&}: HahaLean x⁣3
 Dialogue: 6:23:54.62, 6:23:56.99, Default, {\c&HFFFFFF&}Parishu{\c&HFFFFFF&}: peepoJAMMER peepoClap x⁣4
-; Dialogue: 6:23:56.82, 6:23:59.76, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NpeepoJAMMER Jammies peepoJAMMER Jammies peepoJAMMER Jammies \Nx⁣3
+Dialogue: 6:23:56.82, 6:23:59.76, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NpeepoJAMMER Jammies peepoJAMMER Jammies peepoJAMMER Jammies \Nx⁣3
 Dialogue: 6:23:57.92, 6:24:00.08, Default, {\c&HFF5686&}VampireLili_{\c&HFFFFFF&}: peepoJAMMER
 Dialogue: 6:23:58.90, 6:24:01.08, Default, {\c&HFF901E&}SpacePixelSnow{\c&HFFFFFF&}: Jammies x⁣30
 Dialogue: 6:23:59.27, 6:24:01.45, Default, {\c&HFFFFFF&}morozka___{\c&HFFFFFF&}: HahaDoge x⁣3

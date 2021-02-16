@@ -6259,7 +6259,7 @@ Dialogue: 1:18:25.41, 1:18:27.71, Default, {\c&HFFFFFF&}MudaK_3000{\c&HFFFFFF&}:
 Dialogue: 1:18:25.99, 1:18:28.30, Default, {\c&H0000FF&}RedMarsel{\c&HFFFFFF&}: Ю-ху 10 icq PepoDance
 Dialogue: 1:18:26.22, 1:18:28.50, Default, {\c&HFF901E&}GraciSL{\c&HFFFFFF&}: @BloodAndMice F x⁣3
 Dialogue: 1:18:26.97, 1:18:29.25, Default, {\c&HFF901E&}GraciSL{\c&HFFFFFF&}: @BloodAndMice F x⁣3
-Dialogue: 1:18:28.10, 1:18:30.40, Default, {\c&HFF901E&}GraciSL{\c&HFFFFFF&}: \@BloodAndMice F x⁣3
+; Dialogue: 1:18:28.10, 1:18:30.40, Default, {\c&HFF901E&}GraciSL{\c&HFFFFFF&}: \@BloodAndMice F x⁣3
 Dialogue: 1:18:28.65, 1:18:30.87, Default, {\c&HFFFFFF&}muzhik_1{\c&HFFFFFF&}: а я не хочу бан
 Dialogue: 1:18:29.99, 1:18:32.47, Default, {\c&HFFFFFF&}shiyurimura{\c&HFFFFFF&}: bufaHee bufaHee НЕвиииные жертвы
 ; Dialogue: 1:18:30.34, 1:18:32.47, Default, {\c&HFFFFFF&}keksonaldo23{\c&HFFFFFF&}: !хочувбан
@@ -11213,7 +11213,7 @@ Dialogue: 2:47:25.76, 2:47:27.82, Default, {\c&HFF0000&}StrimanSSSS{\c&HFFFFFF&}
 Dialogue: 2:47:26.24, 2:47:28.82, Default, {\c&HFF901E&}GraciSL{\c&HFFFFFF&}: @irlandskayakyrochka monkaBan HYPERCLAP
 ; Dialogue: 2:47:26.29, 2:47:28.41, Default, {\c&H2222B2&}1rediska2sosiska{\c&HFFFFFF&}: !хочубан
 Dialogue: 2:47:26.40, 2:47:28.73, Default, {\c&H008000&}dexter_elf{\c&HFFFFFF&}: геноцид чата @BlackUFA
-Dialogue: 2:47:26.47, 2:47:28.57, Default, {\c&H0000FF&}Nevock{\c&HFFFFFF&}: \ Kappa
+; Dialogue: 2:47:26.47, 2:47:28.57, Default, {\c&H0000FF&}Nevock{\c&HFFFFFF&}: \ Kappa
 Dialogue: 2:47:26.55, 2:47:28.70, Default, {\c&HFFFFFF&}ashkhender{\c&HFFFFFF&}: ну это бан
 Dialogue: 2:47:26.55, 2:47:28.76, Default, {\c&H20A5DA&}ivanparadox{\c&HFFFFFF&}: Silverhand x⁣3
 ; Dialogue: 2:47:26.56, 2:47:28.68, Default, {\c&HFF901E&}uGaben{\c&HFFFFFF&}: !хочубан
@@ -18145,7 +18145,7 @@ Dialogue: 4:41:55.96, 4:41:58.39, Default, {\c&HFFFFFF&}Sheinan{\c&HFFFFFF&}: н
 Dialogue: 4:41:56.02, 4:41:58.23, Default, {\c&HFFFFFF&}d0ct0rxy{\c&HFFFFFF&}: с Ведьмака LUL
 Dialogue: 4:41:56.57, 4:41:58.63, Default, {\c&HFFFFFF&}negenius{\c&HFFFFFF&}: KEKW
 Dialogue: 4:42:01.92, 4:42:03.99, Default, {\c&HE22B8A&}kliker__{\c&HFFFFFF&}: ахаха
-Dialogue: 4:42:02.53, 4:42:04.56, Default, {\c&H0000FF&}premiumkanal{\c&HFFFFFF&}: \\
+; Dialogue: 4:42:02.53, 4:42:04.56, Default, {\c&H0000FF&}premiumkanal{\c&HFFFFFF&}: \\
 Dialogue: 4:42:04.20, 4:42:06.30, Default, {\c&H7FFF00&}magic_ebobo{\c&HFFFFFF&}: LUL x⁣3
 Dialogue: 4:42:04.69, 4:42:06.97, Default, {\c&HFF0000&}Phalanor{\c&HFFFFFF&}: Тогда был бы кринж.
 Dialogue: 4:42:05.35, 4:42:07.96, Default, {\c&HFFFFFF&}TyTu_{\c&HFFFFFF&}: Ну да ну да, Ведьмак то не особо объемный

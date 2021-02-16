@@ -234,7 +234,7 @@ Dialogue: 0:03:07.10, 0:03:09.29, Default, {\c&HFFFFFF&}Fantilium{\c&HFFFFFF&}: 
 ; Dialogue: 0:03:08.08, 0:03:10.14, Default, {\c&H0045FF&}rikkitin{\c&HFFFFFF&}: !icq
 Dialogue: 0:03:08.38, 0:03:10.53, Default, {\c&HFFFFFF&}dimonpokimon4ik{\c&HFFFFFF&}: TaBeRu x⁣7
 ; Dialogue: 0:03:08.55, 0:03:11.09, Default, {\c&H7FFF00&}TheDrHaxBot{\c&HFFFFFF&}: @rikkitin, у вас 121 ICQ (+83) 5Head
-; Dialogue: 0:03:09.57, 0:03:12.83, Default, {\c&H0045FF&}JAcka1Op3z{\c&HFFFFFF&}: \NBSUDance dogeDance BSUFlex BSUDance dogeDance BSUFlex x⁣2 \NBSUDance dogeDance BSUFlex
+Dialogue: 0:03:09.57, 0:03:12.83, Default, {\c&H0045FF&}JAcka1Op3z{\c&HFFFFFF&}: \NBSUDance dogeDance BSUFlex BSUDance dogeDance BSUFlex x⁣2 \NBSUDance dogeDance BSUFlex
 Dialogue: 0:03:09.90, 0:03:11.99, Default, {\c&H0000FF&}nevOSX{\c&HFFFFFF&}: TaBeRu
 Dialogue: 0:03:10.83, 0:03:13.04, Default, {\c&HFFFFFF&}temnik99{\c&HFFFFFF&}: dogeDance x⁣12
 Dialogue: 0:03:11.39, 0:03:13.52, Default, {\c&HE22B8A&}EnotSpace{\c&HFFFFFF&}: всем кусь
@@ -6566,7 +6566,7 @@ Dialogue: 1:39:02.56, 1:39:04.81, Default, {\c&H0045FF&}DefaultHowler{\c&HFFFFFF
 Dialogue: 1:39:03.11, 1:39:05.26, Default, {\c&H32CD9A&}zlobnyi_topt{\c&HFFFFFF&}: KappaPride
 Dialogue: 1:39:03.24, 1:39:05.34, Default, {\c&H0000FF&}Gachi_Muchenick{\c&HFFFFFF&}: "Живая"
 Dialogue: 1:39:03.37, 1:39:05.46, Default, {\c&HFF901E&}ShavermaAR{\c&HFFFFFF&}: BSUHey
-; Dialogue: 1:39:04.27, 1:39:07.03, Default, {\c&H0000FF&}Phoenix_the_incinerator{\c&HFFFFFF&}: \NZZoomer BBoomer ZZoomer BBoomer ZZoomer BBoomer x⁣3
+Dialogue: 1:39:04.27, 1:39:07.03, Default, {\c&H0000FF&}Phoenix_the_incinerator{\c&HFFFFFF&}: \NZZoomer BBoomer ZZoomer BBoomer ZZoomer BBoomer x⁣3
 Dialogue: 1:39:04.35, 1:39:06.51, Default, {\c&HFF901E&}waka_waka_mzfka{\c&HFFFFFF&}: wlgPeka x⁣3
 Dialogue: 1:39:04.91, 1:39:07.13, Default, {\c&HED0980&}m__slava{\c&HFFFFFF&}: bufaLUL bufaLUL
 Dialogue: 1:39:06.05, 1:39:08.11, Default, {\c&H0000FF&}Ananassya{\c&HFFFFFF&}: KEKW

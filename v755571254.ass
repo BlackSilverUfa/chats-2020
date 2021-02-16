@@ -1175,7 +1175,7 @@ Dialogue: 0:34:32.53, 0:34:35.08, Default, {\c&HE22B8A&}darth_imperiius{\c&HFFFF
 Dialogue: 0:34:33.32, 0:34:36.13, Default, {\c&H578B2E&}Mornersons{\c&HFFFFFF&}: Гайс, а что с каналом на дискорде - куда все \Nпропало??
 Dialogue: 0:34:40.08, 0:34:42.39, Default, {\c&HFF0000&}NoiseStorm_{\c&HFFFFFF&}: чатик привет bufaLove
 Dialogue: 0:34:40.50, 0:34:43.35, Default, {\c&H0000FF&}OtterWithCanon{\c&HFFFFFF&}: @fish77700, Рыыыыыба bufaLewd Иди сюда \Nпожамкаю bufaPride
-Dialogue: 0:34:45.63, 0:34:47.64, Default, {\c&HFF0000&}aevlasov{\c&HFFFFFF&}: \
+; Dialogue: 0:34:45.63, 0:34:47.64, Default, {\c&HFF0000&}aevlasov{\c&HFFFFFF&}: \
 Dialogue: 0:34:46.60, 0:34:48.78, Default, {\c&HFF0000&}NoiseStorm_{\c&HFFFFFF&}: Артур привет
 Dialogue: 0:34:47.05, 0:34:49.99, Default, {\c&H20A5DA&}Sir_Leonid1199{\c&HFFFFFF&}: @Mornersons идёт некоторая переделка, скоро \Nвсё будет. Не спамь
 Dialogue: 0:34:49.47, 0:34:51.81, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}: @Fish77700 bigBossSalut
@@ -5477,7 +5477,7 @@ Dialogue: 4:12:21.66, 4:12:23.88, Default, {\c&H32CD9A&}pora_pora{\c&HFFFFFF&}: 
 Dialogue: 4:12:26.59, 4:12:29.17, Default, {\c&HFFFFFF&}dmitryruno{\c&HFFFFFF&}: PurpleStar x⁣11 FBtouchdown FBtouchdown
 Dialogue: 4:12:27.35, 4:12:29.56, Default, {\c&HFFFFFF&}lichinus1234{\c&HFFFFFF&}: PurpleStar x⁣6
 Dialogue: 4:12:27.36, 4:12:29.54, Default, {\c&H7FFF00&}dark_eastwood{\c&HFFFFFF&}: PogChamp x⁣5
-Dialogue: 4:12:28.07, 4:12:30.46, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: \PurpleStar PurpleStar x⁣6
+; Dialogue: 4:12:28.07, 4:12:30.46, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: \PurpleStar PurpleStar x⁣6
 Dialogue: 4:12:28.42, 4:12:30.54, Default, {\c&HFFFFFF&}aqkyn{\c&HFFFFFF&}: PogChamp
 Dialogue: 4:12:28.64, 4:12:30.86, Default, {\c&HFFFFFF&}elensky_{\c&HFFFFFF&}: PurpleStar x⁣13
 Dialogue: 4:12:30.48, 4:12:32.60, Default, {\c&HA09E5F&}magamber{\c&HFFFFFF&}: OMEGALUL

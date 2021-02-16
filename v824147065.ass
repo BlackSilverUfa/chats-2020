@@ -296,7 +296,7 @@ Dialogue: 0:05:22.30, 0:05:24.43, Default, {\c&HFFFFFF&}Altis95{\c&HFFFFFF&}: pe
 Dialogue: 0:05:23.39, 0:05:25.52, Default, {\c&H0000FF&}4esna{\c&HFFFFFF&}: скайрим ?
 ; Dialogue: 0:05:24.66, 0:05:26.88, Default, {\c&HE22B8A&}Yaktoshtop{\c&HFFFFFF&}: !кусь @TheDrHax
 ; Dialogue: 0:05:24.94, 0:05:27.97, Default, {\c&H008000&}TheDrHaxBot{\c&HFFFFFF&}: @yaktoshtop выползает из под кровати и кусает \N@thedrhax за пятку ariW
-; Dialogue: 0:05:25.01, 0:05:28.31, Default, {\c&HFF0000&}mr_nonsab{\c&HFFFFFF&}: \NSquid1 TheIlluminati Squid4 Squid1 TheIlluminati Squid4 x⁣2 \NSquid1 TheIlluminati Squid4
+Dialogue: 0:05:25.01, 0:05:28.31, Default, {\c&HFF0000&}mr_nonsab{\c&HFFFFFF&}: \NSquid1 TheIlluminati Squid4 Squid1 TheIlluminati Squid4 x⁣2 \NSquid1 TheIlluminati Squid4
 Dialogue: 0:05:25.15, 0:05:27.27, Default, {\c&HFFFFFF&}PeeToPee{\c&HFFFFFF&}: peepoMas
 Dialogue: 0:05:26.05, 0:05:28.18, Default, {\c&H0000FF&}Demonic_smile{\c&HFFFFFF&}: peepoClap
 Dialogue: 0:05:26.35, 0:05:28.51, Default, {\c&HFFFFFF&}Kanaletta{\c&HFFFFFF&}: KPOPvictory
@@ -4303,7 +4303,7 @@ Dialogue: 1:26:25.89, 1:26:27.99, Default, {\c&HFFFFFF&}krivorykii_krabik{\c&HFF
 Dialogue: 1:26:25.91, 1:26:28.01, Default, {\c&H7FFF00&}Arhiteck{\c&HFFFFFF&}: bufaHee
 Dialogue: 1:26:26.02, 1:26:28.14, Default, {\c&HFFFFFF&}ariants{\c&HFFFFFF&}: PixelBob
 Dialogue: 1:26:27.00, 1:26:29.18, Default, {\c&H020269&}Omenosa{\c&HFFFFFF&}: Kreygasm x⁣3
-; Dialogue: 1:26:27.15, 1:26:30.15, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \Nbufa4221 TaBeRu bufa4221 TaBeRu bufa4221 TaBeRu x⁣3 bufa4221 \NTaBeRu
+Dialogue: 1:26:27.15, 1:26:30.15, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \Nbufa4221 TaBeRu bufa4221 TaBeRu bufa4221 TaBeRu x⁣3 bufa4221 \NTaBeRu
 Dialogue: 1:26:27.17, 1:26:29.30, Default, {\c&H7FFF00&}es85{\c&HFFFFFF&}: peepoClap
 Dialogue: 1:26:27.25, 1:26:29.43, Default, {\c&HFFFFFF&}dimonpokimon4ik{\c&HFFFFFF&}: BSUDance x⁣6
 Dialogue: 1:26:27.25, 1:26:29.31, Default, {\c&HFFFFFF&}11sole11{\c&HFFFFFF&}: 4221
@@ -4582,7 +4582,7 @@ Dialogue: 1:27:28.10, 1:27:30.29, Default, {\c&H7FFF00&}Infraider{\c&HFFFFFF&}: 
 Dialogue: 1:27:28.27, 1:27:30.42, Default, {\c&H008000&}Drosurtagn{\c&HFFFFFF&}: MmmHmm x⁣6
 Dialogue: 1:27:28.28, 1:27:30.47, Default, {\c&HFFFFFF&}RoseAngelll{\c&HFFFFFF&}: SingsNote x⁣3
 Dialogue: 1:27:28.31, 1:27:30.49, Default, {\c&HFF901E&}zheleck{\c&HFFFFFF&}: BSUDance x⁣6
-; Dialogue: 1:27:28.38, 1:27:31.44, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \Nbufa4221 TaBeRu bufa4221 TaBeRu bufa4221 TaBeRu x⁣2 \Nbufa4221 TaBeRu x⁣2
+Dialogue: 1:27:28.38, 1:27:31.44, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \Nbufa4221 TaBeRu bufa4221 TaBeRu bufa4221 TaBeRu x⁣2 \Nbufa4221 TaBeRu x⁣2
 Dialogue: 1:27:28.75, 1:27:30.93, Default, {\c&HFFFFFF&}lisenqwill{\c&HFFFFFF&}: PogChamp x⁣4
 Dialogue: 1:27:29.43, 1:27:31.61, Default, {\c&HFF901E&}zheleck{\c&HFFFFFF&}: BSUDance x⁣3
 Dialogue: 1:27:29.85, 1:27:31.95, Default, {\c&HFFFFFF&}vlad_zip637{\c&HFFFFFF&}: LUL x⁣4
@@ -4626,7 +4626,7 @@ Dialogue: 1:27:39.88, 1:27:41.97, Default, {\c&HFFFFFF&}lisenqwill{\c&HFFFFFF&}:
 Dialogue: 1:27:40.03, 1:27:42.12, Default, {\c&H32CD9A&}AnastasiyaWolf{\c&HFFFFFF&}: TaBeRu
 Dialogue: 1:27:40.60, 1:27:42.96, Default, {\c&HE22B8A&}onikarasu815{\c&HFFFFFF&}: peepoMas peepoClap KKool
 Dialogue: 1:27:40.66, 1:27:42.84, Default, {\c&HFFFFFF&}Bratvaable{\c&HFFFFFF&}: peepoMas x⁣5
-; Dialogue: 1:27:40.79, 1:27:43.58, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \Nbufa4221 TaBeRu peepoMas bufa4221 TaBeRu peepoMas x⁣3
+Dialogue: 1:27:40.79, 1:27:43.58, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \Nbufa4221 TaBeRu peepoMas bufa4221 TaBeRu peepoMas x⁣3
 Dialogue: 1:27:41.06, 1:27:43.24, Default, {\c&HFF901E&}zheleck{\c&HFFFFFF&}: peepoMas x⁣3
 Dialogue: 1:27:41.14, 1:27:43.27, Default, {\c&HFFFFFF&}strongcake512{\c&HFFFFFF&}: Ва ва x⁣5
 Dialogue: 1:27:41.70, 1:27:43.88, Default, {\c&HE22B8A&}TemyPanda{\c&HFFFFFF&}: peepoMas x⁣4
@@ -4664,7 +4664,7 @@ Dialogue: 1:27:55.00, 1:27:57.16, Default, {\c&HFF901E&}waka_waka_mzfka{\c&HFFFF
 Dialogue: 1:27:55.11, 1:27:57.74, Default, {\c&H0000FF&}andrey1303_DronikMT{\c&HFFFFFF&}: зевнул как тигор CoolStoryBob \NCoolStoryBob
 Dialogue: 1:27:55.30, 1:27:57.90, Default, {\c&HFFFFFF&}lisenqwill{\c&HFFFFFF&}: HolidaySanta x⁣3 PixelBob x⁣7 FBPass x⁣5
 Dialogue: 1:27:55.45, 1:27:57.60, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}: TaBeRu x⁣7
-; Dialogue: 1:27:55.54, 1:27:58.33, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \Nbufa4221 TaBeRu peepoMas bufa4221 TaBeRu peepoMas x⁣3
+Dialogue: 1:27:55.54, 1:27:58.33, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \Nbufa4221 TaBeRu peepoMas bufa4221 TaBeRu peepoMas x⁣3
 Dialogue: 1:27:55.72, 1:27:57.97, Default, {\c&HFFFFFF&}s1mplen1ck{\c&HFFFFFF&}: 4221 StinkyGlitch
 Dialogue: 1:27:56.26, 1:27:58.44, Default, {\c&HFF901E&}zheleck{\c&HFFFFFF&}: BSUDance x⁣6
 Dialogue: 1:27:56.29, 1:27:58.44, Default, {\c&H0000FF&}MaximBkv{\c&HFFFFFF&}: TaBeRu x⁣6
@@ -4719,7 +4719,7 @@ Dialogue: 1:28:13.21, 1:28:15.55, Default, {\c&HFFFFFF&}leviysosock{\c&HFFFFFF&}
 Dialogue: 1:28:13.66, 1:28:15.84, Default, {\c&HFFFFFF&}dinamotr{\c&HFFFFFF&}: BSUDance x⁣6
 Dialogue: 1:28:13.91, 1:28:16.03, Default, {\c&HE22B8A&}KexariO{\c&HFFFFFF&}: BSUDance
 Dialogue: 1:28:14.36, 1:28:16.58, Default, {\c&HFFFFFF&}sirsir1234{\c&HFFFFFF&}: ResidentSleeper
-; Dialogue: 1:28:14.52, 1:28:17.69, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \Nbufa4221 TaBeRu peepoMas bufa4221 TaBeRu peepoMas x⁣2 \Nbufa4221 TaBeRu peepoMas
+Dialogue: 1:28:14.52, 1:28:17.69, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \Nbufa4221 TaBeRu peepoMas bufa4221 TaBeRu peepoMas x⁣2 \Nbufa4221 TaBeRu peepoMas
 Dialogue: 1:28:14.81, 1:28:16.99, Default, {\c&HFFFFFF&}matonaaaario{\c&HFFFFFF&}: Kreygasm x⁣5
 Dialogue: 1:28:15.35, 1:28:17.47, Default, {\c&HE22B8A&}Virgozavr{\c&HFFFFFF&}: peepoMas
 Dialogue: 1:28:15.44, 1:28:17.59, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}: TaBeRu x⁣7
@@ -4743,7 +4743,7 @@ Dialogue: 1:28:24.46, 1:28:26.64, Default, {\c&HFFFFFF&}klim3000{\c&HFFFFFF&}: B
 Dialogue: 1:28:26.89, 1:28:29.29, Default, {\c&HFFFFFF&}11sole11{\c&HFFFFFF&}: Squid1 Squid3 Squid2 Squid4
 Dialogue: 1:28:29.86, 1:28:32.10, Default, {\c&H0045FF&}monanull{\c&HFFFFFF&}: distSmile душара
 Dialogue: 1:28:32.58, 1:28:34.71, Default, {\c&HFF901E&}zheleck{\c&HFFFFFF&}: peepoClap
-; Dialogue: 1:28:32.80, 1:28:37.80, Default, {\c&HFFFFFF&}dimonpokimon4ik{\c&HFFFFFF&}: \Nbufa4221 TaBeRu peepoMas bufa4221 TaBeRu peepoMas x⁣2 \Nbufa4221 TaBeRu peepoMas bufa4221 TaBeRu peepoMas bufa4221 T\NaBeRu peepoMas bufa4221 TaBeRu peepoMas x⁣2 \Nbufa4221 TaBeRu peepoMas bufa4221 TaBeRu peepoMas x⁣2
+Dialogue: 1:28:32.80, 1:28:37.80, Default, {\c&HFFFFFF&}dimonpokimon4ik{\c&HFFFFFF&}: \Nbufa4221 TaBeRu peepoMas bufa4221 TaBeRu peepoMas x⁣2 \Nbufa4221 TaBeRu peepoMas bufa4221 TaBeRu peepoMas bufa4221 T\NaBeRu peepoMas bufa4221 TaBeRu peepoMas x⁣2 \Nbufa4221 TaBeRu peepoMas bufa4221 TaBeRu peepoMas x⁣2
 Dialogue: 1:28:34.07, 1:28:36.11, Default, {\c&H0000FF&}EVGEN_PELMEN_{\c&HFFFFFF&}: ауф
 Dialogue: 1:28:34.52, 1:28:36.77, Default, {\c&H578B2E&}summuellin{\c&HFFFFFF&}: peepoJAM peepoJAM
 Dialogue: 1:28:35.19, 1:28:37.22, Default, {\c&H0000FF&}rashat99{\c&HFFFFFF&}: <3
@@ -4875,7 +4875,7 @@ Dialogue: 1:29:19.74, 1:29:21.92, Default, {\c&HFFFFFF&}FareWe1l{\c&HFFFFFF&}: B
 Dialogue: 1:29:19.97, 1:29:22.15, Default, {\c&HFFFFFF&}idiodcdnebc{\c&HFFFFFF&}: bufaOops x⁣3
 Dialogue: 1:29:20.04, 1:29:22.22, Default, {\c&H0000FF&}killerlot{\c&HFFFFFF&}: BSUDance x⁣8
 Dialogue: 1:29:20.28, 1:29:22.43, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}: TaBeRu x⁣7
-; Dialogue: 1:29:20.71, 1:29:23.50, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NTaBeRu bufa4221 peepoMas TaBeRu bufa4221 peepoMas x⁣3
+Dialogue: 1:29:20.71, 1:29:23.50, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NTaBeRu bufa4221 peepoMas TaBeRu bufa4221 peepoMas x⁣3
 Dialogue: 1:29:21.05, 1:29:23.30, Default, {\c&H2222B2&}redispaint{\c&HFFFFFF&}: Kreygasm Kreygasm
 Dialogue: 1:29:22.02, 1:29:24.20, Default, {\c&HFF901E&}zheleck{\c&HFFFFFF&}: BSUDance x⁣9
 Dialogue: 1:29:22.04, 1:29:24.19, Default, {\c&H2222B2&}ChemleXVl{\c&HFFFFFF&}: TaBeRu x⁣6
@@ -4900,7 +4900,7 @@ Dialogue: 1:29:25.92, 1:29:28.07, Default, {\c&HA09E5F&}dee_wheatenhead{\c&HFFFF
 Dialogue: 1:29:25.95, 1:29:28.37, Default, {\c&HFFFFFF&}oxko_mari{\c&HFFFFFF&}: уаааауауууаааауауауаааауаааа
 Dialogue: 1:29:26.25, 1:29:28.43, Default, {\c&HFFFFFF&}sirsir1234{\c&HFFFFFF&}: BSUDance x⁣7
 Dialogue: 1:29:26.29, 1:29:29.05, Default, {\c&H507FFF&}NekoNic0le{\c&HFFFFFF&}: MmmHmm peepoMas MmmHmm peepoMas x⁣2 MmmHmm \NpeepoMas
-; Dialogue: 1:29:26.44, 1:29:29.61, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NTaBeRu bufa4221 peepoMas TaBeRu bufa4221 peepoMas x⁣3 TaBeRu \Nbufa4221 peepoMas
+Dialogue: 1:29:26.44, 1:29:29.61, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NTaBeRu bufa4221 peepoMas TaBeRu bufa4221 peepoMas x⁣3 TaBeRu \Nbufa4221 peepoMas
 Dialogue: 1:29:26.74, 1:29:28.92, Default, {\c&HFF901E&}zheleck{\c&HFFFFFF&}: BSUDance x⁣6
 Dialogue: 1:29:26.84, 1:29:28.99, Default, {\c&HFFFFFF&}1annexa1{\c&HFFFFFF&}: TaBeRu x⁣4
 Dialogue: 1:29:27.30, 1:29:29.57, Default, {\c&HFFFFFF&}ExpectGames5{\c&HFFFFFF&}: jstNotLikeThis x⁣3
@@ -4927,11 +4927,11 @@ Dialogue: 1:29:31.06, 1:29:33.21, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}:
 Dialogue: 1:29:31.31, 1:29:33.49, Default, {\c&HFF901E&}zheleck{\c&HFFFFFF&}: BSUDance x⁣9
 Dialogue: 1:29:31.66, 1:29:34.42, Default, {\c&HFFFFFF&}jingle_bells_s_gory{\c&HFFFFFF&}: peepoJAM MmmHmm peepoJAM MmmHmm x⁣2 \NpeepoJAM MmmHmm
 Dialogue: 1:29:32.90, 1:29:35.08, Default, {\c&HFFFFFF&}darth_pepega{\c&HFFFFFF&}: peepoMas x⁣4
-; Dialogue: 1:29:33.02, 1:29:35.81, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NTaBeRu bufa4221 peepoMas TaBeRu bufa4221 peepoMas x⁣3
+Dialogue: 1:29:33.02, 1:29:35.81, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NTaBeRu bufa4221 peepoMas TaBeRu bufa4221 peepoMas x⁣3
 Dialogue: 1:29:33.14, 1:29:35.29, Default, {\c&HB469FF&}iiiKyro{\c&HFFFFFF&}: TaBeRu x⁣7
 Dialogue: 1:29:33.49, 1:29:36.13, Default, {\c&HFF0000&}darkuz911{\c&HFFFFFF&}: армия даёт в 2к20 даёт что-то полезное KEKW
 ; Dialogue: 1:29:33.79, 1:29:36.28, Default, {\c&H008000&}pigeonincap{\c&HFFFFFF&}: !откуда с горы @thedrhax а ну Pog
-; Dialogue: 1:29:33.93, 1:29:36.78, Default, {\c&H0000FF&}CapmFire_Games{\c&HFFFFFF&}: \NBSUDance bufaLove BSUDance bufaLove BSUDance bufaLove x⁣3
+Dialogue: 1:29:33.93, 1:29:36.78, Default, {\c&H0000FF&}CapmFire_Games{\c&HFFFFFF&}: \NBSUDance bufaLove BSUDance bufaLove BSUDance bufaLove x⁣3
 Dialogue: 1:29:34.03, 1:29:36.21, Default, {\c&HFFFFFF&}klim3000{\c&HFFFFFF&}: BSUDance x⁣6
 ; Dialogue: 1:29:34.16, 1:29:38.41, Default, {\c&H008000&}TheDrHaxBot{\c&HFFFFFF&}: @pigeonincap, @thedrhax, во время новогодних \Nпраздников Артур включает в конце стрима Jingle Bells в \Nпереводе Володарского bsu.us.to/518751002?at=1352
 Dialogue: 1:29:34.28, 1:29:36.40, Default, {\c&H20A5DA&}waaldamar{\c&HFFFFFF&}: peepoMas
@@ -4970,7 +4970,7 @@ Dialogue: 1:29:45.09, 1:29:47.64, Default, {\c&H008000&}nezateynik{\c&HFFFFFF&}:
 Dialogue: 1:29:45.13, 1:29:47.32, Default, {\c&H0000FF&}YuraDaim{\c&HFFFFFF&}: BSUDance x⁣12
 Dialogue: 1:29:45.25, 1:29:47.43, Default, {\c&HFF901E&}zheleck{\c&HFFFFFF&}: BSUDance x⁣9
 Dialogue: 1:29:45.31, 1:29:47.40, Default, {\c&H0000FF&}darkinkat26{\c&HFFFFFF&}: peepoT
-; Dialogue: 1:29:45.63, 1:29:48.80, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NTaBeRu bufa4221 peepoMas TaBeRu bufa4221 peepoMas x⁣2 TaBeRu \Nbufa4221 peepoMas
+Dialogue: 1:29:45.63, 1:29:48.80, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NTaBeRu bufa4221 peepoMas TaBeRu bufa4221 peepoMas x⁣2 TaBeRu \Nbufa4221 peepoMas
 Dialogue: 1:29:45.84, 1:29:48.02, Default, {\c&HFFFFFF&}darth_pepega{\c&HFFFFFF&}: peepoRun x⁣4
 Dialogue: 1:29:46.50, 1:29:48.74, Default, {\c&HA09E5F&}dee_wheatenhead{\c&HFFFFFF&}: пол чата зевнуло
 Dialogue: 1:29:46.57, 1:29:48.90, Default, {\c&HFFFFFF&}glossaria{\c&HFFFFFF&}: А чего это происходит?
@@ -4984,7 +4984,7 @@ Dialogue: 1:29:49.30, 1:29:51.48, Default, {\c&HFFFFFF&}don_vladio{\c&HFFFFFF&}:
 Dialogue: 1:29:49.46, 1:29:51.64, Default, {\c&HFF901E&}zheleck{\c&HFFFFFF&}: BSUDance x⁣3
 Dialogue: 1:29:49.62, 1:29:51.78, Default, {\c&HFFFFFF&}oxko_mari{\c&HFFFFFF&}: OhMyDog x⁣4
 Dialogue: 1:29:50.07, 1:29:52.25, Default, {\c&HFFFFFF&}FareWe1l{\c&HFFFFFF&}: BSUDance x⁣6
-; Dialogue: 1:29:50.51, 1:29:53.63, Default, {\c&H0000FF&}CapmFire_Games{\c&HFFFFFF&}: \NBSUDance bufaLove BSUDance bufaLove BSUDance bufaLove x⁣3 \NBSUDance bufaLove
+Dialogue: 1:29:50.51, 1:29:53.63, Default, {\c&H0000FF&}CapmFire_Games{\c&HFFFFFF&}: \NBSUDance bufaLove BSUDance bufaLove BSUDance bufaLove x⁣3 \NBSUDance bufaLove
 Dialogue: 1:29:50.70, 1:29:52.88, Default, {\c&H578B2E&}summuellin{\c&HFFFFFF&}: peepoJAM x⁣6
 Dialogue: 1:29:50.72, 1:29:53.36, Default, {\c&HFF901E&}PhantomRU{\c&HFFFFFF&}: peepoMas MmmHmm BSUDance TaBeRu BSUFlex x⁣5
 Dialogue: 1:29:50.98, 1:29:53.16, Default, {\c&HFF901E&}zheleck{\c&HFFFFFF&}: BSUDance x⁣6
@@ -4997,7 +4997,7 @@ Dialogue: 1:29:52.47, 1:29:54.75, Default, {\c&HFFFFFF&}pPierr0{\c&HFFFFFF&}: Se
 Dialogue: 1:29:52.60, 1:29:54.66, Default, {\c&HFFFFFF&}dren69{\c&HFFFFFF&}: клип
 Dialogue: 1:29:53.35, 1:29:55.53, Default, {\c&HFF901E&}zheleck{\c&HFFFFFF&}: BSUDance x⁣6
 Dialogue: 1:29:53.56, 1:29:55.71, Default, {\c&HFFFFFF&}matsurina_chan{\c&HFFFFFF&}: это вызов7
-; Dialogue: 1:29:53.84, 1:29:56.63, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NTaBeRu bufa4221 peepoMas TaBeRu bufa4221 peepoMas x⁣3
+Dialogue: 1:29:53.84, 1:29:56.63, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NTaBeRu bufa4221 peepoMas TaBeRu bufa4221 peepoMas x⁣3
 Dialogue: 1:29:54.33, 1:29:56.52, Default, {\c&H7FFF00&}Infraider{\c&HFFFFFF&}: BSUDance x⁣16
 Dialogue: 1:29:54.65, 1:29:56.83, Default, {\c&HFF901E&}zheleck{\c&HFFFFFF&}: BSUDance x⁣3
 Dialogue: 1:29:54.71, 1:29:56.81, Default, {\c&HB469FF&}JmixM{\c&HFFFFFF&}: HahaCat
@@ -5032,7 +5032,7 @@ Dialogue: 1:30:03.48, 1:30:05.66, Default, {\c&HFF901E&}zheleck{\c&HFFFFFF&}: BS
 Dialogue: 1:30:03.56, 1:30:05.75, Default, {\c&H2222B2&}Wolfr1k{\c&HFFFFFF&}: BSUDance x⁣11
 Dialogue: 1:30:04.36, 1:30:07.45, Default, {\c&H008000&}pigeonincap{\c&HFFFFFF&}: BSUDance peepoMas BSUDance NODDERS BSUDance pee\NpoMas BSUDance NODDERS x⁣3
 Dialogue: 1:30:04.53, 1:30:06.71, Default, {\c&HFF901E&}zheleck{\c&HFFFFFF&}: BSUDance x⁣3
-; Dialogue: 1:30:04.57, 1:30:07.74, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NTaBeRu bufa4221 peepoMas TaBeRu bufa4221 peepoMas x⁣3 TaBeRu \Nbufa4221 peepoMas
+Dialogue: 1:30:04.57, 1:30:07.74, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NTaBeRu bufa4221 peepoMas TaBeRu bufa4221 peepoMas x⁣3 TaBeRu \Nbufa4221 peepoMas
 Dialogue: 1:30:04.86, 1:30:07.38, Default, {\c&H507FFF&}NekoNic0le{\c&HFFFFFF&}: MmmHmm peepoMas MmmHmm peepoMas x⁣3
 Dialogue: 1:30:05.01, 1:30:07.19, Default, {\c&H0045FF&}MrShotBox{\c&HFFFFFF&}: BSUDance x⁣7
 Dialogue: 1:30:05.73, 1:30:07.89, Default, {\c&H7FFF00&}Lipisiin{\c&HFFFFFF&}: TaBeRu x⁣17
@@ -10193,7 +10193,7 @@ Dialogue: 3:08:48.55, 3:08:50.67, Default, {\c&HFF0000&}xom94ok{\c&HFFFFFF&}: Lu
 Dialogue: 3:08:51.91, 3:08:54.22, Default, {\c&H32CD9A&}Leodamant{\c&HFFFFFF&}: 2020Selfie 2020Selfie
 Dialogue: 3:08:52.29, 3:08:54.38, Default, {\c&HFF0000&}gfi83{\c&HFFFFFF&}: <3 x⁣8
 Dialogue: 3:08:52.34, 3:08:54.76, Default, {\c&HFFFFFF&}leviysosock{\c&HFFFFFF&}: Решителен в 0 лет BloodTrail
-; Dialogue: 3:08:53.40, 3:08:56.67, Default, {\c&H1E69D2&}pro100toptrader{\c&HFFFFFF&}: \NPridePenguin KPOPheart PridePenguin KPOPheart x⁣2 \NPridePenguin KPOPheart PridePenguin
+Dialogue: 3:08:53.40, 3:08:56.67, Default, {\c&H1E69D2&}pro100toptrader{\c&HFFFFFF&}: \NPridePenguin KPOPheart PridePenguin KPOPheart x⁣2 \NPridePenguin KPOPheart PridePenguin
 Dialogue: 3:08:54.15, 3:08:56.66, Default, {\c&H008000&}PaRazZzitMraK{\c&HFFFFFF&}: Silverhand ItsHappening Johnny2077
 Dialogue: 3:08:54.53, 3:08:56.74, Default, {\c&HFF0000&}blackoren56{\c&HFFFFFF&}: Johnny2077 x⁣4
 Dialogue: 3:08:55.46, 3:08:58.01, Default, {\c&HFF901E&}Ikar94{\c&HFFFFFF&}: безвольный и невнимательный. понятнол
@@ -20352,7 +20352,7 @@ Dialogue: 7:20:25.17, 7:20:27.81, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFF
 Dialogue: 7:20:25.32, 7:20:27.47, Default, {\c&HFF0000&}blackoren56{\c&HFFFFFF&}: TaBeRu x⁣6
 Dialogue: 7:20:25.63, 7:20:28.56, Default, {\c&H20A5DA&}Aleksei_Alter_{\c&HFFFFFF&}: mcaT x⁣3 2020SpeakUp x⁣3 DarkMode \NHolidayTree x⁣3 StinkyGlitch
 Dialogue: 7:20:26.90, 7:20:29.15, Default, {\c&HFFFFFF&}DanteFromTheMorrowind{\c&HFFFFFF&}: peepoBye peepoMas
-; Dialogue: 7:20:27.79, 7:20:30.61, Default, {\c&H507FFF&}NekoNic0le{\c&HFFFFFF&}: \NpeepoMas peepoClap MmmHmm peepoMas peepoClap MmmHmm x⁣3
+Dialogue: 7:20:27.79, 7:20:30.61, Default, {\c&H507FFF&}NekoNic0le{\c&HFFFFFF&}: \NpeepoMas peepoClap MmmHmm peepoMas peepoClap MmmHmm x⁣3
 Dialogue: 7:20:29.35, 7:20:32.37, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}: второй раз в телевизоре показали, как же я хорош \NDealWithIt bufaLove
 Dialogue: 7:20:30.43, 7:20:32.61, Default, {\c&HFFFFFF&}marsianka_somni{\c&HFFFFFF&}: это феерично
 Dialogue: 7:20:31.16, 7:20:33.34, Default, {\c&HFF901E&}alter_67{\c&HFFFFFF&}: peepoMas x⁣8
@@ -20369,7 +20369,7 @@ Dialogue: 7:20:39.37, 7:20:41.55, Default, {\c&HE22B8A&}ashes06{\c&HFFFFFF&}: pe
 Dialogue: 7:20:39.45, 7:20:41.69, Default, {\c&HFFFFFF&}Hitagara{\c&HFFFFFF&}: peepoGiggles x⁣4
 Dialogue: 7:20:39.96, 7:20:42.29, Default, {\c&HFF901E&}pirojika{\c&HFFFFFF&}: peepoMas peepoClap x⁣2
 Dialogue: 7:20:41.04, 7:20:43.37, Default, {\c&H507FFF&}NekoNic0le{\c&HFFFFFF&}: @black_stas, pepeSmack
-; Dialogue: 7:20:41.15, 7:20:44.45, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NpeepoMas monkaSTEER peepoMas monkaSTEER peepoMas monkaSTEER \Nx⁣2 peepoMas monkaSTEER x⁣2
+Dialogue: 7:20:41.15, 7:20:44.45, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NpeepoMas monkaSTEER peepoMas monkaSTEER peepoMas monkaSTEER \Nx⁣2 peepoMas monkaSTEER x⁣2
 Dialogue: 7:20:42.10, 7:20:44.25, Default, {\c&HE22B8A&}TheDrHax{\c&HFFFFFF&}: MmmHmm x⁣4
 Dialogue: 7:20:43.91, 7:20:46.00, Default, {\c&HFFFFFF&}gendos98{\c&HFFFFFF&}: SoRage
 Dialogue: 7:20:43.95, 7:20:46.07, Default, {\c&HFFFFFF&}marsianka_somni{\c&HFFFFFF&}: PixelBob
@@ -20435,7 +20435,7 @@ Dialogue: 7:21:33.65, 7:21:35.83, Default, {\c&HFFFFFF&}Bratvaable{\c&HFFFFFF&}:
 Dialogue: 7:21:34.87, 7:21:37.23, Default, {\c&HFFFFFF&}mefazim{\c&HFFFFFF&}: пока чат, споки bufaLove
 Dialogue: 7:21:36.81, 7:21:39.14, Default, {\c&HFF901E&}pirojika{\c&HFFFFFF&}: peepoMas peepoClap x⁣3
 Dialogue: 7:21:36.81, 7:21:38.94, Default, {\c&HFFFFFF&}vladiskor_tw{\c&HFFFFFF&}: peepoClap
-; Dialogue: 7:21:37.53, 7:21:40.83, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NpeepoMas monkaSTEER peepoMas monkaSTEER peepoMas monkaSTEER \Nx⁣2 peepoMas monkaSTEER x⁣2
+Dialogue: 7:21:37.53, 7:21:40.83, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NpeepoMas monkaSTEER peepoMas monkaSTEER peepoMas monkaSTEER \Nx⁣2 peepoMas monkaSTEER x⁣2
 Dialogue: 7:21:38.35, 7:21:42.84, Default, {\c&H20A5DA&}Aleksei_Alter_{\c&HFFFFFF&}: HolidaySanta HolidayPresent HolidayLog \NHolidayOrnament HolidaySanta HolidayPresent HolidayOrnament \NHolidayLog Kreygasm x⁣3 doiiiuPryanik \NdoiiiuPryanik 2020SpeakUp x⁣2
 Dialogue: 7:21:38.73, 7:21:41.10, Default, {\c&HE22B8A&}deadninja{\c&HFFFFFF&}: а можно фотографию мотыги
 Dialogue: 7:21:38.80, 7:21:42.54, Default, {\c&HFF901E&}dragon_rider1017{\c&HFFFFFF&}: HolidayTree x⁣3 HolidaySanta x⁣3 \NHolidayPresent HolidayPresent HolidayOrnament \NHolidayOrnament HolidayLog HolidayLog

@@ -1655,7 +1655,7 @@ Dialogue: 0:15:32.64, 0:15:34.73, Default, {\c&HFFFFFF&}PoliSpace{\c&HFFFFFF&}: 
 Dialogue: 0:15:32.77, 0:15:34.87, Default, {\c&HFFFFFF&}alferat{\c&HFFFFFF&}: LUL x⁣3
 Dialogue: 0:15:32.98, 0:15:35.11, Default, {\c&H0000FF&}Nezhno_Sumrak{\c&HFFFFFF&}: Ля вердин
 Dialogue: 0:15:33.23, 0:15:35.41, Default, {\c&HFFFFFF&}yanabananaa{\c&HFFFFFF&}: bufaDoom x⁣3
-; Dialogue: 0:15:33.33, 0:15:36.14, Default, {\c&HFF0000&}StrimanSSSS{\c&HFFFFFF&}: \NBSUFlex BSUDance BSUFlex BSUDance BSUFlex BSUDance x⁣3
+Dialogue: 0:15:33.33, 0:15:36.14, Default, {\c&HFF0000&}StrimanSSSS{\c&HFFFFFF&}: \NBSUFlex BSUDance BSUFlex BSUDance BSUFlex BSUDance x⁣3
 Dialogue: 0:15:33.91, 0:15:35.95, Default, {\c&HFF901E&}sonet_3x9{\c&HFFFFFF&}: Ода
 Dialogue: 0:15:33.92, 0:15:36.10, Default, {\c&H0000FF&}KamiSama256{\c&HFFFFFF&}: Kreygasm x⁣3
 Dialogue: 0:15:34.45, 0:15:36.55, Default, {\c&H0000FF&}eruhara{\c&HFFFFFF&}: LUL x⁣4
@@ -20105,7 +20105,7 @@ Dialogue: 5:29:29.49, 5:29:31.74, Default, {\c&HB469FF&}fenikseez{\c&HFFFFFF&}: 
 Dialogue: 5:29:29.57, 5:29:32.89, Default, {\c&H008000&}psiologabr{\c&HFFFFFF&}: Лучше бы сделали закрытую комнату откуда враги \Nнабегали бы в случае срабатывания скрипта
 Dialogue: 5:29:29.69, 5:29:32.02, Default, {\c&HFFFFFF&}bonni22a{\c&HFFFFFF&}: мимо evosayNaRu4ki x⁣3
 Dialogue: 5:29:33.45, 5:29:35.67, Default, {\c&H7FFF00&}sadshlyapa{\c&HFFFFFF&}: cmkFeck cmkFeck
-; Dialogue: 5:29:34.42, 5:29:37.54, Default, {\c&H0045FF&}SmokeyMonstr{\c&HFFFFFF&}: \NbufaSubHype bufaBobchan bufaSubHype bufaBobchan x⁣2 \NbufaSubHype bufaBobchan
+Dialogue: 5:29:34.42, 5:29:37.54, Default, {\c&H0045FF&}SmokeyMonstr{\c&HFFFFFF&}: \NbufaSubHype bufaBobchan bufaSubHype bufaBobchan x⁣2 \NbufaSubHype bufaBobchan
 Dialogue: 5:29:36.04, 5:29:38.17, Default, {\c&HFFFFFF&}dinamotr{\c&HFFFFFF&}: BSUWasted
 Dialogue: 5:29:38.16, 5:29:40.31, Default, {\c&HFF0000&}Whitegoldensofa{\c&HFFFFFF&}: увернулась
 Dialogue: 5:29:43.14, 5:29:45.36, Default, {\c&HFF901E&}kotobaza_{\c&HFFFFFF&}: Распятие ставь!
@@ -21194,7 +21194,7 @@ Dialogue: 6:18:31.53, 6:18:33.66, Default, {\c&HFFFFFF&}spirtik_{\c&HFFFFFF&}: S
 Dialogue: 6:18:31.66, 6:18:33.75, Default, {\c&HFFFFFF&}OlgaLunauta{\c&HFFFFFF&}: <3 x⁣5
 Dialogue: 6:18:32.49, 6:18:34.67, Default, {\c&HFFFFFF&}Emil_rafii{\c&HFFFFFF&}: GayPride x⁣4
 Dialogue: 6:18:32.66, 6:18:35.32, Default, {\c&HA09E5F&}Severnaya_Utka{\c&HFFFFFF&}: @sova_svetka, Дно бездонно как говориться х)
-; Dialogue: 6:18:33.04, 6:18:36.16, Default, {\c&H0000FF&}killerlot{\c&HFFFFFF&}: \NbufaLove jstLove bufaLove jstLove bufaLove jstLove x⁣2 \NbufaLove jstLove x⁣2
+Dialogue: 6:18:33.04, 6:18:36.16, Default, {\c&H0000FF&}killerlot{\c&HFFFFFF&}: \NbufaLove jstLove bufaLove jstLove bufaLove jstLove x⁣2 \NbufaLove jstLove x⁣2
 Dialogue: 6:18:35.04, 6:18:37.43, Default, {\c&HD3D5D8&}Yukioru_K{\c&HFFFFFF&}: @BlackUFA 2D bufaAYAYA x⁣3
 Dialogue: 6:18:36.03, 6:18:38.12, Default, {\c&HFFFFFF&}Kiranessa{\c&HFFFFFF&}: <3 x⁣6
 Dialogue: 6:18:37.47, 6:18:39.72, Default, {\c&H0045FF&}Aleks_Lightning{\c&HFFFFFF&}: Она скушная капец
@@ -21327,7 +21327,7 @@ Dialogue: 6:20:15.84, 6:20:18.15, Default, {\c&H0000FF&}Reysant{\c&HFFFFFF&}: @m
 Dialogue: 6:20:16.29, 6:20:18.53, Default, {\c&HFFFFFF&}sotlef{\c&HFFFFFF&}: Алина уже играет
 Dialogue: 6:20:16.59, 6:20:18.74, Default, {\c&H008000&}nezateynik{\c&HFFFFFF&}: peepoLeave
 Dialogue: 6:20:16.82, 6:20:18.97, Default, {\c&HFF0000&}blackoren56{\c&HFFFFFF&}: TaBeRu x⁣6
-; Dialogue: 6:20:17.01, 6:20:20.31, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NpeepoJAM BSUDance dogeDance peepoJAM BSUDance dogeDance x⁣2 \NpeepoJAM BSUDance dogeDance
+Dialogue: 6:20:17.01, 6:20:20.31, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NpeepoJAM BSUDance dogeDance peepoJAM BSUDance dogeDance x⁣2 \NpeepoJAM BSUDance dogeDance
 Dialogue: 6:20:19.02, 6:20:21.18, Default, {\c&HFFFFFF&}Jiflak{\c&HFFFFFF&}: покеда всем
 ; Dialogue: 6:20:19.88, 6:20:24.88, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Новая расстановка эмоутов на канале! Подписчики с \NTier 2 и Tier 3 получают эксклюзивные наборы! В Tier 1 \Nвернулись Думгай и Дон Аптипо! https://twitter.com/Sempai_Bl\Nack/status/1286270026304151553/photo/1
 Dialogue: 6:20:23.06, 6:20:25.31, Default, {\c&H0000FF&}Reysant{\c&HFFFFFF&}: @reysant, завтра*
@@ -21339,7 +21339,7 @@ Dialogue: 6:20:28.70, 6:20:31.09, Default, {\c&HFFFFFF&}gaechka96{\c&HFFFFFF&}: 
 Dialogue: 6:20:34.09, 6:20:36.61, Default, {\c&HFFFFFF&}sova_svetka{\c&HFFFFFF&}: @Severnaya_Utka на что я нарываюсь?
 Dialogue: 6:20:36.62, 6:20:38.75, Default, {\c&HFFFFFF&}vladiskor_tw{\c&HFFFFFF&}: Пока асем
 Dialogue: 6:20:38.43, 6:20:41.78, Default, {\c&HFFFFFF&}brujadeamor{\c&HFFFFFF&}: @sova_svetka иделаьно, тогда надо только от еще \Nпретендентов на его тушку того..избавится)
-; Dialogue: 6:20:45.46, 6:20:48.34, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NpeepoJAM BSUDance dogeDance peepoJAM BSUDance dogeDance x⁣3
+Dialogue: 6:20:45.46, 6:20:48.34, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \NpeepoJAM BSUDance dogeDance peepoJAM BSUDance dogeDance x⁣3
 Dialogue: 6:20:48.01, 6:20:51.78, Default, {\c&H507FFF&}manetera{\c&HFFFFFF&}: TaBeRu PepoDance BSUDance TaBeRu PepoDance BSUDanc\Ne TaBeRu PepoDance BSUDance x⁣3 TaBeRu PepoDance BSUDance \Nx⁣2 TaBeRu
 Dialogue: 6:20:55.17, 6:20:57.32, Default, {\c&HFF0000&}blackoren56{\c&HFFFFFF&}: TaBeRu x⁣6
 Dialogue: 6:20:55.30, 6:20:57.87, Default, {\c&HA09E5F&}Severnaya_Utka{\c&HFFFFFF&}: @sova_svetka, А вот это ты мне ответь!

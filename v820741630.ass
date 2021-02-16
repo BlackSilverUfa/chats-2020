@@ -1219,7 +1219,7 @@ Dialogue: 0:14:52.10, 0:14:54.49, Default, {\c&H7FFF00&}TAPAKAH_POKEP{\c&HFFFFFF
 Dialogue: 0:14:53.34, 0:14:55.46, Default, {\c&H0A6FC2&}TheHorusLupercal{\c&HFFFFFF&}: PagChomp
 Dialogue: 0:14:54.25, 0:14:56.43, Default, {\c&H008000&}sabotenda{\c&HFFFFFF&}: bufaLove x⁣4
 Dialogue: 0:14:54.87, 0:14:57.05, Default, {\c&H0000FF&}SanyaJapan{\c&HFFFFFF&}: Kreygasm x⁣3
-; Dialogue: 0:14:54.94, 0:14:58.12, Default, {\c&H0000FF&}killerlot{\c&HFFFFFF&}: \NBSUWasted CatEyes BSUWasted CatEyes BSUWasted CatEyes x⁣2 \NBSUWasted CatEyes x⁣2
+Dialogue: 0:14:54.94, 0:14:58.12, Default, {\c&H0000FF&}killerlot{\c&HFFFFFF&}: \NBSUWasted CatEyes BSUWasted CatEyes BSUWasted CatEyes x⁣2 \NBSUWasted CatEyes x⁣2
 Dialogue: 0:14:55.03, 0:14:57.18, Default, {\c&HFFFFFF&}akulich123{\c&HFFFFFF&}: PurpleStar
 Dialogue: 0:14:55.33, 0:14:57.55, Default, {\c&H7FFF00&}belka_pirozhok{\c&HFFFFFF&}: TwitchUnity x⁣3
 Dialogue: 0:14:55.57, 0:14:57.66, Default, {\c&HFFFFFF&}mefazim{\c&HFFFFFF&}: <3 x⁣6
@@ -1304,7 +1304,7 @@ Dialogue: 0:15:07.25, 0:15:09.34, Default, {\c&HFFFFFF&}Penguinishko{\c&HFFFFFF&
 Dialogue: 0:15:07.30, 0:15:09.39, Default, {\c&HFFFFFF&}sishok346{\c&HFFFFFF&}: <3 x⁣4
 Dialogue: 0:15:07.33, 0:15:09.75, Default, {\c&HB469FF&}JessPersi{\c&HFFFFFF&}: bufaSubHype x⁣6 bufaLove x⁣3
 Dialogue: 0:15:07.58, 0:15:10.28, Default, {\c&HA09E5F&}andeniel{\c&HFFFFFF&}: @WELOVEGAMES вау вау вау!) Я тоже твой подписюн
-; Dialogue: 0:15:07.97, 0:15:11.27, Default, {\c&HFF0000&}mr_nonsab{\c&HFFFFFF&}: \NSquid1 TheIlluminati Squid4 Squid1 TheIlluminati Squid4 x⁣3 \NSquid1 TheIlluminati Squid4
+Dialogue: 0:15:07.97, 0:15:11.27, Default, {\c&HFF0000&}mr_nonsab{\c&HFFFFFF&}: \NSquid1 TheIlluminati Squid4 Squid1 TheIlluminati Squid4 x⁣3 \NSquid1 TheIlluminati Squid4
 Dialogue: 0:15:08.00, 0:15:10.09, Default, {\c&H32CD9A&}da_shick{\c&HFFFFFF&}: <3 x⁣7
 Dialogue: 0:15:08.09, 0:15:11.03, Default, {\c&H0000FF&}Mental_Massacre{\c&HFFFFFF&}: @jmixm, @darth_imperiius @einars \N@demonic_smile @strimanssss <3
 Dialogue: 0:15:08.18, 0:15:10.28, Default, {\c&H507FFF&}manetera{\c&HFFFFFF&}: <3 x⁣10
@@ -1981,7 +1981,7 @@ Dialogue: 0:24:42.99, 0:24:45.05, Default, {\c&HFFFFFF&}LessThanZer00{\c&HFFFFFF
 Dialogue: 0:24:43.96, 0:24:46.15, Default, {\c&H0000FF&}Tanya_MONSTER_Games{\c&HFFFFFF&}: hobbPega x⁣11
 Dialogue: 0:24:45.23, 0:24:47.59, Default, {\c&H0045FF&}foxyfromsevast{\c&HFFFFFF&}: Артур, пожалуйста,хватит
 Dialogue: 0:24:45.82, 0:24:48.07, Default, {\c&HE22B8A&}Bambelte_black{\c&HFFFFFF&}: PixelBob PixelBob
-; Dialogue: 0:24:46.04, 0:24:48.86, Default, {\c&H507FFF&}manetera{\c&HFFFFFF&}: \NPepoDance BSUDance TaBeRu PepoDance BSUDance TaBeRu x⁣3
+Dialogue: 0:24:46.04, 0:24:48.86, Default, {\c&H507FFF&}manetera{\c&HFFFFFF&}: \NPepoDance BSUDance TaBeRu PepoDance BSUDance TaBeRu x⁣3
 Dialogue: 0:24:46.31, 0:24:48.37, Default, {\c&HFF0000&}StrimanSSSS{\c&HFFFFFF&}: KEKW
 Dialogue: 0:24:47.13, 0:24:49.31, Default, {\c&HFFFFFF&}dimonpokimon4ik{\c&HFFFFFF&}: bufaPuke x⁣3
 Dialogue: 0:24:48.48, 0:24:50.81, Default, {\c&H20A5DA&}shpiil{\c&HFFFFFF&}: она ведь на сеге была?
@@ -2259,7 +2259,7 @@ Dialogue: 0:28:44.92, 0:28:46.96, Default, {\c&H507FFF&}malinkakrasna{\c&HFFFFFF
 Dialogue: 0:28:47.15, 0:28:49.63, Default, {\c&H7FFF00&}green_muffin789{\c&HFFFFFF&}: @dariya_willis именно KappaPride
 Dialogue: 0:28:47.47, 0:28:49.72, Default, {\c&H32CD9A&}Funvit{\c&HFFFFFF&}: жо мапель Харчек?
 Dialogue: 0:28:48.40, 0:28:51.28, Default, {\c&HE22B8A&}bZdiggeR{\c&HFFFFFF&}: @Kilka_v_Domkrate да, я, привет, игра классная, \Nолдскуловая
-; Dialogue: 0:28:49.06, 0:28:52.36, Default, {\c&HFF0000&}mr_nonsab{\c&HFFFFFF&}: \NSquid1 TheIlluminati Squid4 Squid1 TheIlluminati Squid4 x⁣2 \NSquid1 TheIlluminati Squid4
+Dialogue: 0:28:49.06, 0:28:52.36, Default, {\c&HFF0000&}mr_nonsab{\c&HFFFFFF&}: \NSquid1 TheIlluminati Squid4 Squid1 TheIlluminati Squid4 x⁣2 \NSquid1 TheIlluminati Squid4
 ; Dialogue: 0:28:49.34, 0:28:51.40, Default, {\c&HFF0000&}Gwyn_29{\c&HFFFFFF&}: !war
 ; Dialogue: 0:28:49.52, 0:28:53.90, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Cегодняшние донаты по ссылке: \Nhttps://www.donationalerts.com/r/blackufa_twitch будут \Nцеликом отправлены на подарочные подписки! Нонсабия падет! \NСлавься, Сабия!
 Dialogue: 0:28:50.58, 0:28:53.19, Default, {\c&HFF0000&}mamka_dan{\c&HFFFFFF&}: @call_me_dead_dyadya Привет! FeelsLoveMan
@@ -2880,7 +2880,7 @@ Dialogue: 0:38:15.28, 0:38:17.43, Default, {\c&H7FFF00&}sabito_ow{\c&HFFFFFF&}: 
 Dialogue: 0:38:16.99, 0:38:19.33, Default, {\c&HB469FF&}GlebBio{\c&HFFFFFF&}: @BlackUFA а стримерок?)
 Dialogue: 0:38:19.92, 0:38:21.98, Default, {\c&HFF0000&}StrimanSSSS{\c&HFFFFFF&}: KEKW
 Dialogue: 0:38:21.82, 0:38:24.18, Default, {\c&HFFFFFF&}dimonpokimon4ik{\c&HFFFFFF&}: прям как Артур LUL Kappa
-; Dialogue: 0:38:22.45, 0:38:25.75, Default, {\c&HFF0000&}mr_nonsab{\c&HFFFFFF&}: \NSquid1 TheIlluminati Squid4 Squid1 TheIlluminati Squid4 x⁣3 \NSquid1 TheIlluminati Squid4
+Dialogue: 0:38:22.45, 0:38:25.75, Default, {\c&HFF0000&}mr_nonsab{\c&HFFFFFF&}: \NSquid1 TheIlluminati Squid4 Squid1 TheIlluminati Squid4 x⁣3 \NSquid1 TheIlluminati Squid4
 Dialogue: 0:38:23.31, 0:38:25.71, Default, {\c&HA09E5F&}RisuNya{\c&HFFFFFF&}: @ObiSanShinobi нян bufaOops
 Dialogue: 0:38:26.05, 0:38:28.53, Default, {\c&H0000FF&}1maanul{\c&HFFFFFF&}: прокачанная версия джека шепарда
 Dialogue: 0:38:27.38, 0:38:29.50, Default, {\c&HFF901E&}deamorbus{\c&HFFFFFF&}: Ягер пил
@@ -3154,7 +3154,7 @@ Dialogue: 0:42:45.98, 0:42:50.27, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFF
 Dialogue: 0:42:48.97, 0:42:51.10, Default, {\c&H008000&}afkbymep{\c&HFFFFFF&}: pepeSmack
 Dialogue: 0:42:49.59, 0:42:51.80, Default, {\c&HA09E5F&}Justjojo0{\c&HFFFFFF&}: война - умерли
 ; Dialogue: 0:42:50.21, 0:42:52.27, Default, {\c&H7FFF00&}Gidyara{\c&HFFFFFF&}: !вор
-; Dialogue: 0:42:50.22, 0:42:53.52, Default, {\c&HFF0000&}mr_nonsab{\c&HFFFFFF&}: \NSquid1 TheIlluminati Squid4 Squid1 TheIlluminati Squid4 x⁣2 \NSquid1 TheIlluminati Squid4
+Dialogue: 0:42:50.22, 0:42:53.52, Default, {\c&HFF0000&}mr_nonsab{\c&HFFFFFF&}: \NSquid1 TheIlluminati Squid4 Squid1 TheIlluminati Squid4 x⁣2 \NSquid1 TheIlluminati Squid4
 Dialogue: 0:42:53.56, 0:42:55.84, Default, {\c&HFFFFFF&}fanatarturki{\c&HFFFFFF&}: сой аня неприступен
 Dialogue: 0:42:54.55, 0:42:56.68, Default, {\c&HFFFFFF&}SaintChainsaw{\c&HFFFFFF&}: "Недавно"
 Dialogue: 0:42:58.67, 0:43:01.09, Default, {\c&HFFFFFF&}AlmightyPuding{\c&HFFFFFF&}: @blackufa у игры есть сюжет?
@@ -3185,7 +3185,7 @@ Dialogue: 0:43:34.53, 0:43:37.08, Default, {\c&HFF0000&}APTOPUAC{\c&HFFFFFF&}: @
 Dialogue: 0:43:35.45, 0:43:39.04, Default, {\c&H7FFF00&}Dariya_Willis{\c&HFFFFFF&}: @BlackUFA да-да, я тоже вспоминала пройденные \NСоулс-лайк игры, когда не смогла пройти Бладрейн недавно \NLUL
 Dialogue: 0:43:38.08, 0:43:41.52, Default, {\c&HFFFFFF&}oxko_mari{\c&HFFFFFF&}: оу, чизес.. игра детства.. повелительница \Nполыхающей жёпки и причина сломанного пульта от сеги..
 Dialogue: 0:43:38.48, 0:43:40.94, Default, {\c&H0000FF&}Myhahaha{\c&HFFFFFF&}: какое оформление олдскульное)))
-; Dialogue: 0:43:39.29, 0:43:42.59, Default, {\c&HFF0000&}mr_nonsab{\c&HFFFFFF&}: \NSquid1 TheIlluminati Squid4 Squid1 TheIlluminati Squid4 x⁣2 \NSquid1 TheIlluminati Squid4
+Dialogue: 0:43:39.29, 0:43:42.59, Default, {\c&HFF0000&}mr_nonsab{\c&HFFFFFF&}: \NSquid1 TheIlluminati Squid4 Squid1 TheIlluminati Squid4 x⁣2 \NSquid1 TheIlluminati Squid4
 Dialogue: 0:43:39.79, 0:43:42.21, Default, {\c&HFFFFFF&}soplichok{\c&HFFFFFF&}: как будто это тебя волновало
 Dialogue: 0:43:41.74, 0:43:43.80, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: KEKW
 Dialogue: 0:43:41.94, 0:43:44.46, Default, {\c&H0000FF&}andrey1303_DronikMT{\c&HFFFFFF&}: не ну все я оскорбился CoolStoryBob
@@ -5849,7 +5849,7 @@ Dialogue: 1:40:43.54, 1:40:45.72, Default, {\c&H008000&}metrosiderus{\c&HFFFFFF&
 Dialogue: 1:40:46.15, 1:40:48.85, Default, {\c&H008000&}Drosurtagn{\c&HFFFFFF&}: @smenilnik Нинка победила еще в 2017ом году LUL
 Dialogue: 1:40:46.17, 1:40:48.27, Default, {\c&H0000FF&}sanguinec{\c&HFFFFFF&}: LUL x⁣3
 Dialogue: 1:40:46.56, 1:40:48.63, Default, {\c&H20A5DA&}Void_Soul__{\c&HFFFFFF&}: D: D:
-; Dialogue: 1:40:50.83, 1:40:54.13, Default, {\c&HFF0000&}mr_nonsab{\c&HFFFFFF&}: \NSquid1 TheIlluminati Squid4 Squid1 TheIlluminati Squid4 x⁣2 \NSquid1 TheIlluminati Squid4
+Dialogue: 1:40:50.83, 1:40:54.13, Default, {\c&HFF0000&}mr_nonsab{\c&HFFFFFF&}: \NSquid1 TheIlluminati Squid4 Squid1 TheIlluminati Squid4 x⁣2 \NSquid1 TheIlluminati Squid4
 Dialogue: 1:40:52.31, 1:40:54.61, Default, {\c&H32CD9A&}Evil_Toxic_Corgi{\c&HFFFFFF&}: @ruby_man, без мата!
 Dialogue: 1:40:52.91, 1:40:55.69, Default, {\c&H7FFF00&}tarhankut{\c&HFFFFFF&}: Всем привет! <3 Если что, я не хочу в Сабию \NDansGame
 Dialogue: 1:40:53.39, 1:40:55.45, Default, {\c&H0000FF&}YuraDaim{\c&HFFFFFF&}: KEKW
@@ -12778,7 +12778,7 @@ Dialogue: 4:12:01.42, 4:12:04.09, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}:
 Dialogue: 4:12:06.16, 4:12:08.82, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: @GraciSL я ничего этим не добьюсь \NbufaBaited
 Dialogue: 4:12:07.31, 4:12:09.55, Default, {\c&HFFFFFF&}4179417{\c&HFFFFFF&}: пригой, риба моя
 Dialogue: 4:12:07.40, 4:12:09.61, Default, {\c&HFFFFFF&}mefazim{\c&HFFFFFF&}: Silverhand x⁣4
-; Dialogue: 4:12:08.42, 4:12:11.32, Default, {\c&H7FFF00&}perrrrkele{\c&HFFFFFF&}: \NzululDrums BBoomer zululDrums BBoomer zululDrums BBoomer x⁣3
+Dialogue: 4:12:08.42, 4:12:11.32, Default, {\c&H7FFF00&}perrrrkele{\c&HFFFFFF&}: \NzululDrums BBoomer zululDrums BBoomer zululDrums BBoomer x⁣3
 Dialogue: 4:12:09.23, 4:12:11.35, Default, {\c&H0000FF&}moroowvals{\c&HFFFFFF&}: слева жи
 Dialogue: 4:12:09.64, 4:12:11.88, Default, {\c&H0000FF&}RedMarsel{\c&HFFFFFF&}: Как же он хорош!
 Dialogue: 4:12:10.81, 4:12:13.30, Default, {\c&H0000FF&}b210ao{\c&HFFFFFF&}: он говорит" мужик это для тебя" ?
@@ -14224,7 +14224,7 @@ Dialogue: 4:36:58.23, 4:37:00.44, Default, {\c&H7FFF00&}Anna_LaMars{\c&HFFFFFF&}
 Dialogue: 4:37:00.87, 4:37:03.23, Default, {\c&H0000FF&}MrGutlya{\c&HFFFFFF&}: @perrrrkele, все куплено
 Dialogue: 4:37:00.95, 4:37:03.46, Default, {\c&H7FFF00&}Arhiteck{\c&HFFFFFF&}: тыкай чуть быстрее и все получится
 Dialogue: 4:37:03.16, 4:37:06.06, Default, {\c&HFFFFFF&}Kvout_{\c&HFFFFFF&}: Я только под конец разобрался как большие суммы \Nставить, фак
-; Dialogue: 4:37:04.14, 4:37:07.55, Default, {\c&H008000&}Anastasya_Ch{\c&HFFFFFF&}: \NPurpleStar bufaLove PurpleStar bufaLove PurpleStar bufaLove \Nx⁣2 PurpleStar bufaLove PurpleStar
+Dialogue: 4:37:04.14, 4:37:07.55, Default, {\c&H008000&}Anastasya_Ch{\c&HFFFFFF&}: \NPurpleStar bufaLove PurpleStar bufaLove PurpleStar bufaLove \Nx⁣2 PurpleStar bufaLove PurpleStar
 ; Dialogue: 4:37:04.96, 4:37:07.02, Default, {\c&HFF901E&}owljazz{\c&HFFFFFF&}: !icq
 ; Dialogue: 4:37:05.53, 4:37:08.13, Default, {\c&H008000&}TheDrHaxBot{\c&HFFFFFF&}: @owljazz, у вас 12 ICQ (-93) MonkaChiken
 Dialogue: 4:37:06.06, 4:37:08.64, Default, {\c&H0000FF&}darth_imperiius{\c&HFFFFFF&}: Профукал 30к? Понимаааю peepoComfySleep
@@ -14769,7 +14769,7 @@ Dialogue: 4:43:15.51, 4:43:17.84, Default, {\c&HFF0000&}wizz77_xd{\c&HFFFFFF&}: 
 Dialogue: 4:43:18.26, 4:43:20.36, Default, {\c&HFFFFFF&}yukio_kuro{\c&HFFFFFF&}: LUL x⁣3
 Dialogue: 4:43:18.55, 4:43:20.76, Default, {\c&H20A5DA&}la_ruina{\c&HFFFFFF&}: ща ультану LUL
 Dialogue: 4:43:20.01, 4:43:22.07, Default, {\c&H008000&}afkbymep{\c&HFFFFFF&}: KEKW
-; Dialogue: 4:43:21.12, 4:43:24.02, Default, {\c&H507FFF&}manetera{\c&HFFFFFF&}: \NdogeDance BSUDance dogeDance BSUDance dogeDance BSUDance x⁣3
+Dialogue: 4:43:21.12, 4:43:24.02, Default, {\c&H507FFF&}manetera{\c&HFFFFFF&}: \NdogeDance BSUDance dogeDance BSUDance dogeDance BSUDance x⁣3
 Dialogue: 4:43:21.29, 4:43:23.39, Default, {\c&HFFFFFF&}tystskrik{\c&HFFFFFF&}: YouDied
 Dialogue: 4:43:21.62, 4:43:23.99, Default, {\c&HFFFFFF&}dimonpokimon4ik{\c&HFFFFFF&}: BSUDance PepoDance TaBeRu
 Dialogue: 4:43:24.23, 4:43:26.35, Default, {\c&H008000&}iaowm{\c&HFFFFFF&}: bufaOops
@@ -15140,7 +15140,7 @@ Dialogue: 4:50:39.74, 4:50:41.93, Default, {\c&H7FFF00&}Michae1Gordon{\c&HFFFFFF
 Dialogue: 4:50:41.12, 4:50:43.25, Default, {\c&H0000FF&}MrGutlya{\c&HFFFFFF&}: dead5What
 Dialogue: 4:50:42.43, 4:50:44.80, Default, {\c&H0000FF&}veteranzzz{\c&HFFFFFF&}: Не выдумывай. Оно же одно
 Dialogue: 4:50:43.11, 4:50:46.59, Default, {\c&HFF901E&}GraciSL{\c&HFFFFFF&}: CatEyes PETTHEAPTEEPO BSUWasted CatEyes PETTHEAPTEE\NPO BSUWasted x⁣2 CatEyes PETTHEAPTEEPO BSUWasted
-; Dialogue: 4:50:53.41, 4:50:56.26, Default, {\c&H507FFF&}NekoNic0le{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/ResourcefulObservantNoodlePrimeMe
+Dialogue: 4:50:53.41, 4:50:56.26, Default, {\c&H507FFF&}NekoNic0le{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/ResourcefulObservantNoodlePrimeMe
 Dialogue: 4:50:53.81, 4:50:55.99, Default, {\c&H0000FF&}Darth_Talon{\c&HFFFFFF&}: Jebaited x⁣3
 Dialogue: 4:50:54.95, 4:50:57.25, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: bufaSubHype wlg5 x⁣2
 Dialogue: 4:50:56.02, 4:50:58.14, Default, {\c&HB469FF&}Kengyryshka{\c&HFFFFFF&}: Хочу бан
@@ -15505,7 +15505,7 @@ Dialogue: 4:57:00.76, 4:57:03.09, Default, {\c&HFFFFFF&}d_storm{\c&HFFFFFF&}: п
 Dialogue: 4:57:01.77, 4:57:04.05, Default, {\c&H0000FF&}Demonic_smile{\c&HFFFFFF&}: эта игра бесконечна
 Dialogue: 4:57:02.94, 4:57:05.31, Default, {\c&H0000FF&}VerN4221{\c&HFFFFFF&}: 52 невинных нонсаба падуи
 Dialogue: 4:57:03.43, 4:57:05.77, Default, {\c&HFFFFFF&}jenna_gluskin{\c&HFFFFFF&}: это буллинг чистой воды
-; Dialogue: 4:57:05.83, 4:57:08.73, Default, {\c&H507FFF&}manetera{\c&HFFFFFF&}: \NdogeDance BSUDance dogeDance BSUDance dogeDance BSUDance x⁣3
+Dialogue: 4:57:05.83, 4:57:08.73, Default, {\c&H507FFF&}manetera{\c&HFFFFFF&}: \NdogeDance BSUDance dogeDance BSUDance dogeDance BSUDance x⁣3
 Dialogue: 4:57:06.89, 4:57:09.37, Default, {\c&H7FFF00&}seriv21{\c&HFFFFFF&}: Как то не искренне ты это сказал
 Dialogue: 4:57:07.11, 4:57:10.13, Default, {\c&H0000FF&}andrey1303_DronikMT{\c&HFFFFFF&}: сегодня день кекса,а мы играем в игру \Nпро гавно WutFace CoolStoryBob
 Dialogue: 4:57:07.17, 4:57:09.81, Default, {\c&HFFFFFF&}dimonpokimon4ik{\c&HFFFFFF&}: BSUDance PepoDance TaBeRu dogeDance pepeJAM

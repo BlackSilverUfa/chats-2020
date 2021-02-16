@@ -2607,7 +2607,7 @@ Dialogue: 0:39:59.44, 0:40:01.65, Default, {\c&H20A5DA&}babyka{\c&HFFFFFF&}: о�
 Dialogue: 0:39:59.91, 0:40:02.10, Default, {\c&HFFFFFF&}kakoy1to1chelovek{\c&HFFFFFF&}: Лучше чем AAA
 Dialogue: 0:40:00.43, 0:40:02.47, Default, {\c&HFFFFFF&}aqkyn{\c&HFFFFFF&}: втф
 Dialogue: 0:40:00.71, 0:40:02.77, Default, {\c&H1DBE9B&}aire_19{\c&HFFFFFF&}: KEKW
-; Dialogue: 0:40:01.12, 0:40:04.42, Default, {\c&H7FFF00&}Dariya_Willis{\c&HFFFFFF&}: \NPepeLaugh SmokeTime PepeLaugh SmokeTime PepeLaugh SmokeTime \Nx⁣2 PepeLaugh SmokeTime x⁣2
+Dialogue: 0:40:01.12, 0:40:04.42, Default, {\c&H7FFF00&}Dariya_Willis{\c&HFFFFFF&}: \NPepeLaugh SmokeTime PepeLaugh SmokeTime PepeLaugh SmokeTime \Nx⁣2 PepeLaugh SmokeTime x⁣2
 Dialogue: 0:40:01.44, 0:40:03.54, Default, {\c&H0000FF&}Angry_arctic_fox{\c&HFFFFFF&}: LUL x⁣3
 ; Dialogue: 0:40:02.10, 0:40:06.62, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Играй до конца года бесплатно с GFN.RU или получи \Nскидку 10% на премиум по промокоду BLACKUFA и запускай игры \Nс топовой графикой без очередей: https://r.gfn.ru/blackufa
 Dialogue: 0:40:02.54, 0:40:04.72, Default, {\c&HB469FF&}Mors_klukvennyi{\c&HFFFFFF&}: Kreygasm x⁣3
@@ -6710,7 +6710,7 @@ Dialogue: 1:57:47.26, 1:57:49.83, Default, {\c&HFFFFFF&}VolkShmolk{\c&HFFFFFF&}:
 Dialogue: 1:57:49.15, 1:57:51.30, Default, {\c&HFFFFFF&}s1mplen1ck{\c&HFFFFFF&}: BSUStr x⁣3
 Dialogue: 1:57:49.98, 1:57:52.19, Default, {\c&H32CD9A&}Black__Waver{\c&HFFFFFF&}: бл ну и музыка
 Dialogue: 1:57:52.02, 1:57:54.27, Default, {\c&HA09E5F&}Woofchik{\c&HFFFFFF&}: Регина vs ящик ))
-; Dialogue: 1:57:52.68, 1:57:55.74, Default, {\c&H507FFF&}Ch4otic_G00d{\c&HFFFFFF&}: \NПоползень AYAYA Поползень AYAYA Поползень AYAYA x⁣2 \NПоползень AYAYA x⁣2
+Dialogue: 1:57:52.68, 1:57:55.74, Default, {\c&H507FFF&}Ch4otic_G00d{\c&HFFFFFF&}: \NПоползень AYAYA Поползень AYAYA Поползень AYAYA x⁣2 \NПоползень AYAYA x⁣2
 ; Dialogue: 1:57:56.75, 1:57:58.81, Default, {\c&H008000&}Paopipau{\c&HFFFFFF&}: !icq
 ; Dialogue: 1:57:57.38, 1:57:59.87, Default, {\c&H008000&}TheDrHaxBot{\c&HFFFFFF&}: @paopipau, у вас 45 ICQ dead5What
 Dialogue: 1:57:59.14, 1:58:01.29, Default, {\c&H578B2E&}drunk_narko142{\c&HFFFFFF&}: popCat x⁣8
@@ -7341,7 +7341,7 @@ Dialogue: 2:12:31.09, 2:12:33.36, Default, {\c&HFFFFFF&}igormart80{\c&HFFFFFF&}:
 Dialogue: 2:12:31.41, 2:12:33.56, Default, {\c&H7FFF00&}GFoEC{\c&HFFFFFF&}: BSUJam x⁣5
 Dialogue: 2:12:31.64, 2:12:34.22, Default, {\c&H507FFF&}Ch4otic_G00d{\c&HFFFFFF&}: И почему мне это напоминает первый МГС?
 Dialogue: 2:12:32.14, 2:12:34.35, Default, {\c&HE22B8A&}Rogue_Monro_{\c&HFFFFFF&}: KomodoHype x⁣4
-; Dialogue: 2:12:32.51, 2:12:35.63, Default, {\c&H0000FF&}Ilia_Knight{\c&HFFFFFF&}: \NzululDrums popCat zululDrums popCat zululDrums popCat x⁣3 \NzululDrums popCat
+Dialogue: 2:12:32.51, 2:12:35.63, Default, {\c&H0000FF&}Ilia_Knight{\c&HFFFFFF&}: \NzululDrums popCat zululDrums popCat zululDrums popCat x⁣3 \NzululDrums popCat
 Dialogue: 2:12:34.64, 2:12:36.85, Default, {\c&H32CD9A&}AlienoraPredatorova{\c&HFFFFFF&}: это что тиран?
 Dialogue: 2:12:34.93, 2:12:37.14, Default, {\c&H008000&}Evgeniy_O_{\c&HFFFFFF&}: меня укачивает
 Dialogue: 2:12:35.70, 2:12:37.88, Default, {\c&HA09E5F&}Justjojo0{\c&HFFFFFF&}: Тикай Регина
@@ -10060,7 +10060,7 @@ Dialogue: 3:35:15.11, 3:35:17.20, Default, {\c&H008000&}afkbymep{\c&HFFFFFF&}: p
 Dialogue: 3:35:15.16, 3:35:17.73, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}: @Arlis69 ты чиво наделал loliTriggered
 Dialogue: 3:35:16.33, 3:35:18.42, Default, {\c&H2222B4&}Likrit{\c&HFFFFFF&}: popCat
 Dialogue: 3:35:16.43, 3:35:18.98, Default, {\c&HFFFFFF&}kozohoshino{\c&HFFFFFF&}: popCat поползень popCat поползень x⁣3
-; Dialogue: 3:35:16.66, 3:35:19.78, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \Nпоползень popCat поползень popCat поползень popCat x⁣2 \Nпоползень popCat x⁣2
+Dialogue: 3:35:16.66, 3:35:19.78, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \Nпоползень popCat поползень popCat поползень popCat x⁣2 \Nпоползень popCat x⁣2
 Dialogue: 3:35:16.71, 3:35:18.92, Default, {\c&HFFFFFF&}soplichok{\c&HFFFFFF&}: какой молодец!
 Dialogue: 3:35:16.86, 3:35:18.95, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: popCat
 Dialogue: 3:35:16.88, 3:35:18.97, Default, {\c&HFFFFFF&}DmitriiZhukov{\c&HFFFFFF&}: popCat
@@ -17472,7 +17472,7 @@ Dialogue: 6:37:09.12, 6:37:11.66, Default, {\c&HFF0000&}StrimanSSSS{\c&HFFFFFF&}
 Dialogue: 6:37:09.21, 6:37:11.67, Default, {\c&HFF901E&}SpacePixelSnow{\c&HFFFFFF&}: Jammies peepoJAMMER x⁣2 Jammies
 Dialogue: 6:37:09.74, 6:37:11.92, Default, {\c&HFFFFFF&}BanalRas{\c&HFFFFFF&}: peepoMas x⁣3
 Dialogue: 6:37:11.58, 6:37:14.03, Default, {\c&HFFFFFF&}temnik99{\c&HFFFFFF&}: Реально придурок peepoMas x⁣10
-; Dialogue: 6:37:11.91, 6:37:14.82, Default, {\c&HFFFFFF&}NxKane56{\c&HFFFFFF&}: \NpeepoJAMMER NODDERS peepoJAMMER PepegaDriving peepoJAMMER \Nx⁣3
+Dialogue: 6:37:11.91, 6:37:14.82, Default, {\c&HFFFFFF&}NxKane56{\c&HFFFFFF&}: \NpeepoJAMMER NODDERS peepoJAMMER PepegaDriving peepoJAMMER \Nx⁣3
 Dialogue: 6:37:14.34, 6:37:17.01, Default, {\c&H0000FF&}YuraDaim{\c&HFFFFFF&}: peepoMas peepoJAMMER peepoMas peepoJAMMER x⁣3
 Dialogue: 6:37:15.16, 6:37:17.31, Default, {\c&HFF0000&}blackoren56{\c&HFFFFFF&}: TaBeRu x⁣6
 Dialogue: 6:37:17.23, 6:37:19.41, Default, {\c&HFFFFFF&}lolkekcheburek58888{\c&HFFFFFF&}: peepoMas x⁣9

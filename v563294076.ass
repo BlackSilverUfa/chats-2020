@@ -982,7 +982,7 @@ Dialogue: 0:18:25.17, 0:18:27.74, Default, {\c&HFFFFFF&}lambda696{\c&HFFFFFF&}: 
 Dialogue: 0:18:26.13, 0:18:28.23, Default, {\c&HE22B8A&}Ananassya{\c&HFFFFFF&}: CatoPog
 Dialogue: 0:18:26.20, 0:18:28.42, Default, {\c&HE22B8A&}glad1jok{\c&HFFFFFF&}: это фан трейлер
 Dialogue: 0:18:26.37, 0:18:28.55, Default, {\c&H1E69D2&}llPofu_23{\c&HFFFFFF&}: Kreygasm x⁣5
-Dialogue: 0:18:27.08, 0:18:29.29, Default, {\c&H7FFF00&}es85{\c&HFFFFFF&}: \ bufaLewd x⁣8
+; Dialogue: 0:18:27.08, 0:18:29.29, Default, {\c&H7FFF00&}es85{\c&HFFFFFF&}: \ bufaLewd x⁣8
 Dialogue: 0:18:27.44, 0:18:29.74, Default, {\c&HFFFFFF&}SSkam{\c&HFFFFFF&}: игра то не настоящая
 Dialogue: 0:18:28.37, 0:18:30.47, Default, {\c&HA09E5F&}Ludvig__from_Israel{\c&HFFFFFF&}: ВиАр?..
 Dialogue: 0:18:28.52, 0:18:30.70, Default, {\c&H7FFF00&}Jessika_Glitch{\c&HFFFFFF&}: bufaLove x⁣8
@@ -2951,7 +2951,7 @@ Dialogue: 0:39:24.14, 0:39:26.23, Default, {\c&H7FFF00&}Jessika_Glitch{\c&HFFFFF
 ; Dialogue: 0:39:24.20, 0:39:26.24, Default, {\c&H20A5DA&}Zleenker{\c&HFFFFFF&}: тик
 ; Dialogue: 0:39:25.49, 0:39:27.53, Default, {\c&HFF0000&}SibiroM{\c&HFFFFFF&}: бум
 ; Dialogue: 0:39:25.61, 0:39:27.65, Default, {\c&H578B2E&}dreadrolll{\c&HFFFFFF&}: бах
-Dialogue: 0:39:25.63, 0:39:27.67, Default, {\c&HFFFFFF&}SweatyRabbit007{\c&HFFFFFF&}: бух
+; Dialogue: 0:39:25.63, 0:39:27.67, Default, {\c&HFFFFFF&}SweatyRabbit007{\c&HFFFFFF&}: бух
 ; Dialogue: 0:39:25.64, 0:39:27.71, Default, {\c&H008000&}Greenbekas{\c&HFFFFFF&}: дзинь
 ; Dialogue: 0:39:25.76, 0:39:27.80, Default, {\c&H20A5DA&}Zleenker{\c&HFFFFFF&}: так
 ; Dialogue: 0:39:25.78, 0:39:27.82, Default, {\c&H3B19B3&}Hidrapony{\c&HFFFFFF&}: пиф
@@ -6199,7 +6199,7 @@ Dialogue: 1:09:54.55, 1:09:56.73, Default, {\c&H507FFF&}nikkiriru{\c&HFFFFFF&}: 
 ; Dialogue: 1:09:54.72, 1:09:56.81, Default, {\c&HE22B8A&}deargbleidd27{\c&HFFFFFF&}: notbad
 ; Dialogue: 1:09:54.87, 1:09:56.93, Default, {\c&HE22B8A&}Ur1ch_{\c&HFFFFFF&}: easy
 ; Dialogue: 1:09:55.01, 1:09:57.04, Default, {\c&H7FFF00&}alonerzn{\c&HFFFFFF&}: gg
-Dialogue: 1:09:55.02, 1:09:57.14, Default, {\c&HE22B8A&}Ardent_Warhammer{\c&HFFFFFF&}: \bufaLUL
+; Dialogue: 1:09:55.02, 1:09:57.14, Default, {\c&HE22B8A&}Ardent_Warhammer{\c&HFFFFFF&}: \bufaLUL
 ; Dialogue: 1:09:55.02, 1:09:57.05, Default, {\c&H0000FF&}Hotamy{\c&HFFFFFF&}: gg
 ; Dialogue: 1:09:55.03, 1:09:57.06, Default, {\c&H2222B2&}ilnurets_116{\c&HFFFFFF&}: gg
 ; Dialogue: 1:09:55.06, 1:09:57.12, Default, {\c&H7FFF00&}sky_arhangel{\c&HFFFFFF&}: cool
@@ -7941,7 +7941,7 @@ Dialogue: 1:30:21.54, 1:30:24.63, Default, {\c&HFFFFFF&}bikloganakira{\c&HFFFFFF
 ; Dialogue: 1:30:25.88, 1:30:27.94, Default, {\c&HFFFFFF&}yaritez{\c&HFFFFFF&}: surv
 Dialogue: 1:30:27.16, 1:30:29.28, Default, {\c&HE22B8A&}hokage_naruto{\c&HFFFFFF&}: Это босс
 Dialogue: 1:30:28.89, 1:30:31.05, Default, {\c&HE22B8A&}Ligein{\c&HFFFFFF&}: хаххахахаха
-Dialogue: 1:30:29.36, 1:30:31.37, Default, {\c&HFFFFFF&}Voolna{\c&HFFFFFF&}: \
+; Dialogue: 1:30:29.36, 1:30:31.37, Default, {\c&HFFFFFF&}Voolna{\c&HFFFFFF&}: \
 Dialogue: 1:30:29.51, 1:30:32.54, Default, {\c&HFFFFFF&}ednakh{\c&HFFFFFF&}: курица в морозилке почти оттаяла KappaPride \NCoolStoryBob CoolStoryBob
 Dialogue: 1:30:29.74, 1:30:32.07, Default, {\c&H020269&}Omenosa{\c&HFFFFFF&}: он всем так говорит=))
 Dialogue: 1:30:30.88, 1:30:32.91, Default, {\c&HFFFFFF&}Sneaky_Lemming{\c&HFFFFFF&}: да
@@ -14758,7 +14758,7 @@ Dialogue: 4:16:33.01, 4:16:35.41, Default, {\c&H2222B2&}PersonallDemon{\c&HFFFFF
 Dialogue: 4:16:34.86, 4:16:37.02, Default, {\c&H7FFF00&}KreiweR{\c&HFFFFFF&}: bufaSubHype
 Dialogue: 4:16:36.73, 4:16:39.67, Default, {\c&HA09E5F&}Severnaya_Utka{\c&HFFFFFF&}: @anna_malkova Cпасибо за гифты \NbufaLove LuvBlondeL x⁣2 bufaLove
 Dialogue: 4:16:38.05, 4:16:40.71, Default, {\c&HFFFFFF&}lemon_kulibyaki{\c&HFFFFFF&}: возможность срезать этой игре не помешала \Nбы
-Dialogue: 4:16:42.28, 4:16:44.43, Default, {\c&H0045FF&}ZeeWanderer_{\c&HFFFFFF&}: \/esc test
+; Dialogue: 4:16:42.28, 4:16:44.43, Default, {\c&H0045FF&}ZeeWanderer_{\c&HFFFFFF&}: \/esc test
 Dialogue: 4:16:42.60, 4:16:44.99, Default, {\c&HED0980&}m__slava{\c&HFFFFFF&}: @vampirelili_ bufaLove x⁣5
 Dialogue: 4:16:43.15, 4:16:45.49, Default, {\c&H7FFF00&}LevRight{\c&HFFFFFF&}: @narkoman07, 5 далларов
 Dialogue: 4:16:43.73, 4:16:45.80, Default, {\c&HA09E5F&}Ludvig__from_Israel{\c&HFFFFFF&}: сфера

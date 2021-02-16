@@ -2409,7 +2409,7 @@ Dialogue: 0:32:28.94, 0:32:31.49, Default, {\c&HFFFFFF&}leviysosock{\c&HFFFFFF&}
 Dialogue: 0:32:29.23, 0:32:31.51, Default, {\c&HE22B8A&}Virgozavr{\c&HFFFFFF&}: крылатой торпееедой
 Dialogue: 0:32:30.47, 0:32:32.65, Default, {\c&H7FFF00&}brod_9ga{\c&HFFFFFF&}: BSUDance x⁣9
 Dialogue: 0:32:31.63, 0:32:34.06, Default, {\c&HFFFFFF&}zigfried_lucifer{\c&HFFFFFF&}: Чеканной Монетой !! ОООООУУУУ
-Dialogue: 0:32:31.68, 0:32:33.81, Default, {\c&HFFFFFF&}andrew_s89{\c&HFFFFFF&}: \ LUL x⁣6
+; Dialogue: 0:32:31.68, 0:32:33.81, Default, {\c&HFFFFFF&}andrew_s89{\c&HFFFFFF&}: \ LUL x⁣6
 Dialogue: 0:32:31.75, 0:32:34.02, Default, {\c&H7FFF00&}gjimmi01{\c&HFFFFFF&}: Чеканной монетооой
 Dialogue: 0:32:33.81, 0:32:36.53, Default, {\c&H0000FF&}Aleks_Lightning{\c&HFFFFFF&}: Беру игру тупо из -за красивых мужиков \N@BlackUFA
 Dialogue: 0:32:33.93, 0:32:36.32, Default, {\c&HFFFFFF&}crystal_bat{\c&HFFFFFF&}: А где тощая стремная рожа?
@@ -4721,7 +4721,7 @@ Dialogue: 0:56:16.16, 0:56:18.17, Default, {\c&HFFFFFF&}mefazim{\c&HFFFFFF&}: 2
 Dialogue: 0:56:16.43, 0:56:18.44, Default, {\c&HFFFFFF&}ERGY_13{\c&HFFFFFF&}: 2
 Dialogue: 0:56:16.51, 0:56:18.82, Default, {\c&HFF901E&}GraciSL{\c&HFFFFFF&}: ЧАТ ПО ЭКРАНУ КЛАЦАТЬ
 Dialogue: 0:56:17.02, 0:56:19.03, Default, {\c&HFFFFFF&}maadalex{\c&HFFFFFF&}: 2
-Dialogue: 0:56:17.20, 0:56:19.21, Default, {\c&HFF901E&}GraciSL{\c&HFFFFFF&}: \
+; Dialogue: 0:56:17.20, 0:56:19.21, Default, {\c&HFF901E&}GraciSL{\c&HFFFFFF&}: \
 Dialogue: 0:56:17.24, 0:56:19.45, Default, {\c&H0000FF&}Greyfox55{\c&HFFFFFF&}: Да не в чат же
 Dialogue: 0:56:17.28, 0:56:19.29, Default, {\c&HFFFFFF&}mariruka{\c&HFFFFFF&}: 2
 Dialogue: 0:56:17.31, 0:56:19.32, Default, {\c&HFF0000&}leizer28{\c&HFFFFFF&}: 2
@@ -6405,7 +6405,7 @@ Dialogue: 1:11:11.04, 1:11:13.07, Default, {\c&H0045FF&}just_ex1le{\c&HFFFFFF&}:
 Dialogue: 1:11:11.95, 1:11:14.56, Default, {\c&HFFFFFF&}tvoyvlastelin{\c&HFFFFFF&}: Тупой чат не понимает что НЕ нужно писать
 Dialogue: 1:11:12.04, 1:11:14.31, Default, {\c&HB469FF&}CakeLieLife{\c&HFFFFFF&}: Попкоп Плут BSUHey
 ; Dialogue: 1:11:12.44, 1:11:14.53, Default, {\c&H008000&}bobrisha1012{\c&HFFFFFF&}: !drops
-Dialogue: 1:11:12.73, 1:11:14.82, Default, {\c&H20A5DA&}babyka{\c&HFFFFFF&}: \drops
+; Dialogue: 1:11:12.73, 1:11:14.82, Default, {\c&H20A5DA&}babyka{\c&HFFFFFF&}: \drops
 ; Dialogue: 1:11:13.09, 1:11:15.18, Default, {\c&HFFFFFF&}isomir{\c&HFFFFFF&}: !drops
 ; Dialogue: 1:11:13.48, 1:11:15.57, Default, {\c&HE22B8A&}Y_Cuberus_Y{\c&HFFFFFF&}: !drops
 Dialogue: 1:11:13.59, 1:11:15.63, Default, {\c&HFFFFFF&}assassin4i4ek{\c&HFFFFFF&}: LUL

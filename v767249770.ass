@@ -1146,7 +1146,7 @@ Dialogue: 0:12:08.03, 0:12:10.19, Default, {\c&HFFFFFF&}cozyda{\c&HFFFFFF&}: п�
 Dialogue: 0:12:08.15, 0:12:10.25, Default, {\c&HFFFFFF&}insiberia_7{\c&HFFFFFF&}: ну алло
 Dialogue: 0:12:08.19, 0:12:10.37, Default, {\c&HFFFFFF&}drtgio{\c&HFFFFFF&}: phosmophobia
 Dialogue: 0:12:08.45, 0:12:11.50, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}: @mental_massacre @Angry_arctic_fox здравствуйте \Nпупсики bufaLove pepeL
-Dialogue: 0:12:08.61, 0:12:10.65, Default, {\c&HFF0000&}jugnes{\c&HFFFFFF&}: \o/
+; Dialogue: 0:12:08.61, 0:12:10.65, Default, {\c&HFF0000&}jugnes{\c&HFFFFFF&}: \o/
 Dialogue: 0:12:08.99, 0:12:11.14, Default, {\c&H7FFF00&}Vadym_tank{\c&HFFFFFF&}: afcvjaj,bz
 Dialogue: 0:12:10.45, 0:12:12.63, Default, {\c&HFFFFFF&}milience{\c&HFFFFFF&}: Фасмофобия))
 Dialogue: 0:12:10.48, 0:12:12.67, Default, {\c&H0000FF&}NoRFoLk_RF{\c&HFFFFFF&}: Порнофобия же
@@ -8286,7 +8286,7 @@ Dialogue: 1:51:20.41, 1:51:22.83, Default, {\c&HFFFFFF&}NaitRat{\c&HFFFFFF&}: А
 Dialogue: 1:51:20.97, 1:51:23.12, Default, {\c&H507FFF&}Zhulyk_ne_Vorui{\c&HFFFFFF&}: Планер дай
 Dialogue: 1:51:21.06, 1:51:23.12, Default, {\c&H20A5DA&}Rogue_Monro{\c&HFFFFFF&}: KEKW
 Dialogue: 1:51:22.05, 1:51:24.18, Default, {\c&H0045FF&}staffons{\c&HFFFFFF&}: игра топ)
-Dialogue: 1:51:22.57, 1:51:24.87, Default, {\c&HFFFFFF&}Endeverik{\c&HFFFFFF&}: \ MrDestructoid / ХЭ
+; Dialogue: 1:51:22.57, 1:51:24.87, Default, {\c&HFFFFFF&}Endeverik{\c&HFFFFFF&}: \ MrDestructoid / ХЭ
 Dialogue: 1:51:22.80, 1:51:24.95, Default, {\c&HFFFFFF&}NaitRat{\c&HFFFFFF&}: из паутины
 Dialogue: 1:51:23.22, 1:51:25.32, Default, {\c&H008000&}afkbymep{\c&HFFFFFF&}: LUL x⁣5
 Dialogue: 1:51:24.50, 1:51:26.54, Default, {\c&H0000FF&}VerN4221{\c&HFFFFFF&}: LUL
@@ -8318,7 +8318,7 @@ Dialogue: 1:51:45.40, 1:51:47.67, Default, {\c&H7FFF00&}BlackUs_Kikimora{\c&HFFF
 Dialogue: 1:51:45.76, 1:51:47.85, Default, {\c&HFFFFFF&}darclasban{\c&HFFFFFF&}: Sparta
 Dialogue: 1:51:49.39, 1:51:51.52, Default, {\c&HE22B8A&}TheDrHax{\c&HFFFFFF&}: dead5What
 Dialogue: 1:51:49.71, 1:51:51.87, Default, {\c&HED0980&}m__slava{\c&HFFFFFF&}: bufaLUL x⁣3
-Dialogue: 1:51:50.60, 1:51:52.73, Default, {\c&HFFFFFF&}EinarS{\c&HFFFFFF&}: \ SMOrc /
+; Dialogue: 1:51:50.60, 1:51:52.73, Default, {\c&HFFFFFF&}EinarS{\c&HFFFFFF&}: \ SMOrc /
 Dialogue: 1:51:51.84, 1:51:53.94, Default, {\c&HFFFFFF&}Saundveyve{\c&HFFFFFF&}: LUL x⁣3
 Dialogue: 1:51:54.04, 1:51:56.19, Default, {\c&HFF901E&}DippusDipri{\c&HFFFFFF&}: растрэлат!
 Dialogue: 1:51:57.60, 1:52:00.20, Default, {\c&H0045FF&}Lopper_Petro{\c&HFFFFFF&}: Ну это Игра года в 2021 будет инфа сотка
@@ -8427,7 +8427,7 @@ Dialogue: 1:53:51.81, 1:53:54.08, Default, {\c&H20A5DA&}Rogue_Monro{\c&HFFFFFF&}
 Dialogue: 1:53:51.90, 1:53:53.91, Default, {\c&H0000FF&}GrafPolskii{\c&HFFFFFF&}: +
 Dialogue: 1:53:52.38, 1:53:55.01, Default, {\c&H008000&}DrakulaNaich{\c&HFFFFFF&}: там слева, откуда мы скатились кто-то есть
 Dialogue: 1:53:55.67, 1:53:57.82, Default, {\c&H008000&}afkbymep{\c&HFFFFFF&}: прикольная
-Dialogue: 1:53:57.67, 1:53:59.85, Default, {\c&HFFFFFF&}Gabriellena{\c&HFFFFFF&}: \ SwiftRage/
+; Dialogue: 1:53:57.67, 1:53:59.85, Default, {\c&HFFFFFF&}Gabriellena{\c&HFFFFFF&}: \ SwiftRage/
 Dialogue: 1:54:00.02, 1:54:02.17, Default, {\c&HFF901E&}PhantomRU{\c&HFFFFFF&}: навэээээрх
 Dialogue: 1:54:05.38, 1:54:07.90, Default, {\c&HFFFFFF&}aclomik{\c&HFFFFFF&}: пауки от марвел не нужны? @BlackUFA
 Dialogue: 1:54:08.68, 1:54:10.89, Default, {\c&HFFFFFF&}Vagator{\c&HFFFFFF&}: Это Heave ho 2
@@ -8447,7 +8447,7 @@ Dialogue: 1:54:24.43, 1:54:26.65, Default, {\c&HE22B8A&}FalconPlay_{\c&HFFFFFF&}
 Dialogue: 1:54:31.08, 1:54:33.44, Default, {\c&HFFFFFF&}Van_Serfer{\c&HFFFFFF&}: Хай - это лапками вверх?
 Dialogue: 1:54:32.98, 1:54:35.67, Default, {\c&H7FFF00&}gallagher1113{\c&HFFFFFF&}: Почему Артуру так идут такие ламповые \Nигрули?)
 Dialogue: 1:54:33.32, 1:54:35.83, Default, {\c&HFFFFFF&}scafandrskirpichami{\c&HFFFFFF&}: кому можно было ты их съел LUL LUL
-Dialogue: 1:54:35.11, 1:54:37.30, Default, {\c&HFFFFFF&}Gabriellena{\c&HFFFFFF&}: \ SwiftRage /
+; Dialogue: 1:54:35.11, 1:54:37.30, Default, {\c&HFFFFFF&}Gabriellena{\c&HFFFFFF&}: \ SwiftRage /
 Dialogue: 1:54:35.53, 1:54:38.50, Default, {\c&HFFFFFF&}ubuntu_kubuntu_edubuntu{\c&HFFFFFF&}: паучок в игре - это паук-скакун. \NНагуглите, если паучок нрица UwU
 ; Dialogue: 1:54:37.16, 1:54:39.23, Default, {\c&H20A5DA&}Gidof{\c&HFFFFFF&}: !game
 ; Dialogue: 1:54:37.44, 1:54:39.96, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Сейчас Артур играет в Games + Demos

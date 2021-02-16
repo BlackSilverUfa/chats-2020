@@ -2572,7 +2572,7 @@ Dialogue: 0:38:56.26, 0:38:58.36, Default, {\c&H7FFF00&}totalkomander{\c&HFFFFFF
 Dialogue: 0:38:56.31, 0:38:58.44, Default, {\c&H0000FF&}Teschsa{\c&HFFFFFF&}: gachiBASS
 Dialogue: 0:38:56.75, 0:38:59.05, Default, {\c&H0045FF&}fokus_77{\c&HFFFFFF&}: музыка первой мафии?
 Dialogue: 0:38:56.76, 0:38:59.76, Default, {\c&HFF0000&}drain_isooka{\c&HFFFFFF&}: @BlackUFA там качество анимации было как в \Nдетях против волшебников
-; Dialogue: 0:38:57.20, 0:39:00.01, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \Nпоползень popCat поползень popCat поползень popCat x⁣3
+Dialogue: 0:38:57.20, 0:39:00.01, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \Nпоползень popCat поползень popCat поползень popCat x⁣3
 Dialogue: 0:38:57.32, 0:38:59.50, Default, {\c&H0000FF&}NEXUS_lll{\c&HFFFFFF&}: RPGAyaya x⁣3
 Dialogue: 0:38:57.62, 0:38:59.71, Default, {\c&H0045FF&}Snezhulka{\c&HFFFFFF&}: MmmHmm
 Dialogue: 0:38:57.83, 0:39:00.02, Default, {\c&HFFFFFF&}s1mplen1ck{\c&HFFFFFF&}: bufaAYAYA x⁣5
@@ -2655,7 +2655,7 @@ Dialogue: 0:39:13.26, 0:39:15.47, Default, {\c&HFFFFFF&}ezhakus{\c&HFFFFFF&}: и
 Dialogue: 0:39:13.61, 0:39:15.83, Default, {\c&HFFFFFF&}Wilbegood{\c&HFFFFFF&}: bufaEvil_SA x⁣6
 Dialogue: 0:39:13.76, 0:39:15.89, Default, {\c&H32CD9A&}silent_chills{\c&HFFFFFF&}: AYAYA x⁣4
 Dialogue: 0:39:13.92, 0:39:16.10, Default, {\c&HFF0000&}Fantazyero{\c&HFFFFFF&}: BSUDance x⁣6
-; Dialogue: 0:39:14.13, 0:39:17.19, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \Nпоползень popCat поползень popCat поползень popCat x⁣3 \Nпоползень popCat
+Dialogue: 0:39:14.13, 0:39:17.19, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: \Nпоползень popCat поползень popCat поползень popCat x⁣3 \Nпоползень popCat
 Dialogue: 0:39:14.45, 0:39:16.57, Default, {\c&H32CD9A&}FeelsEvgesha{\c&HFFFFFF&}: идеально
 Dialogue: 0:39:15.18, 0:39:17.45, Default, {\c&HFFFFFF&}matbat321111{\c&HFFFFFF&}: Пафос так и прёт!!
 Dialogue: 0:39:15.47, 0:39:17.72, Default, {\c&H32CD9A&}pumm_pumm{\c&HFFFFFF&}: Обожи Kappa Kappa
@@ -2730,7 +2730,7 @@ Dialogue: 0:39:31.48, 0:39:33.67, Default, {\c&H0000FF&}maikeru_stranger{\c&HFFF
 Dialogue: 0:39:32.17, 0:39:34.30, Default, {\c&HFFFFFF&}thomaSES{\c&HFFFFFF&}: О Боже...
 Dialogue: 0:39:32.68, 0:39:34.77, Default, {\c&HE22B8A&}Kefir_D_{\c&HFFFFFF&}: popCat
 Dialogue: 0:39:32.69, 0:39:34.94, Default, {\c&HE22B8A&}wasd25{\c&HFFFFFF&}: А рил же подходит
-; Dialogue: 0:39:33.00, 0:39:35.81, Default, {\c&H0045FF&}JAcka1Op3z{\c&HFFFFFF&}: \Nпоползень popCat поползень popCat поползень popCat x⁣3
+Dialogue: 0:39:33.00, 0:39:35.81, Default, {\c&H0045FF&}JAcka1Op3z{\c&HFFFFFF&}: \Nпоползень popCat поползень popCat поползень popCat x⁣3
 Dialogue: 0:39:33.03, 0:39:35.39, Default, {\c&HA09E5F&}hazemaze__{\c&HFFFFFF&}: всё встало на свои места
 Dialogue: 0:39:33.19, 0:39:35.35, Default, {\c&H0045FF&}DiGeR_7{\c&HFFFFFF&}: LUL FBCatch
 Dialogue: 0:39:33.72, 0:39:36.33, Default, {\c&HFFFFFF&}arawils{\c&HFFFFFF&}: @BlackUFA Эта песня на все хорошо ложится
@@ -6149,7 +6149,7 @@ Dialogue: 1:26:38.86, 1:26:40.92, Default, {\c&H008000&}SilentHillClub{\c&HFFFFF
 Dialogue: 1:26:39.44, 1:26:41.78, Default, {\c&HB469FF&}TR0Yz{\c&HFFFFFF&}: но это не аниме, это 3д
 Dialogue: 1:26:39.46, 1:26:41.59, Default, {\c&HFF0000&}korolevamaw{\c&HFFFFFF&}: 3D зачем?
 Dialogue: 1:26:39.47, 1:26:41.90, Default, {\c&H578B2E&}Tony_Tron{\c&HFFFFFF&}: Сказания Средиземья @BlackUFA
-; Dialogue: 1:26:40.03, 1:26:42.84, Default, {\c&H0045FF&}JAcka1Op3z{\c&HFFFFFF&}: \Nпоползень popCat поползень popCat поползень popCat x⁣3
+Dialogue: 1:26:40.03, 1:26:42.84, Default, {\c&H0045FF&}JAcka1Op3z{\c&HFFFFFF&}: \Nпоползень popCat поползень popCat поползень popCat x⁣3
 Dialogue: 1:26:40.07, 1:26:42.14, Default, {\c&H507FFF&}ckBoH4_c137{\c&HFFFFFF&}: AYAYA
 Dialogue: 1:26:40.74, 1:26:43.23, Default, {\c&HFF901E&}waaldamar{\c&HFFFFFF&}: Это не второй и не третий, кстати
 Dialogue: 1:26:40.89, 1:26:43.02, Default, {\c&HFFFFFF&}grimfire505{\c&HFFFFFF&}: Усыновили
@@ -14946,7 +14946,7 @@ Dialogue: 4:10:38.26, 4:10:40.66, Default, {\c&HE22B8A&}Rogue_Monro_{\c&HFFFFFF&
 Dialogue: 4:10:41.10, 4:10:43.29, Default, {\c&H7FFF00&}MADneSSa1vaRoz{\c&HFFFFFF&}: мое уважение!
 Dialogue: 4:10:43.59, 4:10:46.19, Default, {\c&HB469FF&}sashutoshnit{\c&HFFFFFF&}: пусть лысого убьют и мы заберем его юбку
 Dialogue: 4:10:44.51, 4:10:46.66, Default, {\c&HB469FF&}Airwaterfireearth{\c&HFFFFFF&}: BSUTrolled
-; Dialogue: 4:10:45.05, 4:10:48.17, Default, {\c&H0045FF&}mr8bitPotato{\c&HFFFFFF&}: \NpeepoMas dankies peepoMas dankies peepoMas dankies x⁣2 \NpeepoMas dankies x⁣2
+Dialogue: 4:10:45.05, 4:10:48.17, Default, {\c&H0045FF&}mr8bitPotato{\c&HFFFFFF&}: \NpeepoMas dankies peepoMas dankies peepoMas dankies x⁣2 \NpeepoMas dankies x⁣2
 Dialogue: 4:10:45.89, 4:10:47.96, Default, {\c&HFFFFFF&}devoidofpain{\c&HFFFFFF&}: устал
 Dialogue: 4:10:46.20, 4:10:48.54, Default, {\c&H008000&}Lwinterboyl{\c&HFFFFFF&}: @grumbler_htg спокойной
 Dialogue: 4:10:46.30, 4:10:48.40, Default, {\c&H20A5DA&}Solbert{\c&HFFFFFF&}: но лень
@@ -18250,7 +18250,7 @@ Dialogue: 5:29:14.94, 5:29:17.55, Default, {\c&H20A5DA&}Sir_Leonid1199{\c&HFFFFF
 Dialogue: 5:29:15.12, 5:29:17.31, Default, {\c&HFFFFFF&}ikuzart{\c&HFFFFFF&}: SeemsGood x⁣3
 Dialogue: 5:29:16.42, 5:29:18.55, Default, {\c&HFFFFFF&}orrlik{\c&HFFFFFF&}: SeemsGood
 Dialogue: 5:29:16.76, 5:29:19.76, Default, {\c&HFF901E&}GraciSL{\c&HFFFFFF&}: CatEyes PETTHEAPTEEPO BSUWasted CatEyes PETTHEAPTEE\NPO BSUWasted x⁣3
-; Dialogue: 5:29:16.96, 5:29:20.17, Default, {\c&H0000FF&}Mental_Massacre{\c&HFFFFFF&}: \NdogeDance peepoMas MmmHmm dogeDance peepoMas MmmHmm x⁣2 \NdogeDance peepoMas MmmHmm
+Dialogue: 5:29:16.96, 5:29:20.17, Default, {\c&H0000FF&}Mental_Massacre{\c&HFFFFFF&}: \NdogeDance peepoMas MmmHmm dogeDance peepoMas MmmHmm x⁣2 \NdogeDance peepoMas MmmHmm
 Dialogue: 5:29:17.08, 5:29:19.23, Default, {\c&H20A5DA&}Sir_Leonid1199{\c&HFFFFFF&}: MmmHmm x⁣8
 Dialogue: 5:29:18.09, 5:29:20.82, Default, {\c&HFF0000&}mr_nonsab{\c&HFFFFFF&}: Squid1 Squid2 x⁣3 TheIlluminati Squid2 x⁣3 Squid4
 Dialogue: 5:29:18.90, 5:29:21.05, Default, {\c&HFFFFFF&}k0mnatniy{\c&HFFFFFF&}: leyHmm x⁣3
@@ -20157,7 +20157,7 @@ Dialogue: 6:22:09.75, 6:22:12.09, Default, {\c&HFFFFFF&}vladiskor_tw{\c&HFFFFFF&
 Dialogue: 6:22:10.38, 6:22:12.60, Default, {\c&HFFFFFF&}niko_gametv{\c&HFFFFFF&}: bleedPurple x⁣6
 Dialogue: 6:22:10.56, 6:22:12.96, Default, {\c&HE22B8A&}Rogue_Monro_{\c&HFFFFFF&}: @natsu2dragnil FeelsLoveMan
 Dialogue: 6:22:11.12, 6:22:13.21, Default, {\c&HFF901E&}wargur1{\c&HFFFFFF&}: <3 x⁣5
-; Dialogue: 6:22:11.17, 6:22:14.47, Default, {\c&HFF0000&}mr_nonsab{\c&HFFFFFF&}: \NSquid1 TheIlluminati Squid4 Squid1 TheIlluminati Squid4 x⁣2 \NSquid1 TheIlluminati Squid4
+Dialogue: 6:22:11.17, 6:22:14.47, Default, {\c&HFF0000&}mr_nonsab{\c&HFFFFFF&}: \NSquid1 TheIlluminati Squid4 Squid1 TheIlluminati Squid4 x⁣2 \NSquid1 TheIlluminati Squid4
 Dialogue: 6:22:11.31, 6:22:13.67, Default, {\c&H507FFF&}dez2be{\c&HFFFFFF&}: Спасибо за стрим! <3 x⁣3
 Dialogue: 6:22:13.75, 6:22:15.78, Default, {\c&HFFFFFF&}Rossia2828{\c&HFFFFFF&}: сп
 Dialogue: 6:22:13.94, 6:22:16.52, Default, {\c&HFF901E&}SpacePixelSnow{\c&HFFFFFF&}: peepoLoveXmas Jammies x⁣2 peepoLoveXmas
@@ -20298,7 +20298,7 @@ Dialogue: 6:23:47.40, 6:23:49.64, Default, {\c&HFFFFFF&}s1mplen1ck{\c&HFFFFFF&}:
 ; Dialogue: 6:23:49.56, 6:23:52.08, Default, {\c&H008000&}TheDrHaxBot{\c&HFFFFFF&}: @moyboss008, у вас 81 ICQ PepoThink
 Dialogue: 6:23:52.42, 6:23:54.87, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}: @TheDrHax слишком хорош KeanuR
 Dialogue: 6:23:52.83, 6:23:54.98, Default, {\c&HB469FF&}미술집_구월{\c&HFFFFFF&}: MmmHmm x⁣3
-; Dialogue: 6:23:53.54, 6:23:56.84, Default, {\c&HFFFFFF&}Marrrtha{\c&HFFFFFF&}: \NmonkaSTEER peepoMas monkaSTEER peepoMas monkaSTEER peepoMas \Nx⁣2 monkaSTEER peepoMas x⁣2
+Dialogue: 6:23:53.54, 6:23:56.84, Default, {\c&HFFFFFF&}Marrrtha{\c&HFFFFFF&}: \NmonkaSTEER peepoMas monkaSTEER peepoMas monkaSTEER peepoMas \Nx⁣2 monkaSTEER peepoMas x⁣2
 ; Dialogue: 6:23:53.70, 6:23:56.28, Default, {\c&H7FFF00&}dark_eastwood{\c&HFFFFFF&}: !шар мне подарят фотки Памелы Андерсон?
 ; Dialogue: 6:23:53.97, 6:23:56.52, Default, {\c&H008000&}TheDrHaxBot{\c&HFFFFFF&}: @dark_eastwood, шансы не очень BSUHee
 Dialogue: 6:23:54.19, 6:23:56.37, Default, {\c&HFFFFFF&}acidzhelud{\c&HFFFFFF&}: HahaHide x⁣3
